@@ -2,7 +2,7 @@
   We developed a novel deep-learning model for postprocessing the precipitation numerical forecasting called Spatiotemporal Scale Adaptive Selection.
 
 ![image](./docs/framework.png)
-[[Paper](https://xxx.org/pdf/xx.xxx.pdf)]
+[[Paper](https://xxx.org/pdf/xxx.pdf)]
 [[HR-ECMWF](https://xxx.github.io/xxx/)]
 [[ERA5](https://xxx.github.io/xxx/)]
 
@@ -47,3 +47,8 @@ python -m torch.distributed.launch --nproc_per_node=x --master_port=88889 main.p
 
 16: xx
 
+## Citation
+
+```bibtex
+xxx
+```
