@@ -22,16 +22,28 @@ python -m torch.distributed.launch --nproc_per_node=x --master_port=88889 main.p
 3: OBA
 
 4: FPN
+
 5: CNN
+
 6: LSTM (ConvLSTM)
+
 7: MLR
+
 8: LR
+
 9: SVR
+
 10: RF
+
 11: Bayesian
+
 12: IFS
+
 13: TPN
+
 14: T-GCN
+
 15: DA-RNN
-16: 
+
+16: xx
 
