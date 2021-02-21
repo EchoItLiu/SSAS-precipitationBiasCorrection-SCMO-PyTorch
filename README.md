@@ -12,11 +12,15 @@
 python -m torch.distributed.launch --nproc_per_node=x --master_port=88889 main.py -d <GPU ID> -m <SNM ID> -c ./config/SHO.yaml
 ```
 
-## Serial Number of all modles
+## Serial Number of all modeLs
 0: SSAS
+
 1: SAS (ablation)
+
 2: STS (ablation)
+
 3: OBA
+
 4: FPN
 5: CNN
 6: LSTM (ConvLSTM)
