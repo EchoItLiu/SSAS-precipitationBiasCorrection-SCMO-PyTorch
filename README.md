@@ -1,4 +1,8 @@
-# SSAS-precipitationBiasCorrection-SCMO-PyTorch
+# SSAS: Spatiotemporal Scale Adaptive Selection for Improving Bias Correction on Precipitation
 We developed a novel deep-learning model for postprocessing the precipitation numerical forecasting called Spatiotemporal Scale Adaptive Selection.
 
-The open source of our SSAS will be uploaded successively and corresponding datasets (including the intermediate files) will be public. (Ranging from Jan 1st to Jan 22th, 2021)
+![image](./docs/framework.pdf)
+[[Paper](https://xxx.org/pdf/xx.xxx.pdf)]
+[[HR-ECMWF](https://xxx.github.io/xxx/)]
+[[ERA5](https://xxx.github.io/xxx/)]
+
