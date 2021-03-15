@@ -4,7 +4,7 @@ from apex.parallel import SyncBatchNorm
 import numpy as np
 from torch.nn import functional as F
 
-"""------- flat according to every channel -------"""
+"""------- flat according to channel -------"""
 class Flatten(nn.Module):
     def __init__(self):
         super(Flatten, self).__init__()
