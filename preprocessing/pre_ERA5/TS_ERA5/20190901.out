@@ -1,0 +1,3174 @@
+nohup: ignoring input
+........ec grib reading start........
+curr_date: 2019-09-01 00:00:00
+curr_date: 2019-09-01 03:00:00
+curr_date: 2019-09-01 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-01 09:00:00
+curr_date: 2019-09-01 12:00:00
+prep_class_3: [76431:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909010600, 76433:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909010600, 76439:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909010600]
+prep_class_4: []
+ec_grib_cost_time: 0.2920069694519043
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03853607177734375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02932429313659668
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03690171241760254
+........ec grib reading start........
+curr_date: 2019-09-01 09:00:00
+curr_date: 2019-09-01 12:00:00
+curr_date: 2019-09-01 15:00:00
+curr_date: 2019-09-01 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-01 21:00:00
+prep_class_3: []
+prep_class_4: [76611:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909011800, 76613:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909011800, 76619:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909011800]
+ec_grib_cost_time: 0.12641024589538574
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0299527645111084
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03721761703491211
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03023505210876465
+........ec grib reading start........
+curr_date: 2019-09-02 00:00:00
+curr_date: 2019-09-02 03:00:00
+curr_date: 2019-09-02 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-02 09:00:00
+curr_date: 2019-09-02 12:00:00
+prep_class_3: [76791:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909020600, 76793:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909020600, 76799:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909020600]
+prep_class_4: []
+ec_grib_cost_time: 0.1329355239868164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05710625648498535
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04433584213256836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05612325668334961
+........ec grib reading start........
+curr_date: 2019-09-02 09:00:00
+curr_date: 2019-09-02 12:00:00
+curr_date: 2019-09-02 15:00:00
+curr_date: 2019-09-02 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-02 21:00:00
+prep_class_3: []
+prep_class_4: [76971:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909021800, 76973:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909021800, 76979:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909021800]
+ec_grib_cost_time: 0.260145902633667
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029958486557006836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0373690128326416
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029613494873046875
+........ec grib reading start........
+curr_date: 2019-09-03 00:00:00
+curr_date: 2019-09-03 03:00:00
+curr_date: 2019-09-03 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-03 09:00:00
+curr_date: 2019-09-03 12:00:00
+prep_class_3: [77151:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909030600, 77153:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909030600, 77159:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909030600]
+prep_class_4: []
+ec_grib_cost_time: 0.12724709510803223
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03763985633850098
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029877901077270508
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03750276565551758
+........ec grib reading start........
+curr_date: 2019-09-03 09:00:00
+curr_date: 2019-09-03 12:00:00
+curr_date: 2019-09-03 15:00:00
+curr_date: 2019-09-03 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-03 21:00:00
+prep_class_3: []
+prep_class_4: [77331:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909031800, 77333:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909031800, 77339:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909031800]
+ec_grib_cost_time: 0.17629694938659668
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030446290969848633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05336427688598633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04470181465148926
+........ec grib reading start........
+curr_date: 2019-09-04 00:00:00
+curr_date: 2019-09-04 03:00:00
+curr_date: 2019-09-04 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-04 09:00:00
+curr_date: 2019-09-04 12:00:00
+prep_class_3: [77511:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909040600, 77513:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909040600, 77519:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909040600]
+prep_class_4: []
+ec_grib_cost_time: 0.2864248752593994
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.053684234619140625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030019521713256836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03743553161621094
+........ec grib reading start........
+curr_date: 2019-09-04 09:00:00
+curr_date: 2019-09-04 12:00:00
+curr_date: 2019-09-04 15:00:00
+curr_date: 2019-09-04 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-04 21:00:00
+prep_class_3: []
+prep_class_4: [77691:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909041800, 77693:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909041800, 77699:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909041800]
+ec_grib_cost_time: 0.14019465446472168
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030008554458618164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037296295166015625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029862403869628906
+........ec grib reading start........
+curr_date: 2019-09-05 00:00:00
+curr_date: 2019-09-05 03:00:00
+curr_date: 2019-09-05 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-05 09:00:00
+curr_date: 2019-09-05 12:00:00
+prep_class_3: [77871:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909050600, 77873:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909050600, 77879:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909050600]
+prep_class_4: []
+ec_grib_cost_time: 0.1277916431427002
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0380396842956543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029895544052124023
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037293434143066406
+........ec grib reading start........
+curr_date: 2019-09-05 09:00:00
+curr_date: 2019-09-05 12:00:00
+curr_date: 2019-09-05 15:00:00
+curr_date: 2019-09-05 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-05 21:00:00
+prep_class_3: []
+prep_class_4: [78051:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909051800, 78053:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909051800, 78059:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909051800]
+ec_grib_cost_time: 0.2722935676574707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044608354568481445
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05590081214904785
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04452109336853027
+........ec grib reading start........
+curr_date: 2019-09-06 00:00:00
+curr_date: 2019-09-06 03:00:00
+curr_date: 2019-09-06 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-06 09:00:00
+curr_date: 2019-09-06 12:00:00
+prep_class_3: [78231:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909060600, 78233:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909060600, 78239:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909060600]
+prep_class_4: []
+ec_grib_cost_time: 0.12827634811401367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03744816780090332
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02977132797241211
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03715777397155762
+........ec grib reading start........
+curr_date: 2019-09-06 09:00:00
+curr_date: 2019-09-06 12:00:00
+curr_date: 2019-09-06 15:00:00
+curr_date: 2019-09-06 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-06 21:00:00
+prep_class_3: []
+prep_class_4: [78411:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909061800, 78413:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909061800, 78419:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909061800]
+ec_grib_cost_time: 0.12857890129089355
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029835939407348633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0374448299407959
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03190350532531738
+........ec grib reading start........
+curr_date: 2019-09-07 00:00:00
+curr_date: 2019-09-07 03:00:00
+curr_date: 2019-09-07 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-07 09:00:00
+curr_date: 2019-09-07 12:00:00
+prep_class_3: [78591:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909070600, 78593:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909070600, 78599:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909070600]
+prep_class_4: []
+ec_grib_cost_time: 0.18129444122314453
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05478334426879883
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0315859317779541
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0562434196472168
+........ec grib reading start........
+curr_date: 2019-09-07 09:00:00
+curr_date: 2019-09-07 12:00:00
+curr_date: 2019-09-07 15:00:00
+curr_date: 2019-09-07 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-07 21:00:00
+prep_class_3: []
+prep_class_4: [78771:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909071800, 78773:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909071800, 78779:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909071800]
+ec_grib_cost_time: 0.27449655532836914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031939029693603516
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03860282897949219
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031424522399902344
+........ec grib reading start........
+curr_date: 2019-09-08 00:00:00
+curr_date: 2019-09-08 03:00:00
+curr_date: 2019-09-08 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-08 09:00:00
+curr_date: 2019-09-08 12:00:00
+prep_class_3: [78951:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909080600, 78953:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909080600, 78959:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909080600]
+prep_class_4: []
+ec_grib_cost_time: 0.12761664390563965
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038201093673706055
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031218528747558594
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03763413429260254
+........ec grib reading start........
+curr_date: 2019-09-08 09:00:00
+curr_date: 2019-09-08 12:00:00
+curr_date: 2019-09-08 15:00:00
+curr_date: 2019-09-08 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-08 21:00:00
+prep_class_3: []
+prep_class_4: [79131:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909081800, 79133:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909081800, 79139:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909081800]
+ec_grib_cost_time: 0.1277472972869873
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04114127159118652
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05708646774291992
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04484438896179199
+........ec grib reading start........
+curr_date: 2019-09-09 00:00:00
+curr_date: 2019-09-09 03:00:00
+curr_date: 2019-09-09 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-09 09:00:00
+curr_date: 2019-09-09 12:00:00
+prep_class_3: [79311:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909090600, 79313:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909090600, 79319:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909090600]
+prep_class_4: []
+ec_grib_cost_time: 0.2768533229827881
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.043437957763671875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029868125915527344
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03710031509399414
+........ec grib reading start........
+curr_date: 2019-09-09 09:00:00
+curr_date: 2019-09-09 12:00:00
+curr_date: 2019-09-09 15:00:00
+curr_date: 2019-09-09 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-09 21:00:00
+prep_class_3: []
+prep_class_4: [79491:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909091800, 79493:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909091800, 79499:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909091800]
+ec_grib_cost_time: 0.13988852500915527
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03742575645446777
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04606962203979492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03653240203857422
+........ec grib reading start........
+curr_date: 2019-09-10 00:00:00
+curr_date: 2019-09-10 03:00:00
+curr_date: 2019-09-10 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-10 09:00:00
+curr_date: 2019-09-10 12:00:00
+prep_class_3: [79671:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909100600, 79673:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909100600, 79679:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909100600]
+prep_class_4: []
+ec_grib_cost_time: 0.19391965866088867
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05365729331970215
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04624152183532715
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05638861656188965
+........ec grib reading start........
+curr_date: 2019-09-10 09:00:00
+curr_date: 2019-09-10 12:00:00
+curr_date: 2019-09-10 15:00:00
+curr_date: 2019-09-10 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-10 21:00:00
+prep_class_3: []
+prep_class_4: [79851:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909101800, 79853:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909101800, 79859:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909101800]
+ec_grib_cost_time: 0.28705739974975586
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030263662338256836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03800082206726074
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03057265281677246
+........ec grib reading start........
+curr_date: 2019-09-11 00:00:00
+curr_date: 2019-09-11 03:00:00
+curr_date: 2019-09-11 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-11 09:00:00
+curr_date: 2019-09-11 12:00:00
+prep_class_3: [80031:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909110600, 80033:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909110600, 80039:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909110600]
+prep_class_4: []
+ec_grib_cost_time: 0.1426842212677002
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03839588165283203
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031862497329711914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03760552406311035
+........ec grib reading start........
+curr_date: 2019-09-11 09:00:00
+curr_date: 2019-09-11 12:00:00
+curr_date: 2019-09-11 15:00:00
+curr_date: 2019-09-11 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-11 21:00:00
+prep_class_3: []
+prep_class_4: [80211:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909111800, 80213:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909111800, 80219:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909111800]
+ec_grib_cost_time: 0.1267080307006836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029870986938476562
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0371246337890625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04431939125061035
+........ec grib reading start........
+curr_date: 2019-09-12 00:00:00
+curr_date: 2019-09-12 03:00:00
+curr_date: 2019-09-12 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-12 09:00:00
+curr_date: 2019-09-12 12:00:00
+prep_class_3: [80391:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909120600, 80393:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909120600, 80399:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909120600]
+prep_class_4: []
+ec_grib_cost_time: 0.27820825576782227
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05582404136657715
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04115033149719238
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03714156150817871
+........ec grib reading start........
+curr_date: 2019-09-12 09:00:00
+curr_date: 2019-09-12 12:00:00
+curr_date: 2019-09-12 15:00:00
+curr_date: 2019-09-12 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-12 21:00:00
+prep_class_3: []
+prep_class_4: [80571:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909121800, 80573:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909121800, 80579:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909121800]
+ec_grib_cost_time: 0.12562799453735352
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039008140563964844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0426023006439209
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02951836585998535
+........ec grib reading start........
+curr_date: 2019-09-13 00:00:00
+curr_date: 2019-09-13 03:00:00
+curr_date: 2019-09-13 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-13 09:00:00
+curr_date: 2019-09-13 12:00:00
+prep_class_3: [80751:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909130600, 80753:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909130600, 80759:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909130600]
+prep_class_4: []
+ec_grib_cost_time: 0.12755799293518066
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03776121139526367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03001570701599121
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037189483642578125
+........ec grib reading start........
+curr_date: 2019-09-13 09:00:00
+curr_date: 2019-09-13 12:00:00
+curr_date: 2019-09-13 15:00:00
+curr_date: 2019-09-13 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-13 21:00:00
+prep_class_3: []
+prep_class_4: [80931:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909131800, 80933:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909131800, 80939:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909131800]
+ec_grib_cost_time: 0.22058677673339844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04503345489501953
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05627942085266113
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04529714584350586
+........ec grib reading start........
+curr_date: 2019-09-14 00:00:00
+curr_date: 2019-09-14 03:00:00
+curr_date: 2019-09-14 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-14 09:00:00
+curr_date: 2019-09-14 12:00:00
+prep_class_3: [81111:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909140600, 81113:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909140600, 81119:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909140600]
+prep_class_4: []
+ec_grib_cost_time: 0.17665529251098633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03711390495300293
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030043601989746094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.052245140075683594
+........ec grib reading start........
+curr_date: 2019-09-14 09:00:00
+curr_date: 2019-09-14 12:00:00
+curr_date: 2019-09-14 15:00:00
+curr_date: 2019-09-14 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-14 21:00:00
+prep_class_3: []
+prep_class_4: [81291:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909141800, 81293:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909141800, 81299:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909141800]
+ec_grib_cost_time: 0.13935542106628418
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029849767684936523
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03709554672241211
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02993011474609375
+........ec grib reading start........
+curr_date: 2019-09-15 00:00:00
+curr_date: 2019-09-15 03:00:00
+curr_date: 2019-09-15 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-15 09:00:00
+curr_date: 2019-09-15 12:00:00
+prep_class_3: [81471:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909150600, 81473:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909150600, 81479:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909150600]
+prep_class_4: []
+ec_grib_cost_time: 0.12776422500610352
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05574655532836914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04434323310852051
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05538153648376465
+........ec grib reading start........
+curr_date: 2019-09-15 09:00:00
+curr_date: 2019-09-15 12:00:00
+curr_date: 2019-09-15 15:00:00
+curr_date: 2019-09-15 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-15 21:00:00
+prep_class_3: []
+prep_class_4: [81651:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909151800, 81653:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909151800, 81659:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909151800]
+ec_grib_cost_time: 0.2618429660797119
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029764890670776367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03731179237365723
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03004288673400879
+........ec grib reading start........
+curr_date: 2019-09-16 00:00:00
+curr_date: 2019-09-16 03:00:00
+curr_date: 2019-09-16 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-16 09:00:00
+curr_date: 2019-09-16 12:00:00
+prep_class_3: [81831:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909160600, 81833:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909160600, 81839:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909160600]
+prep_class_4: []
+ec_grib_cost_time: 0.14827823638916016
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0377810001373291
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02963399887084961
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03699302673339844
+........ec grib reading start........
+curr_date: 2019-09-16 09:00:00
+curr_date: 2019-09-16 12:00:00
+curr_date: 2019-09-16 15:00:00
+curr_date: 2019-09-16 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-16 21:00:00
+prep_class_3: []
+prep_class_4: [82011:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909161800, 82013:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909161800, 82019:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909161800]
+ec_grib_cost_time: 0.1254410743713379
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029827356338500977
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0374140739440918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04197549819946289
+........ec grib reading start........
+curr_date: 2019-09-17 00:00:00
+curr_date: 2019-09-17 03:00:00
+curr_date: 2019-09-17 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-17 09:00:00
+curr_date: 2019-09-17 12:00:00
+prep_class_3: [82191:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909170600, 82193:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909170600, 82199:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909170600]
+prep_class_4: []
+ec_grib_cost_time: 0.2767972946166992
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05626511573791504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.043401241302490234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037326812744140625
+........ec grib reading start........
+curr_date: 2019-09-17 09:00:00
+curr_date: 2019-09-17 12:00:00
+curr_date: 2019-09-17 15:00:00
+curr_date: 2019-09-17 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-17 21:00:00
+prep_class_3: []
+prep_class_4: [82371:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909171800, 82373:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909171800, 82379:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909171800]
+ec_grib_cost_time: 0.15841388702392578
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.032442331314086914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03813982009887695
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029813289642333984
+........ec grib reading start........
+curr_date: 2019-09-18 00:00:00
+curr_date: 2019-09-18 03:00:00
+curr_date: 2019-09-18 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-18 09:00:00
+curr_date: 2019-09-18 12:00:00
+prep_class_3: [82551:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909180600, 82553:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909180600, 82559:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909180600]
+prep_class_4: []
+ec_grib_cost_time: 0.1250908374786377
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037978410720825195
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02990579605102539
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03722643852233887
+........ec grib reading start........
+curr_date: 2019-09-18 09:00:00
+curr_date: 2019-09-18 12:00:00
+curr_date: 2019-09-18 15:00:00
+curr_date: 2019-09-18 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-18 21:00:00
+prep_class_3: []
+prep_class_4: [82731:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909181800, 82733:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909181800, 82739:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909181800]
+ec_grib_cost_time: 0.22088170051574707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04442787170410156
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05507016181945801
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04394054412841797
+........ec grib reading start........
+curr_date: 2019-09-19 00:00:00
+curr_date: 2019-09-19 03:00:00
+curr_date: 2019-09-19 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-19 09:00:00
+curr_date: 2019-09-19 12:00:00
+prep_class_3: [82911:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909190600, 82913:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909190600, 82919:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909190600]
+prep_class_4: []
+ec_grib_cost_time: 0.17125201225280762
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04708242416381836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03172111511230469
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03891634941101074
+........ec grib reading start........
+curr_date: 2019-09-19 09:00:00
+curr_date: 2019-09-19 12:00:00
+curr_date: 2019-09-19 15:00:00
+curr_date: 2019-09-19 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-19 21:00:00
+prep_class_3: []
+prep_class_4: [83091:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909191800, 83093:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909191800, 83099:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909191800]
+ec_grib_cost_time: 0.12670683860778809
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029754638671875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03701162338256836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029814481735229492
+........ec grib reading start........
+curr_date: 2019-09-20 00:00:00
+curr_date: 2019-09-20 03:00:00
+curr_date: 2019-09-20 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-20 09:00:00
+curr_date: 2019-09-20 12:00:00
+prep_class_3: [83271:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909200600, 83273:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909200600, 83279:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909200600]
+prep_class_4: []
+ec_grib_cost_time: 0.1383054256439209
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.047696828842163086
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03429412841796875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03908848762512207
+........ec grib reading start........
+curr_date: 2019-09-20 09:00:00
+curr_date: 2019-09-20 12:00:00
+curr_date: 2019-09-20 15:00:00
+curr_date: 2019-09-20 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-20 21:00:00
+prep_class_3: []
+prep_class_4: [83451:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909201800, 83453:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909201800, 83459:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909201800]
+ec_grib_cost_time: 0.12567782402038574
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04631304740905762
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06688714027404785
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05349469184875488
+........ec grib reading start........
+curr_date: 2019-09-21 00:00:00
+curr_date: 2019-09-21 03:00:00
+curr_date: 2019-09-21 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-21 09:00:00
+curr_date: 2019-09-21 12:00:00
+prep_class_3: [83631:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909210600, 83633:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909210600, 83639:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909210600]
+prep_class_4: []
+ec_grib_cost_time: 0.2293233871459961
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03759646415710449
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029424190521240234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0366971492767334
+........ec grib reading start........
+curr_date: 2019-09-21 09:00:00
+curr_date: 2019-09-21 12:00:00
+curr_date: 2019-09-21 15:00:00
+curr_date: 2019-09-21 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-21 21:00:00
+prep_class_3: []
+prep_class_4: [83811:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909211800, 83813:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909211800, 83819:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909211800]
+ec_grib_cost_time: 0.1307203769683838
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030209779739379883
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04766726493835449
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04406428337097168
+........ec grib reading start........
+curr_date: 2019-09-22 00:00:00
+curr_date: 2019-09-22 03:00:00
+curr_date: 2019-09-22 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-22 09:00:00
+curr_date: 2019-09-22 12:00:00
+prep_class_3: [83991:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909220600, 83993:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909220600, 83999:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909220600]
+prep_class_4: []
+ec_grib_cost_time: 0.2754685878753662
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05549025535583496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04400205612182617
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04778742790222168
+........ec grib reading start........
+curr_date: 2019-09-22 09:00:00
+curr_date: 2019-09-22 12:00:00
+curr_date: 2019-09-22 15:00:00
+curr_date: 2019-09-22 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-22 21:00:00
+prep_class_3: []
+prep_class_4: [84171:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909221800, 84173:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909221800, 84179:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909221800]
+ec_grib_cost_time: 0.16878962516784668
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029635190963745117
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03677034378051758
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029360532760620117
+........ec grib reading start........
+curr_date: 2019-09-23 00:00:00
+curr_date: 2019-09-23 03:00:00
+curr_date: 2019-09-23 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-23 09:00:00
+curr_date: 2019-09-23 12:00:00
+prep_class_3: [84351:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909230600, 84353:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909230600, 84359:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909230600]
+prep_class_4: []
+ec_grib_cost_time: 0.12399554252624512
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04061722755432129
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03861832618713379
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03796863555908203
+........ec grib reading start........
+curr_date: 2019-09-23 09:00:00
+curr_date: 2019-09-23 12:00:00
+curr_date: 2019-09-23 15:00:00
+curr_date: 2019-09-23 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-23 21:00:00
+prep_class_3: []
+prep_class_4: [84531:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909231800, 84533:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909231800, 84539:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909231800]
+ec_grib_cost_time: 0.2676811218261719
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.045288801193237305
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0565028190612793
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0441586971282959
+........ec grib reading start........
+curr_date: 2019-09-24 00:00:00
+curr_date: 2019-09-24 03:00:00
+curr_date: 2019-09-24 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-24 09:00:00
+curr_date: 2019-09-24 12:00:00
+prep_class_3: [84711:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909240600, 84713:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909240600, 84719:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909240600]
+prep_class_4: []
+ec_grib_cost_time: 0.21420812606811523
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03786158561706543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029731273651123047
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03729510307312012
+........ec grib reading start........
+curr_date: 2019-09-24 09:00:00
+curr_date: 2019-09-24 12:00:00
+curr_date: 2019-09-24 15:00:00
+curr_date: 2019-09-24 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-24 21:00:00
+prep_class_3: []
+prep_class_4: [84891:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909241800, 84893:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909241800, 84899:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909241800]
+ec_grib_cost_time: 0.12625455856323242
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038606882095336914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04296731948852539
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030147075653076172
+........ec grib reading start........
+curr_date: 2019-09-25 00:00:00
+curr_date: 2019-09-25 03:00:00
+curr_date: 2019-09-25 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-25 09:00:00
+curr_date: 2019-09-25 12:00:00
+prep_class_3: [85071:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909250600, 85073:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909250600, 85079:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909250600]
+prep_class_4: []
+ec_grib_cost_time: 0.2726266384124756
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05609464645385742
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04468035697937012
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05564308166503906
+........ec grib reading start........
+curr_date: 2019-09-25 09:00:00
+curr_date: 2019-09-25 12:00:00
+curr_date: 2019-09-25 15:00:00
+curr_date: 2019-09-25 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-25 21:00:00
+prep_class_3: []
+prep_class_4: [85251:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909251800, 85253:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909251800, 85259:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909251800]
+ec_grib_cost_time: 0.261016845703125
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04255104064941406
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.052572011947631836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04177737236022949
+........ec grib reading start........
+curr_date: 2019-09-26 00:00:00
+curr_date: 2019-09-26 03:00:00
+curr_date: 2019-09-26 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-26 09:00:00
+curr_date: 2019-09-26 12:00:00
+prep_class_3: [85431:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909260600, 85433:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909260600, 85439:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909260600]
+prep_class_4: []
+ec_grib_cost_time: 0.26079678535461426
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05635571479797363
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044857025146484375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05456137657165527
+........ec grib reading start........
+curr_date: 2019-09-26 09:00:00
+curr_date: 2019-09-26 12:00:00
+curr_date: 2019-09-26 15:00:00
+curr_date: 2019-09-26 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-26 21:00:00
+prep_class_3: []
+prep_class_4: [85611:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909261800, 85613:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909261800, 85619:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909261800]
+ec_grib_cost_time: 0.22017645835876465
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0307009220123291
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.047721147537231445
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0364232063293457
+........ec grib reading start........
+curr_date: 2019-09-27 00:00:00
+curr_date: 2019-09-27 03:00:00
+curr_date: 2019-09-27 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-27 09:00:00
+curr_date: 2019-09-27 12:00:00
+prep_class_3: [85791:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909270600, 85793:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909270600, 85799:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909270600]
+prep_class_4: []
+ec_grib_cost_time: 0.16827797889709473
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03746342658996582
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03042912483215332
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03751420974731445
+........ec grib reading start........
+curr_date: 2019-09-27 09:00:00
+curr_date: 2019-09-27 12:00:00
+curr_date: 2019-09-27 15:00:00
+curr_date: 2019-09-27 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-27 21:00:00
+prep_class_3: []
+prep_class_4: [85971:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909271800, 85973:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909271800, 85979:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909271800]
+ec_grib_cost_time: 0.1253046989440918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.035223960876464844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05611872673034668
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044672489166259766
+........ec grib reading start........
+curr_date: 2019-09-28 00:00:00
+curr_date: 2019-09-28 03:00:00
+curr_date: 2019-09-28 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-28 09:00:00
+curr_date: 2019-09-28 12:00:00
+prep_class_3: [86151:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909280600, 86153:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909280600, 86159:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909280600]
+prep_class_4: []
+ec_grib_cost_time: 0.2766599655151367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0562129020690918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0296022891998291
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03628683090209961
+........ec grib reading start........
+curr_date: 2019-09-28 09:00:00
+curr_date: 2019-09-28 12:00:00
+curr_date: 2019-09-28 15:00:00
+curr_date: 2019-09-28 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-28 21:00:00
+prep_class_3: []
+prep_class_4: [86331:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909281800, 86333:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909281800, 86339:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909281800]
+ec_grib_cost_time: 0.12369203567504883
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03014850616455078
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03777003288269043
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029697895050048828
+........ec grib reading start........
+curr_date: 2019-09-29 00:00:00
+curr_date: 2019-09-29 03:00:00
+curr_date: 2019-09-29 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-29 09:00:00
+curr_date: 2019-09-29 12:00:00
+prep_class_3: [86511:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909290600, 86513:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909290600, 86519:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909290600]
+prep_class_4: []
+ec_grib_cost_time: 0.12376260757446289
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03785419464111328
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02957606315612793
+........ec data reading start........
+interval_prep_date_length:Load StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 4/1188 [00:00<00:31, 37.68it/s]Load StationWindows:   1%|▏                   | 12/1188 [00:00<00:26, 44.31it/s]Load StationWindows:   2%|▎                   | 19/1188 [00:00<00:23, 49.49it/s]Load StationWindows:   2%|▍                   | 26/1188 [00:00<00:21, 53.59it/s]Load StationWindows:   3%|▌                   | 36/1188 [00:00<00:18, 62.24it/s]Load StationWindows:   4%|▊                   | 46/1188 [00:00<00:16, 68.86it/s]Load StationWindows:   5%|▉                   | 57/1188 [00:00<00:14, 76.09it/s]Load StationWindows:   6%|█▏                  | 67/1188 [00:00<00:13, 80.54it/s]Load StationWindows:   6%|█▎                  | 77/1188 [00:00<00:13, 84.97it/s]Load StationWindows:   7%|█▍                  | 86/1188 [00:01<00:14, 77.03it/s]Load StationWindows:   8%|█▌                  | 95/1188 [00:01<00:15, 72.01it/s]Load StationWindows:   9%|█▋                 | 104/1188 [00:01<00:14, 75.84it/s]Load StationWindows:   9%|█▊                 | 112/1188 [00:01<00:14, 73.43it/s]Load StationWindows:  10%|█▉                 | 122/1188 [00:01<00:13, 78.18it/s]Load StationWindows:  11%|██                 | 131/1188 [00:01<00:13, 79.89it/s]Load StationWindows:  12%|██▏                | 140/1188 [00:01<00:13, 80.46it/s]Load StationWindows:  13%|██▍                | 150/1188 [00:01<00:12, 83.09it/s]Load StationWindows:  13%|██▌                | 159/1188 [00:02<00:13, 75.08it/s]Load StationWindows:  14%|██▋                | 167/1188 [00:02<00:15, 65.05it/s]Load StationWindows:  15%|██▊                | 174/1188 [00:02<00:16, 59.97it/s]Load StationWindows:  15%|██▉                | 183/1188 [00:02<00:15, 66.39it/s]Load StationWindows:  16%|███                | 194/1188 [00:02<00:13, 74.36it/s]Load StationWindows:  17%|███▎               | 205/1188 [00:02<00:12, 80.67it/s]Load StationWindows:  18%|███▍               | 214/1188 [00:02<00:11, 83.14it/s]Load StationWindows:  19%|███▌               | 225/1188 [00:02<00:10, 89.14it/s]Load StationWindows:  20%|███▊               | 235/1188 [00:02<00:11, 86.30it/s]Load StationWindows:  21%|███▉               | 244/1188 [00:03<00:12, 77.25it/s]Load StationWindows:  21%|████               | 253/1188 [00:03<00:13, 70.57it/s]Load StationWindows:  22%|████▏              | 261/1188 [00:03<00:12, 71.45it/s]Load StationWindows:  23%|████▎              | 269/1188 [00:03<00:12, 72.31it/s]Load StationWindows:  23%|████▍              | 279/1188 [00:03<00:11, 77.13it/s]Load StationWindows:  24%|████▌              | 287/1188 [00:03<00:11, 77.18it/s]Load StationWindows:  25%|████▊              | 297/1188 [00:03<00:10, 81.90it/s]Load StationWindows:  26%|████▉              | 306/1188 [00:03<00:11, 79.06it/s]Load StationWindows:  27%|█████              | 315/1188 [00:04<00:12, 70.14it/s]Load StationWindows:  27%|█████▏             | 323/1188 [00:04<00:13, 64.36it/s]Load StationWindows:  28%|█████▎             | 331/1188 [00:04<00:12, 68.18it/s]Load StationWindows:  29%|█████▍             | 341/1188 [00:04<00:11, 74.27it/s]Load StationWindows:  30%|█████▌             | 351/1188 [00:04<00:10, 78.56it/s]Load StationWindows:  30%|█████▊             | 361/1188 [00:04<00:09, 83.00it/s]Load StationWindows:  31%|█████▉             | 371/1188 [00:04<00:09, 85.66it/s]Load StationWindows:  32%|██████             | 380/1188 [00:04<00:09, 84.03it/s]Load StationWindows:  33%|██████▏            | 389/1188 [00:05<00:11, 72.08it/s]Load StationWindows:  33%|██████▎            | 397/1188 [00:05<00:11, 71.76it/s]Load StationWindows:  34%|██████▍            | 406/1188 [00:05<00:10, 76.38it/s]Load StationWindows:  35%|██████▋            | 415/1188 [00:05<00:09, 79.65it/s]Load StationWindows:  36%|██████▊            | 424/1188 [00:05<00:09, 81.74it/s]Load StationWindows:  36%|██████▉            | 433/1188 [00:05<00:09, 77.18it/s]Load StationWindows:  37%|███████            | 442/1188 [00:05<00:09, 79.47it/s]Load StationWindows:  38%|███████▏           | 451/1188 [00:05<00:09, 79.78it/s]Load StationWindows:  39%|███████▎           | 460/1188 [00:06<00:11, 65.87it/s]Load StationWindows:  39%|███████▍           | 468/1188 [00:06<00:12, 57.54it/s]Load StationWindows:  40%|███████▌           | 475/1188 [00:06<00:12, 57.86it/s]Load StationWindows:  41%|███████▋           | 482/1188 [00:06<00:13, 52.44it/s]Load StationWindows:  41%|███████▊           | 489/1188 [00:06<00:12, 56.39it/s]Load StationWindows:  42%|███████▉           | 496/1188 [00:06<00:11, 58.82it/s]Load StationWindows:  42%|████████           | 504/1188 [00:06<00:10, 62.76it/s]Load StationWindows:  43%|████████▏          | 511/1188 [00:06<00:11, 59.39it/s]Load StationWindows:  44%|████████▎          | 518/1188 [00:07<00:11, 59.85it/s]Load StationWindows:  44%|████████▍          | 525/1188 [00:07<00:10, 61.77it/s]Load StationWindows:  45%|████████▌          | 532/1188 [00:07<00:10, 60.07it/s]Load StationWindows:  45%|████████▌          | 539/1188 [00:07<00:12, 51.92it/s]Load StationWindows:  46%|████████▋          | 545/1188 [00:07<00:13, 47.52it/s]Load StationWindows:  46%|████████▊          | 551/1188 [00:07<00:12, 49.13it/s]Load StationWindows:  47%|████████▉          | 557/1188 [00:07<00:12, 51.31it/s]Load StationWindows:  47%|█████████          | 563/1188 [00:07<00:12, 49.32it/s]Load StationWindows:  48%|█████████          | 569/1188 [00:08<00:12, 47.85it/s]Load StationWindows:  48%|█████████▏         | 574/1188 [00:08<00:12, 47.77it/s]Load StationWindows:  49%|█████████▎         | 582/1188 [00:08<00:11, 52.93it/s]Load StationWindows:  50%|█████████▍         | 589/1188 [00:08<00:10, 56.82it/s]Load StationWindows:  50%|█████████▌         | 596/1188 [00:08<00:09, 59.38it/s]Load StationWindows:  51%|█████████▋         | 603/1188 [00:08<00:10, 57.96it/s]Load StationWindows:  51%|█████████▋         | 609/1188 [00:08<00:10, 56.72it/s]Load StationWindows:  52%|█████████▊         | 615/1188 [00:08<00:11, 50.62it/s]Load StationWindows:  52%|█████████▉         | 621/1188 [00:09<00:12, 47.13it/s]Load StationWindows:  53%|██████████         | 626/1188 [00:09<00:12, 45.78it/s]Load StationWindows:  53%|██████████         | 633/1188 [00:09<00:11, 50.31it/s]Load StationWindows:  54%|██████████▏        | 640/1188 [00:09<00:10, 53.92it/s]Load StationWindows:  54%|██████████▎        | 647/1188 [00:09<00:09, 57.05it/s]Load StationWindows:  55%|██████████▍        | 654/1188 [00:09<00:09, 58.65it/s]Load StationWindows:  56%|██████████▌        | 661/1188 [00:09<00:08, 59.67it/s]Load StationWindows:  56%|██████████▋        | 668/1188 [00:09<00:10, 51.07it/s]Load StationWindows:  57%|██████████▊        | 674/1188 [00:10<00:11, 46.49it/s]Load StationWindows:  57%|██████████▊        | 679/1188 [00:10<00:10, 46.92it/s]Load StationWindows:  58%|███████████        | 688/1188 [00:10<00:09, 54.60it/s]Load StationWindows:  59%|███████████▏       | 698/1188 [00:10<00:07, 62.16it/s]Load StationWindows:  60%|███████████▎       | 708/1188 [00:10<00:06, 68.90it/s]Load StationWindows:  60%|███████████▍       | 717/1188 [00:10<00:06, 73.47it/s]Load StationWindows:  61%|███████████▌       | 726/1188 [00:10<00:06, 76.32it/s]Load StationWindows:  62%|███████████▊       | 735/1188 [00:10<00:06, 67.63it/s]Load StationWindows:  63%|███████████▉       | 743/1188 [00:10<00:06, 66.04it/s]Load StationWindows:  63%|████████████       | 751/1188 [00:11<00:06, 69.67it/s]Load StationWindows:  64%|████████████▏      | 760/1188 [00:11<00:05, 73.01it/s]Load StationWindows:  65%|████████████▎      | 769/1188 [00:11<00:05, 75.32it/s]Load StationWindows:  65%|████████████▍      | 778/1188 [00:11<00:05, 76.87it/s]Load StationWindows:  66%|████████████▌      | 787/1188 [00:11<00:05, 77.71it/s]Load StationWindows:  67%|████████████▋      | 795/1188 [00:11<00:05, 77.25it/s]Load StationWindows:  68%|████████████▊      | 803/1188 [00:11<00:05, 67.47it/s]Load StationWindows:  68%|████████████▉      | 811/1188 [00:11<00:06, 60.05it/s]Load StationWindows:  69%|█████████████      | 818/1188 [00:12<00:06, 56.98it/s]Load StationWindows:  70%|█████████████▏     | 826/1188 [00:12<00:06, 59.69it/s]Load StationWindows:  70%|█████████████▎     | 833/1188 [00:12<00:06, 55.50it/s]Load StationWindows:  71%|█████████████▍     | 841/1188 [00:12<00:05, 59.90it/s]Load StationWindows:  71%|█████████████▌     | 849/1188 [00:12<00:05, 63.43it/s]Load StationWindows:  72%|█████████████▋     | 856/1188 [00:12<00:05, 61.50it/s]Load StationWindows:  73%|█████████████▊     | 863/1188 [00:12<00:05, 56.00it/s]Load StationWindows:  73%|█████████████▉     | 869/1188 [00:12<00:06, 52.56it/s]Load StationWindows:  74%|█████████████▉     | 875/1188 [00:13<00:05, 54.40it/s]Load StationWindows:  74%|██████████████     | 883/1188 [00:13<00:05, 59.12it/s]Load StationWindows:  75%|██████████████▎    | 891/1188 [00:13<00:04, 62.46it/s]Load StationWindows:  76%|██████████████▍    | 899/1188 [00:13<00:04, 65.02it/s]Load StationWindows:  76%|██████████████▌    | 907/1188 [00:13<00:04, 67.10it/s]Load StationWindows:  77%|██████████████▌    | 914/1188 [00:13<00:04, 64.90it/s]Load StationWindows:  78%|██████████████▋    | 921/1188 [00:13<00:04, 57.10it/s]Load StationWindows:  78%|██████████████▊    | 927/1188 [00:13<00:04, 52.81it/s]Load StationWindows:  79%|██████████████▉    | 933/1188 [00:14<00:04, 53.27it/s]Load StationWindows:  79%|███████████████    | 940/1188 [00:14<00:04, 57.34it/s]Load StationWindows:  80%|███████████████▏   | 947/1188 [00:14<00:03, 60.38it/s]Load StationWindows:  80%|███████████████▎   | 955/1188 [00:14<00:03, 63.11it/s]Load StationWindows:  81%|███████████████▍   | 962/1188 [00:14<00:03, 60.36it/s]Load StationWindows:  82%|███████████████▍   | 969/1188 [00:14<00:03, 60.49it/s]Load StationWindows:  82%|███████████████▌   | 976/1188 [00:14<00:03, 53.61it/s]Load StationWindows:  83%|███████████████▋   | 982/1188 [00:14<00:04, 49.27it/s]Load StationWindows:  83%|███████████████▊   | 988/1188 [00:15<00:03, 50.57it/s]Load StationWindows:  84%|███████████████▉   | 995/1188 [00:15<00:03, 54.73it/s]Load StationWindows:  84%|███████████████▏  | 1002/1188 [00:15<00:03, 57.98it/s]Load StationWindows:  85%|███████████████▎  | 1008/1188 [00:15<00:03, 54.31it/s]Load StationWindows:  85%|███████████████▎  | 1014/1188 [00:15<00:03, 52.61it/s]Load StationWindows:  86%|███████████████▍  | 1020/1188 [00:15<00:03, 51.66it/s]Load StationWindows:  86%|███████████████▌  | 1026/1188 [00:15<00:03, 46.96it/s]Load StationWindows:  87%|███████████████▌  | 1031/1188 [00:15<00:03, 43.62it/s]Load StationWindows:  87%|███████████████▋  | 1036/1188 [00:15<00:03, 44.82it/s]Load StationWindows:  88%|███████████████▊  | 1041/1188 [00:16<00:03, 45.12it/s]Load StationWindows:  88%|███████████████▊  | 1046/1188 [00:16<00:03, 43.30it/s]Load StationWindows:  89%|███████████████▉  | 1052/1188 [00:16<00:02, 45.77it/s]Load StationWindows:  89%|████████████████  | 1058/1188 [00:16<00:02, 48.18it/s]Load StationWindows:  89%|████████████████  | 1063/1188 [00:16<00:02, 47.60it/s]Load StationWindows:  90%|████████████████▏ | 1068/1188 [00:16<00:02, 43.85it/s]Load StationWindows:  90%|████████████████▎ | 1073/1188 [00:16<00:02, 41.32it/s]Load StationWindows:  91%|████████████████▎ | 1078/1188 [00:16<00:02, 41.75it/s]Load StationWindows:  91%|████████████████▍ | 1084/1188 [00:17<00:02, 43.25it/s]Load StationWindows:  92%|████████████████▌ | 1089/1188 [00:17<00:02, 41.55it/s]Load StationWindows:  92%|████████████████▌ | 1095/1188 [00:17<00:02, 45.25it/s]Load StationWindows:  93%|████████████████▋ | 1101/1188 [00:17<00:01, 47.12it/s]Load StationWindows:  93%|████████████████▊ | 1106/1188 [00:17<00:01, 44.31it/s]Load StationWindows:  94%|████████████████▊ | 1111/1188 [00:17<00:01, 41.10it/s]Load StationWindows:  94%|████████████████▉ | 1116/1188 [00:17<00:01, 39.01it/s]Load StationWindows:  94%|████████████████▉ | 1121/1188 [00:17<00:01, 36.94it/s]Load StationWindows:  95%|█████████████████ | 1125/1188 [00:18<00:02, 30.24it/s]Load StationWindows:  95%|█████████████████ | 1129/1188 [00:18<00:01, 29.98it/s]Load StationWindows:  95%|█████████████████▏| 1133/1188 [00:18<00:01, 30.56it/s]Load StationWindows:  96%|█████████████████▏| 1137/1188 [00:18<00:01, 32.70it/s]Load StationWindows:  96%|█████████████████▎| 1141/1188 [00:18<00:01, 32.62it/s]Load StationWindows:  96%|█████████████████▎| 1145/1188 [00:18<00:01, 32.49it/s]Load StationWindows:  97%|█████████████████▍| 1149/1188 [00:18<00:01, 34.19it/s]Load StationWindows:  97%|█████████████████▌| 1155/1188 [00:19<00:00, 37.80it/s]Load StationWindows:  98%|█████████████████▌| 1161/1188 [00:19<00:00, 41.52it/s]Load StationWindows:  98%|█████████████████▋| 1167/1188 [00:19<00:00, 45.45it/s]Load StationWindows:  99%|█████████████████▊| 1173/1188 [00:19<00:00, 48.63it/s]Load StationWindows:  99%|█████████████████▊| 1179/1188 [00:19<00:00, 50.92it/s]Load StationWindows: 100%|█████████████████▉| 1185/1188 [00:19<00:00, 44.36it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [00:19<00:00, 60.31it/s]
+Load One Data:   0%|                                    | 0/175 [00:00<?, ?it/s]Load One Data:   1%|▏                           | 1/175 [00:00<02:28,  1.17it/s]Load One Data:   1%|▎                           | 2/175 [00:02<02:44,  1.05it/s]Load One Data:   2%|▍                           | 3/175 [00:02<02:44,  1.05it/s] 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03741288185119629
+........ec grib reading start........
+curr_date: 2019-09-29 09:00:00
+curr_date: 2019-09-29 12:00:00
+curr_date: 2019-09-29 15:00:00
+curr_date: 2019-09-29 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-29 21:00:00
+prep_class_3: []
+prep_class_4: [86691:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909291800, 86693:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909291800, 86699:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909291800]
+ec_grib_cost_time: 0.25336170196533203
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056761980056762695
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055965423583984375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04474663734436035
+........ec grib reading start........
+curr_date: 2019-09-30 00:00:00
+curr_date: 2019-09-30 03:00:00
+curr_date: 2019-09-30 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-30 09:00:00
+curr_date: 2019-09-30 12:00:00
+prep_class_3: [86871:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909300600, 86873:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909300600, 86879:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909300600]
+prep_class_4: []
+ec_grib_cost_time: 0.1605205535888672
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037581682205200195
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029774188995361328
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0390467643737793
+........ec grib reading start........
+curr_date: 2019-09-30 09:00:00
+curr_date: 2019-09-30 12:00:00
+curr_date: 2019-09-30 15:00:00
+curr_date: 2019-09-30 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-09-30 21:00:00
+prep_class_3: []
+prep_class_4: [87051:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909301800, 87053:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909301800, 87059:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201909301800]
+ec_grib_cost_time: 0.12417078018188477
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030414104461669922
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037445783615112305
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030155420303344727
+month_ec_features_shape: (180, 12, 113, 81)
+month_ec_dates_shape: (180,)
+EC_FEATURES_STATIONS: (1188, 180, 12, 27, 27)
+EC_FEATURES_ALL_SEQUENCE: 175
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 52
+count_rainSamples0_01: 0
+count_0: 53
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090121modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 11
+count_0: 43
+count_0_01: 12
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090206modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090209modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000Load One Data:   2%|▋                           | 4/175 [00:04<02:58,  1.04s/it]Load One Data:   3%|▊                           | 5/175 [00:05<03:26,  1.22s/it]Load One Data:   3%|▉                           | 6/175 [00:06<03:12,  1.14s/it]Load One Data:   4%|█                           | 7/175 [00:07<03:12,  1.15s/it]Load One Data:   5%|█▎                          | 8/175 [00:08<03:00,  1.08s/it]Load One Data:   5%|█▍                          | 9/175 [00:10<03:08,  1.14s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 47
+count_rainSamples0_01: 8
+count_0: 48
+count_0_01: 9
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090212modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090215modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090218modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090221modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 3
+count_0: 58
+count_0_01: 4
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090306modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 66
+count_rainSamples0_01: 0
+count_0: 67
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090309modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 61
+count_rainSamples0_01: 2
+count_0: 62
+count_0_01: 3
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090312modals.pklLoad One Data:   6%|█▌                         | 10/175 [00:11<03:06,  1.13s/it]Load One Data:   6%|█▋                         | 11/175 [00:12<03:07,  1.15s/it]Load One Data:   7%|█▊                         | 12/175 [00:13<02:59,  1.10s/it]Load One Data:   7%|██                         | 13/175 [00:14<03:07,  1.16s/it]Load One Data:   8%|██▏                        | 14/175 [00:16<03:12,  1.20s/it]Load One Data:   9%|██▎                        | 15/175 [00:17<03:03,  1.14s/it]Load One Data:   9%|██▍                        | 16/175 [00:18<02:58,  1.12s/it]
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 72
+count_rainSamples0_01: 0
+count_0: 73
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090315modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 69
+count_rainSamples0_01: 0
+count_0: 70
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090318modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 78
+count_rainSamples0_01: 0
+count_0: 79
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090321modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 71
+count_rainSamples0_01: 7
+count_0: 72
+count_0_01: 8
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090406modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 80
+count_rainSamples0_01: 0
+count_0: 81
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090409modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 7
+count_0: 75
+count_0_01: 8
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090412modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000Load One Data:  10%|██▌                        | 17/175 [00:19<02:55,  1.11s/it]Load One Data:  10%|██▊                        | 18/175 [00:19<02:30,  1.05it/s]Load One Data:  11%|██▉                        | 19/175 [00:20<01:59,  1.30it/s]Load One Data:  11%|███                        | 20/175 [00:20<01:54,  1.35it/s]Load One Data:  12%|███▏                       | 21/175 [00:21<01:39,  1.55it/s]Load One Data:  13%|███▍                       | 22/175 [00:21<01:19,  1.94it/s]
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090415modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090418modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090421modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090506modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090509modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090512modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000Load One Data:  13%|███▌                       | 23/175 [00:21<01:06,  2.27it/s]Load One Data:  14%|███▋                       | 24/175 [00:22<01:31,  1.65it/s]Load One Data:  14%|███▊                       | 25/175 [00:23<01:50,  1.35it/s]Load One Data:  15%|████                       | 26/175 [00:25<02:14,  1.11it/s]Load One Data:  15%|████▏                      | 27/175 [00:26<02:31,  1.02s/it]Load One Data:  16%|████▎                      | 28/175 [00:27<02:50,  1.16s/it]
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 0
+count_rainSamples0_01: 0
+count_0: 0
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090515modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 85
+count_rainSamples0_01: 0
+count_0: 86
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090518modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 93
+count_rainSamples0_01: 0
+count_0: 94
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090521modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 6
+count_0: 88
+count_0_01: 7
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090606modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 94
+count_rainSamples0_01: 0
+count_0: 95
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090609modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 89
+count_rainSamples0_01: 8
+count_0: 90
+count_0_01: 9
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090612modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000Load One Data:  17%|████▍                      | 29/175 [00:29<02:53,  1.19s/it]Load One Data:  17%|████▋                      | 30/175 [00:31<03:48,  1.57s/it]Load One Data:  18%|████▊                      | 31/175 [00:32<03:27,  1.44s/it]Load One Data:  18%|████▉                      | 32/175 [00:33<03:13,  1.35s/it]Load One Data:  19%|█████                      | 33/175 [00:35<03:19,  1.41s/it]Load One Data:  19%|█████▏                     | 34/175 [00:36<03:10,  1.35s/it]Load One Data:  20%|█████▍                     | 35/175 [00:38<03:23,  1.45s/it]
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 97
+count_rainSamples0_01: 0
+count_0: 98
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090615modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 96
+count_rainSamples0_01: 0
+count_0: 97
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090618modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 104
+count_rainSamples0_01: 0
+count_0: 105
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090621modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090617.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 101
+count_rainSamples0_01: 2
+count_0: 102
+count_0_01: 3
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090706modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090620.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 107
+count_rainSamples0_01: 0
+count_0: 108
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090709modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090623.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 104
+count_rainSamples0_01: 8
+count_0: 105
+count_0_01: 9
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090712modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090702.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 111
+count_rainSamples0_01: 0
+count_0: 112
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090715modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090705.000Load One Data:  21%|█████▌                     | 36/175 [00:40<04:06,  1.77s/it]Load One Data:  21%|█████▋                     | 37/175 [00:42<03:48,  1.66s/it]Load One Data:  22%|█████▊                     | 38/175 [00:43<03:45,  1.64s/it]Load One Data:  22%|██████                     | 39/175 [00:45<03:26,  1.52s/it]Load One Data:  23%|██████▏                    | 40/175 [00:46<03:19,  1.48s/it]Load One Data:  23%|██████▎                    | 41/175 [00:48<03:56,  1.77s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090705.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 111
+count_rainSamples0_01: 0
+count_0: 112
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090718modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090714.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 114
+count_rainSamples0_01: 0
+count_0: 115
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090721modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090717.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 110
+count_rainSamples0_01: 1
+count_0: 111
+count_0_01: 2
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090806modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090720.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 114
+count_rainSamples0_01: 0
+count_0: 115
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090809modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090723.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 108
+count_rainSamples0_01: 6
+count_0: 109
+count_0_01: 7
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090812modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090802.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 112
+count_rainSamples0_01: 0
+count_0: 113
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090815modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090805.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+modalsFileFullName:Load One Data:  24%|██████▍                    | 42/175 [00:50<03:32,  1.60s/it]Load One Data:  25%|██████▋                    | 43/175 [00:51<03:32,  1.61s/it]Load One Data:  25%|██████▊                    | 44/175 [00:52<03:17,  1.50s/it]Load One Data:  26%|██████▉                    | 45/175 [00:54<03:05,  1.42s/it]Load One Data:  26%|███████                    | 46/175 [00:55<02:49,  1.31s/it]Load One Data:  27%|███████▎                   | 47/175 [00:56<02:34,  1.20s/it] /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 111
+count_rainSamples0_01: 0
+count_0: 112
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090818modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090814.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 113
+count_rainSamples0_01: 0
+count_0: 114
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090821modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090817.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 106
+count_rainSamples0_01: 7
+count_0: 107
+count_0_01: 8
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090906modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090820.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 102
+count_rainSamples0_01: 0
+count_0: 103
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090909modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090823.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 93
+count_rainSamples0_01: 12
+count_0: 94
+count_0_01: 13
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090912modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090902.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 94
+count_rainSamples0_01: 0
+count_0: 95
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090915modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090905.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000Load One Data:  27%|███████▍                   | 48/175 [00:57<02:44,  1.29s/it]Load One Data:  28%|███████▌                   | 49/175 [00:58<02:37,  1.25s/it]Load One Data:  29%|███████▋                   | 50/175 [01:00<02:40,  1.28s/it]Load One Data:  29%|███████▊                   | 51/175 [01:01<02:31,  1.22s/it]Load One Data:  30%|████████                   | 52/175 [01:02<02:35,  1.26s/it]Load One Data:  30%|████████▏                  | 53/175 [01:03<02:29,  1.23s/it]
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 0
+count_0: 88
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090918modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090914.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 85
+count_rainSamples0_01: 0
+count_0: 86
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019090921modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090917.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 77
+count_rainSamples0_01: 7
+count_0: 78
+count_0_01: 8
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091006modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090920.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 83
+count_rainSamples0_01: 0
+count_0: 84
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091009modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090923.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 77
+count_rainSamples0_01: 8
+count_0: 78
+count_0_01: 9
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091012modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091002.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091015modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091005.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000Load One Data:  31%|████████▎                  | 54/175 [01:04<02:16,  1.13s/it]Load One Data:  31%|████████▍                  | 55/175 [01:06<02:33,  1.28s/it]Load One Data:  32%|████████▋                  | 56/175 [01:08<03:00,  1.52s/it]Load One Data:  33%|████████▊                  | 57/175 [01:09<02:47,  1.42s/it]Load One Data:  33%|████████▉                  | 58/175 [01:10<02:28,  1.27s/it]Load One Data:  34%|█████████                  | 59/175 [01:11<02:16,  1.18s/it]Load One Data:  34%|█████████▎                 | 60/175 [01:12<02:06,  1.10s/it]
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 79
+count_rainSamples0_01: 0
+count_0: 80
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091018modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091014.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 85
+count_rainSamples0_01: 0
+count_0: 86
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091021modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091017.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 5
+count_0: 61
+count_0_01: 6
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091106modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091020.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091109modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091023.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 58
+count_rainSamples0_01: 10
+count_0: 59
+count_0_01: 11
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091112modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091102.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 69
+count_rainSamples0_01: 0
+count_0: 70
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091115modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091105.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 66
+count_rainSamples0_01: 0
+count_0: 67
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091118modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091114.000Load One Data:  35%|█████████▍                 | 61/175 [01:13<02:10,  1.14s/it]Load One Data:  35%|█████████▌                 | 62/175 [01:14<02:08,  1.14s/it]Load One Data:  36%|█████████▋                 | 63/175 [01:15<02:02,  1.09s/it]Load One Data:  37%|█████████▊                 | 64/175 [01:16<01:57,  1.05s/it]Load One Data:  37%|██████████                 | 65/175 [01:17<01:58,  1.08s/it]Load One Data:  38%|██████████▏                | 66/175 [01:19<02:04,  1.14s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091114.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 73
+count_rainSamples0_01: 0
+count_0: 74
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091121modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091117.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 7
+count_0: 91
+count_0_01: 8
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091206modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091120.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 95
+count_rainSamples0_01: 0
+count_0: 96
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091209modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091123.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 4
+count_0: 93
+count_0_01: 5
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091212modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091202.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 96
+count_rainSamples0_01: 0
+count_0: 97
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091215modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091205.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 0
+count_0: 93
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091218modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091214.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000Load One Data:  38%|██████████▎                | 67/175 [01:20<02:02,  1.14s/it]Load One Data:  39%|██████████▍                | 68/175 [01:21<02:10,  1.22s/it]Load One Data:  39%|██████████▋                | 69/175 [01:22<02:01,  1.15s/it]Load One Data:  40%|██████████▊                | 70/175 [01:23<01:55,  1.10s/it]Load One Data:  41%|██████████▉                | 71/175 [01:25<02:12,  1.27s/it]Load One Data:  41%|███████████                | 72/175 [01:26<02:18,  1.34s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 99
+count_rainSamples0_01: 0
+count_0: 100
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091221modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091217.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 91
+count_rainSamples0_01: 4
+count_0: 92
+count_0_01: 5
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091306modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091220.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 0
+count_0: 91
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091309modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091223.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 85
+count_rainSamples0_01: 3
+count_0: 86
+count_0_01: 4
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091312modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091302.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 0
+count_0: 88
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091315modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091305.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 84
+count_rainSamples0_01: 0
+count_0: 85
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091318modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091314.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000Load One Data:  42%|███████████▎               | 73/175 [01:27<02:12,  1.29s/it]Load One Data:  42%|███████████▍               | 74/175 [01:29<02:21,  1.40s/it]Load One Data:  43%|███████████▌               | 75/175 [01:31<02:45,  1.65s/it]Load One Data:  43%|███████████▋               | 76/175 [01:33<02:28,  1.50s/it]Load One Data:  44%|███████████▉               | 77/175 [01:34<02:13,  1.36s/it]Load One Data:  45%|████████████               | 78/175 [01:35<02:04,  1.29s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 96
+count_rainSamples0_01: 0
+count_0: 97
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091321modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091317.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 9
+count_0: 82
+count_0_01: 10
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091406modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091320.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 0
+count_0: 91
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091409modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091323.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 82
+count_rainSamples0_01: 9
+count_0: 83
+count_0_01: 10
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091412modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091402.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 0
+count_0: 91
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091415modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091405.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 86
+count_rainSamples0_01: 0
+count_0: 87
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091418modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091414.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+sample_freq0_4rain: 0.38Load One Data:  45%|████████████▏              | 79/175 [01:36<01:56,  1.22s/it]Load One Data:  46%|████████████▎              | 80/175 [01:37<01:51,  1.18s/it]Load One Data:  46%|████████████▍              | 81/175 [01:38<01:41,  1.08s/it]Load One Data:  47%|████████████▋              | 82/175 [01:39<01:39,  1.07s/it]Load One Data:  47%|████████████▊              | 83/175 [01:40<01:37,  1.07s/it]Load One Data:  48%|████████████▉              | 84/175 [01:41<01:33,  1.02s/it]Load One Data:  49%|█████████████              | 85/175 [01:42<01:33,  1.04s/it]
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 89
+count_rainSamples0_01: 0
+count_0: 90
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091421modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091417.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 77
+count_rainSamples0_01: 12
+count_0: 78
+count_0_01: 13
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091506modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091420.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 0
+count_0: 88
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091509modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091423.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 79
+count_rainSamples0_01: 8
+count_0: 80
+count_0_01: 9
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091512modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091502.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091523.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 88
+count_rainSamples0_01: 0
+count_0: 89
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091515modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091505.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091602.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 0
+count_0: 88
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091518modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091514.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091605.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 95
+count_rainSamples0_01: 0
+count_0: 96
+count_0_01: 0
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091521modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091517.000Load One Data:  49%|█████████████▎             | 86/175 [01:43<01:34,  1.06s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091517.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091614.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 5
+count_0: 88
+count_0_01: 6
+PKL_NAME: /mnt/pami14/yqliu/EC-BiasCorrecting/ERA/19ts_modalsEC/2-modals-seq201909/2019091606modals.pkl
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091520.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091523.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091602.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091605.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091614.000
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19091617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19091617.000
+diamond 1 File is not exist!
+Traceback (most recent call last):
+  File "PreERA5_ts_modals_ec.py", line 770, in <module>
+    pre_ts_ecData(ec_features, ec_dates, latLonItem, sys.argv[1][0:8])
+  File "PreERA5_ts_modals_ec.py", line 356, in __init__
+    self.gainGT4ecPath()
+  File "PreERA5_ts_modals_ec.py", line 601, in gainGT4ecPath
+    index_v6 = indice_all[5]
+IndexError: list index out of range
+Exception ignored in: <bound method tqdm.__del__ of Load One Data:  49%|█████████████▎             | 86/175 [01:43<01:34,  1.06s/it]>
+Traceback (most recent call last):
+  File "/home/yqliu/anaconda3/lib/python3.6/site-packages/tqdm/_tqdm.py", line 889, in __del__
+    self.close()
+  File "/home/yqliu/anaconda3/lib/python3.6/site-packages/tqdm/_tqdm.py", line 1095, in close
+    self._decr_instances(self)
+  File "/home/yqliu/anaconda3/lib/python3.6/site-packages/tqdm/_tqdm.py", line 454, in _decr_instances
+    cls.monitor.exit()
+  File "/home/yqliu/anaconda3/lib/python3.6/site-packages/tqdm/_monitor.py", line 52, in exit
+    self.join()
+  File "/home/yqliu/anaconda3/lib/python3.6/threading.py", line 1053, in join
+    raise RuntimeError("cannot join current thread")
+RuntimeError: cannot join current thread

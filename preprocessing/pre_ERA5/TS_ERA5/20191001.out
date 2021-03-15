@@ -1,0 +1,1583 @@
+nohup: ignoring input
+........ec grib reading start........
+curr_date: 2019-10-01 00:00:00
+curr_date: 2019-10-01 03:00:00
+curr_date: 2019-10-01 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-01 09:00:00
+curr_date: 2019-10-01 12:00:00
+prep_class_3: [87231:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910010600, 87233:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910010600, 87239:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910010600]
+prep_class_4: []
+ec_grib_cost_time: 0.21079206466674805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.08347892761230469
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.07766604423522949
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.10120987892150879
+........ec grib reading start........
+curr_date: 2019-10-01 09:00:00
+curr_date: 2019-10-01 12:00:00
+curr_date: 2019-10-01 15:00:00
+curr_date: 2019-10-01 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-01 21:00:00
+prep_class_3: []
+prep_class_4: [87411:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910011800, 87413:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910011800, 87419:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910011800]
+ec_grib_cost_time: 0.22214841842651367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029519319534301758
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03669929504394531
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029618263244628906
+........ec grib reading start........
+curr_date: 2019-10-02 00:00:00
+curr_date: 2019-10-02 03:00:00
+curr_date: 2019-10-02 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-02 09:00:00
+curr_date: 2019-10-02 12:00:00
+prep_class_3: [87591:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910020600, 87593:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910020600, 87599:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910020600]
+prep_class_4: []
+ec_grib_cost_time: 0.12600994110107422
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03680896759033203
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02887892723083496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03673982620239258
+........ec grib reading start........
+curr_date: 2019-10-02 09:00:00
+curr_date: 2019-10-02 12:00:00
+curr_date: 2019-10-02 15:00:00
+curr_date: 2019-10-02 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-02 21:00:00
+prep_class_3: []
+prep_class_4: [87771:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910021800, 87773:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910021800, 87779:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910021800]
+ec_grib_cost_time: 0.1640787124633789
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04669618606567383
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05994606018066406
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0704643726348877
+........ec grib reading start........
+curr_date: 2019-10-03 00:00:00
+curr_date: 2019-10-03 03:00:00
+curr_date: 2019-10-03 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-03 09:00:00
+curr_date: 2019-10-03 12:00:00
+prep_class_3: [87951:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910030600, 87953:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910030600, 87959:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910030600]
+prep_class_4: []
+ec_grib_cost_time: 0.29442334175109863
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03667044639587402
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02910447120666504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03669142723083496
+........ec grib reading start........
+curr_date: 2019-10-03 09:00:00
+curr_date: 2019-10-03 12:00:00
+curr_date: 2019-10-03 15:00:00
+curr_date: 2019-10-03 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-03 21:00:00
+prep_class_3: []
+prep_class_4: [88131:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910031800, 88133:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910031800, 88139:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910031800]
+ec_grib_cost_time: 0.12846732139587402
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02919936180114746
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03666496276855469
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.028974533081054688
+........ec grib reading start........
+curr_date: 2019-10-04 00:00:00
+curr_date: 2019-10-04 03:00:00
+curr_date: 2019-10-04 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-04 09:00:00
+curr_date: 2019-10-04 12:00:00
+prep_class_3: [88311:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910040600, 88313:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910040600, 88319:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910040600]
+prep_class_4: []
+ec_grib_cost_time: 0.12827515602111816
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03860735893249512
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029912710189819336
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03826427459716797
+........ec grib reading start........
+curr_date: 2019-10-04 09:00:00
+curr_date: 2019-10-04 12:00:00
+curr_date: 2019-10-04 15:00:00
+curr_date: 2019-10-04 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-04 21:00:00
+prep_class_3: []
+prep_class_4: [88491:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910041800, 88493:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910041800, 88499:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910041800]
+ec_grib_cost_time: 0.2844080924987793
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04521346092224121
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05639910697937012
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.040459632873535156
+........ec grib reading start........
+curr_date: 2019-10-05 00:00:00
+curr_date: 2019-10-05 03:00:00
+curr_date: 2019-10-05 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-05 09:00:00
+curr_date: 2019-10-05 12:00:00
+prep_class_3: [88671:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910050600, 88673:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910050600, 88679:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910050600]
+prep_class_4: []
+ec_grib_cost_time: 0.1261594295501709
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03734326362609863
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030397415161132812
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03792858123779297
+........ec grib reading start........
+curr_date: 2019-10-05 09:00:00
+curr_date: 2019-10-05 12:00:00
+curr_date: 2019-10-05 15:00:00
+curr_date: 2019-10-05 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-05 21:00:00
+prep_class_3: []
+prep_class_4: [88851:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910051800, 88853:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910051800, 88859:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910051800]
+ec_grib_cost_time: 0.1257927417755127
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02968430519104004
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03745627403259277
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03043961524963379
+........ec grib reading start........
+curr_date: 2019-10-06 00:00:00
+curr_date: 2019-10-06 03:00:00
+curr_date: 2019-10-06 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-06 09:00:00
+curr_date: 2019-10-06 12:00:00
+prep_class_3: [89031:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910060600, 89033:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910060600, 89039:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910060600]
+prep_class_4: []
+ec_grib_cost_time: 0.16039276123046875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05654454231262207
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04576587677001953
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05647873878479004
+........ec grib reading start........
+curr_date: 2019-10-06 09:00:00
+curr_date: 2019-10-06 12:00:00
+curr_date: 2019-10-06 15:00:00
+curr_date: 2019-10-06 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-06 21:00:00
+prep_class_3: []
+prep_class_4: [89211:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910061800, 89213:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910061800, 89219:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910061800]
+ec_grib_cost_time: 0.23905420303344727
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02990579605102539
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03717160224914551
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0297396183013916
+........ec grib reading start........
+curr_date: 2019-10-07 00:00:00
+curr_date: 2019-10-07 03:00:00
+curr_date: 2019-10-07 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-07 09:00:00
+curr_date: 2019-10-07 12:00:00
+prep_class_3: [89391:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910070600, 89393:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910070600, 89399:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910070600]
+prep_class_4: []
+ec_grib_cost_time: 0.1267712116241455
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03865694999694824
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03381919860839844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03973078727722168
+........ec grib reading start........
+curr_date: 2019-10-07 09:00:00
+curr_date: 2019-10-07 12:00:00
+curr_date: 2019-10-07 15:00:00
+curr_date: 2019-10-07 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-07 21:00:00
+prep_class_3: []
+prep_class_4: [89571:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910071800, 89573:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910071800, 89579:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910071800]
+ec_grib_cost_time: 0.12951016426086426
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03172779083251953
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039928436279296875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04610085487365723
+........ec grib reading start........
+curr_date: 2019-10-08 00:00:00
+curr_date: 2019-10-08 03:00:00
+curr_date: 2019-10-08 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-08 09:00:00
+curr_date: 2019-10-08 12:00:00
+prep_class_3: [89751:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910080600, 89753:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910080600, 89759:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910080600]
+prep_class_4: []
+ec_grib_cost_time: 0.28470730781555176
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05648159980773926
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03995561599731445
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038840532302856445
+........ec grib reading start........
+curr_date: 2019-10-08 09:00:00
+curr_date: 2019-10-08 12:00:00
+curr_date: 2019-10-08 15:00:00
+curr_date: 2019-10-08 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-08 21:00:00
+prep_class_3: []
+prep_class_4: [89931:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910081800, 89933:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910081800, 89939:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910081800]
+ec_grib_cost_time: 0.12801194190979004
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030074119567871094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038922786712646484
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03008890151977539
+........ec grib reading start........
+curr_date: 2019-10-09 00:00:00
+curr_date: 2019-10-09 03:00:00
+curr_date: 2019-10-09 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-09 09:00:00
+curr_date: 2019-10-09 12:00:00
+prep_class_3: [90111:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910090600, 90113:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910090600, 90119:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910090600]
+prep_class_4: []
+ec_grib_cost_time: 0.12773895263671875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038101911544799805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030539274215698242
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037737131118774414
+........ec grib reading start........
+curr_date: 2019-10-09 09:00:00
+curr_date: 2019-10-09 12:00:00
+curr_date: 2019-10-09 15:00:00
+curr_date: 2019-10-09 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-09 21:00:00
+prep_class_3: []
+prep_class_4: [90291:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910091800, 90293:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910091800, 90299:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910091800]
+ec_grib_cost_time: 0.2243943214416504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04882931709289551
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056369781494140625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04520297050476074
+........ec grib reading start........
+curr_date: 2019-10-10 00:00:00
+curr_date: 2019-10-10 03:00:00
+curr_date: 2019-10-10 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-10 09:00:00
+curr_date: 2019-10-10 12:00:00
+prep_class_3: [90471:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910100600, 90473:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910100600, 90479:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910100600]
+prep_class_4: []
+ec_grib_cost_time: 0.18492722511291504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03715038299560547
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029589176177978516
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03796076774597168
+........ec grib reading start........
+curr_date: 2019-10-10 09:00:00
+curr_date: 2019-10-10 12:00:00
+curr_date: 2019-10-10 15:00:00
+curr_date: 2019-10-10 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-10 21:00:00
+prep_class_3: []
+prep_class_4: [90651:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910101800, 90653:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910101800, 90659:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910101800]
+ec_grib_cost_time: 0.1283106803894043
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030678272247314453
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03799152374267578
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03011465072631836
+........ec grib reading start........
+curr_date: 2019-10-11 00:00:00
+curr_date: 2019-10-11 03:00:00
+curr_date: 2019-10-11 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-11 09:00:00
+curr_date: 2019-10-11 12:00:00
+prep_class_3: [90831:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910110600, 90833:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910110600, 90839:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910110600]
+prep_class_4: []
+ec_grib_cost_time: 0.1333785057067871
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04771256446838379
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044834136962890625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05646705627441406
+........ec grib reading start........
+curr_date: 2019-10-11 09:00:00
+curr_date: 2019-10-11 12:00:00
+curr_date: 2019-10-11 15:00:00
+curr_date: 2019-10-11 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-11 21:00:00
+prep_class_3: []
+prep_class_4: [91011:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910111800, 91013:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910111800, 91019:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910111800]
+ec_grib_cost_time: 0.2697165012359619
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04169321060180664
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03693532943725586
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0293886661529541
+........ec grib reading start........
+curr_date: 2019-10-12 00:00:00
+curr_date: 2019-10-12 03:00:00
+curr_date: 2019-10-12 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-12 09:00:00
+curr_date: 2019-10-12 12:00:00
+prep_class_3: [91191:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910120600, 91193:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910120600, 91199:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910120600]
+prep_class_4: []
+ec_grib_cost_time: 0.1259298324584961
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0367436408996582
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029807090759277344
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.036980390548706055
+........ec grib reading start........
+curr_date: 2019-10-12 09:00:00
+curr_date: 2019-10-12 12:00:00
+curr_date: 2019-10-12 15:00:00
+curr_date: 2019-10-12 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-12 21:00:00
+prep_class_3: []
+prep_class_4: [91371:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910121800, 91373:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910121800, 91379:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910121800]
+ec_grib_cost_time: 0.12651658058166504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030400991439819336
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03751111030578613
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029637813568115234
+........ec grib reading start........
+curr_date: 2019-10-13 00:00:00
+curr_date: 2019-10-13 03:00:00
+curr_date: 2019-10-13 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-13 09:00:00
+curr_date: 2019-10-13 12:00:00
+prep_class_3: [91551:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910130600, 91553:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910130600, 91559:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910130600]
+prep_class_4: []
+ec_grib_cost_time: 0.2256617546081543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05672264099121094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04485273361206055
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055756568908691406
+........ec grib reading start........
+curr_date: 2019-10-13 09:00:00
+curr_date: 2019-10-13 12:00:00
+curr_date: 2019-10-13 15:00:00
+curr_date: 2019-10-13 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-13 21:00:00
+prep_class_3: []
+prep_class_4: [91731:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910131800, 91733:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910131800, 91739:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910131800]
+ec_grib_cost_time: 0.17329740524291992
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029758214950561523
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03705453872680664
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02924799919128418
+........ec grib reading start........
+curr_date: 2019-10-14 00:00:00
+curr_date: 2019-10-14 03:00:00
+curr_date: 2019-10-14 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-14 09:00:00
+curr_date: 2019-10-14 12:00:00
+prep_class_3: [91911:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910140600, 91913:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910140600, 91919:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910140600]
+prep_class_4: []
+ec_grib_cost_time: 0.12633728981018066
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03752732276916504
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029665708541870117
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03900432586669922
+........ec grib reading start........
+curr_date: 2019-10-14 09:00:00
+curr_date: 2019-10-14 12:00:00
+curr_date: 2019-10-14 15:00:00
+curr_date: 2019-10-14 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-14 21:00:00
+prep_class_3: []
+prep_class_4: [92091:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910141800, 92093:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910141800, 92099:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910141800]
+ec_grib_cost_time: 0.12784314155578613
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029791593551635742
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05028390884399414
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04515409469604492
+........ec grib reading start........
+curr_date: 2019-10-15 00:00:00
+curr_date: 2019-10-15 03:00:00
+curr_date: 2019-10-15 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-15 09:00:00
+curr_date: 2019-10-15 12:00:00
+prep_class_3: [92271:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910150600, 92273:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910150600, 92279:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910150600]
+prep_class_4: []
+ec_grib_cost_time: 0.2817234992980957
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05583524703979492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03199028968811035
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03681302070617676
+........ec grib reading start........
+curr_date: 2019-10-15 09:00:00
+curr_date: 2019-10-15 12:00:00
+curr_date: 2019-10-15 15:00:00
+curr_date: 2019-10-15 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-15 21:00:00
+prep_class_3: []
+prep_class_4: [92451:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910151800, 92453:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910151800, 92459:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910151800]
+ec_grib_cost_time: 0.12593650817871094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030555248260498047
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03783392906188965
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029368162155151367
+........ec grib reading start........
+curr_date: 2019-10-16 00:00:00
+curr_date: 2019-10-16 03:00:00
+curr_date: 2019-10-16 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-16 09:00:00
+curr_date: 2019-10-16 12:00:00
+prep_class_3: [92631:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910160600, 92633:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910160600, 92639:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910160600]
+prep_class_4: []
+ec_grib_cost_time: 0.12674665451049805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037885189056396484
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03029918670654297
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039339542388916016
+........ec grib reading start........
+curr_date: 2019-10-16 09:00:00
+curr_date: 2019-10-16 12:00:00
+curr_date: 2019-10-16 15:00:00
+curr_date: 2019-10-16 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-16 21:00:00
+prep_class_3: []
+prep_class_4: [92811:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910161800, 92813:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910161800, 92819:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910161800]
+ec_grib_cost_time: 0.22254681587219238
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04564547538757324
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056540489196777344
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04471755027770996
+........ec grib reading start........
+curr_date: 2019-10-17 00:00:00
+curr_date: 2019-10-17 03:00:00
+curr_date: 2019-10-17 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-17 09:00:00
+curr_date: 2019-10-17 12:00:00
+prep_class_3: [92991:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910170600, 92993:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910170600, 92999:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910170600]
+prep_class_4: []
+ec_grib_cost_time: 0.17928433418273926
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03684663772583008
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02925562858581543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03746318817138672
+........ec grib reading start........
+curr_date: 2019-10-17 09:00:00
+curr_date: 2019-10-17 12:00:00
+curr_date: 2019-10-17 15:00:00
+curr_date: 2019-10-17 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-17 21:00:00
+prep_class_3: []
+prep_class_4: [93171:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910171800, 93173:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910171800, 93179:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910171800]
+ec_grib_cost_time: 0.12617754936218262
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03129982948303223
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037325143814086914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029610157012939453
+........ec grib reading start........
+curr_date: 2019-10-18 00:00:00
+curr_date: 2019-10-18 03:00:00
+curr_date: 2019-10-18 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-18 09:00:00
+curr_date: 2019-10-18 12:00:00
+prep_class_3: [93351:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910180600, 93353:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910180600, 93359:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910180600]
+prep_class_4: []
+ec_grib_cost_time: 0.1273961067199707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.040843963623046875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.045690059661865234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05562329292297363
+........ec grib reading start........
+curr_date: 2019-10-18 09:00:00
+curr_date: 2019-10-18 12:00:00
+curr_date: 2019-10-18 15:00:00
+curr_date: 2019-10-18 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-18 21:00:00
+prep_class_3: []
+prep_class_4: [93531:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910181800, 93533:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910181800, 93539:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910181800]
+ec_grib_cost_time: 0.2816493511199951
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037181854248046875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03655290603637695
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02928304672241211
+........ec grib reading start........
+curr_date: 2019-10-19 00:00:00
+curr_date: 2019-10-19 03:00:00
+curr_date: 2019-10-19 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-19 09:00:00
+curr_date: 2019-10-19 12:00:00
+prep_class_3: [93711:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910190600, 93713:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910190600, 93719:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910190600]
+prep_class_4: []
+ec_grib_cost_time: 0.12517261505126953
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037067413330078125
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029549360275268555
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03686404228210449
+........ec grib reading start........
+curr_date: 2019-10-19 09:00:00
+curr_date: 2019-10-19 12:00:00
+curr_date: 2019-10-19 15:00:00
+curr_date: 2019-10-19 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-19 21:00:00
+prep_class_3: []
+prep_class_4: [93891:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910191800, 93893:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910191800, 93899:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910191800]
+ec_grib_cost_time: 0.1270148754119873
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030429601669311523
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03787422180175781
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02983689308166504
+........ec grib reading start........
+curr_date: 2019-10-20 00:00:00
+curr_date: 2019-10-20 03:00:00
+curr_date: 2019-10-20 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-20 09:00:00
+curr_date: 2019-10-20 12:00:00
+prep_class_3: [94071:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910200600, 94073:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910200600, 94079:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910200600]
+prep_class_4: []
+ec_grib_cost_time: 0.23669767379760742
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055856943130493164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04454398155212402
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055689096450805664
+........ec grib reading start........
+curr_date: 2019-10-20 09:00:00
+curr_date: 2019-10-20 12:00:00
+curr_date: 2019-10-20 15:00:00
+curr_date: 2019-10-20 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-20 21:00:00
+prep_class_3: []
+prep_class_4: [94251:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910201800, 94253:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910201800, 94259:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910201800]
+ec_grib_cost_time: 0.17247295379638672
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02993941307067871
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03915095329284668
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031313419342041016
+........ec grib reading start........
+curr_date: 2019-10-21 00:00:00
+curr_date: 2019-10-21 03:00:00
+curr_date: 2019-10-21 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-21 09:00:00
+curr_date: 2019-10-21 12:00:00
+prep_class_3: [94431:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910210600, 94433:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910210600, 94439:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910210600]
+prep_class_4: []
+ec_grib_cost_time: 0.12613177299499512
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039140939712524414
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029683589935302734
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04322504997253418
+........ec grib reading start........
+curr_date: 2019-10-21 09:00:00
+curr_date: 2019-10-21 12:00:00
+curr_date: 2019-10-21 15:00:00
+curr_date: 2019-10-21 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-21 21:00:00
+prep_class_3: []
+prep_class_4: [94611:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910211800, 94613:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910211800, 94619:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910211800]
+ec_grib_cost_time: 0.12769579887390137
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03693699836730957
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05623292922973633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0459446907043457
+........ec grib reading start........
+curr_date: 2019-10-22 00:00:00
+curr_date: 2019-10-22 03:00:00
+curr_date: 2019-10-22 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-22 09:00:00
+curr_date: 2019-10-22 12:00:00
+prep_class_3: [94791:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910220600, 94793:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910220600, 94799:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910220600]
+prep_class_4: []
+ec_grib_cost_time: 0.2780320644378662
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04544520378112793
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029638290405273438
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03712964057922363
+........ec grib reading start........
+curr_date: 2019-10-22 09:00:00
+curr_date: 2019-10-22 12:00:00
+curr_date: 2019-10-22 15:00:00
+curr_date: 2019-10-22 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-22 21:00:00
+prep_class_3: []
+prep_class_4: [94971:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910221800, 94973:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910221800, 94979:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910221800]
+ec_grib_cost_time: 0.12521648406982422
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02943277359008789
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03705406188964844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03108382225036621
+........ec grib reading start........
+curr_date: 2019-10-23 00:00:00
+curr_date: 2019-10-23 03:00:00
+curr_date: 2019-10-23 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-23 09:00:00
+curr_date: 2019-10-23 12:00:00
+prep_class_3: [95151:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910230600, 95153:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910230600, 95159:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910230600]
+prep_class_4: []
+ec_grib_cost_time: 0.12609219551086426
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0380101203918457
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031180858612060547
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037183284759521484
+........ec grib reading start........
+curr_date: 2019-10-23 09:00:00
+curr_date: 2019-10-23 12:00:00
+curr_date: 2019-10-23 15:00:00
+curr_date: 2019-10-23 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-23 21:00:00
+prep_class_3: []
+prep_class_4: [95331:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910231800, 95333:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910231800, 95339:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910231800]
+ec_grib_cost_time: 0.25078892707824707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04453563690185547
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055727243423461914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04481863975524902
+........ec grib reading start........
+curr_date: 2019-10-24 00:00:00
+curr_date: 2019-10-24 03:00:00
+curr_date: 2019-10-24 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-24 09:00:00
+curr_date: 2019-10-24 12:00:00
+prep_class_3: [95511:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910240600, 95513:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910240600, 95519:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910240600]
+prep_class_4: []
+ec_grib_cost_time: 0.16199207305908203
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037355661392211914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029764413833618164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038164377212524414
+........ec grib reading start........
+curr_date: 2019-10-24 09:00:00
+curr_date: 2019-10-24 12:00:00
+curr_date: 2019-10-24 15:00:00
+curr_date: 2019-10-24 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-24 21:00:00
+prep_class_3: []
+prep_class_4: [95691:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910241800, 95693:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910241800, 95699:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910241800]
+ec_grib_cost_time: 0.12576913833618164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029799222946166992
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03743577003479004
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029738903045654297
+........ec grib reading start........
+curr_date: 2019-10-25 00:00:00
+curr_date: 2019-10-25 03:00:00
+curr_date: 2019-10-25 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-25 09:00:00
+curr_date: 2019-10-25 12:00:00
+prep_class_3: [95871:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910250600, 95873:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910250600, 95879:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910250600]
+prep_class_4: []
+ec_grib_cost_time: 0.12637114524841309
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05087614059448242
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04665994644165039
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05576682090759277
+........ec grib reading start........
+curr_date: 2019-10-25 09:00:00
+curr_date: 2019-10-25 12:00:00
+curr_date: 2019-10-25 15:00:00
+curr_date: 2019-10-25 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-25 21:00:00
+prep_class_3: []
+prep_class_4: [96051:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910251800, 96053:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910251800, 96059:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910251800]
+ec_grib_cost_time: 0.28064393997192383
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.032123565673828125
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039067745208740234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02920222282409668
+........ec grib reading start........
+curr_date: 2019-10-26 00:00:00
+curr_date: 2019-10-26 03:00:00
+curr_date: 2019-10-26 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-26 09:00:00
+curr_date: 2019-10-26 12:00:00
+prep_class_3: [96231:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910260600, 96233:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910260600, 96239:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910260600]
+prep_class_4: []
+ec_grib_cost_time: 0.12477850914001465
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03716301918029785
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02952885627746582
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03699374198913574
+........ec grib reading start........
+curr_date: 2019-10-26 09:00:00
+curr_date: 2019-10-26 12:00:00
+curr_date: 2019-10-26 15:00:00
+curr_date: 2019-10-26 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-26 21:00:00
+prep_class_3: []
+prep_class_4: [96411:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910261800, 96413:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910261800, 96419:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910261800]
+ec_grib_cost_time: 0.12670040130615234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030272245407104492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03868222236633301
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.042315006256103516
+........ec grib reading start........
+curr_date: 2019-10-27 00:00:00
+curr_date: 2019-10-27 03:00:00
+curr_date: 2019-10-27 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-27 09:00:00
+curr_date: 2019-10-27 12:00:00
+prep_class_3: [96591:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910270600, 96593:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910270600, 96599:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910270600]
+prep_class_4: []
+ec_grib_cost_time: 0.22153949737548828
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.047858476638793945
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038001060485839844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04749464988708496
+........ec grib reading start........
+curr_date: 2019-10-27 09:00:00
+curr_date: 2019-10-27 12:00:00
+curr_date: 2019-10-27 15:00:00
+curr_date: 2019-10-27 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-27 21:00:00
+prep_class_3: []
+prep_class_4: [96771:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910271800, 96773:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910271800, 96779:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910271800]
+ec_grib_cost_time: 0.18163752555847168
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029797792434692383
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03954720497131348
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02979588508605957
+........ec grib reading start........
+curr_date: 2019-10-28 00:00:00
+curr_date: 2019-10-28 03:00:00
+curr_date: 2019-10-28 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-28 09:00:00
+curr_date: 2019-10-28 12:00:00
+prep_class_3: [96951:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910280600, 96953:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910280600, 96959:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910280600]
+prep_class_4: []
+ec_grib_cost_time: 0.12698984146118164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037590742111206055
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02985668182373047
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03800559043884277
+........ec grib reading start........
+curr_date: 2019-10-28 09:00:00
+curr_date: 2019-10-28 12:00:00
+curr_date: 2019-10-28 15:00:00
+curr_date: 2019-10-28 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-28 21:00:00
+prep_class_3: []
+prep_class_4: [97131:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910281800, 97133:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910281800, 97139:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910281800]
+ec_grib_cost_time: 0.127349853515625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04436755180358887
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05600285530090332
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04453277587890625
+........ec grib reading start........
+curr_date: 2019-10-29 00:00:00
+curr_date: 2019-10-29 03:00:00
+curr_date: 2019-10-29 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-29 09:00:00
+curr_date: 2019-10-29 12:00:00
+prep_class_3: [97311:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910290600, 97313:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910290600, 97319:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910290600]
+prep_class_4: []
+ec_grib_cost_time: 0.2776029109954834
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03750252723693848
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029190778732299805
+........ec data reading start........
+interval_prep_date_length:Load StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 4/1188 [00:00<00:35, 33.46it/s]Load StationWindows:   1%|▏                   | 11/1188 [00:00<00:31, 37.95it/s]Load StationWindows:   1%|▎                   | 15/1188 [00:00<00:31, 37.34it/s]Load StationWindows:   2%|▍                   | 23/1188 [00:00<00:26, 44.41it/s]Load StationWindows:   3%|▌                   | 30/1188 [00:00<00:24, 47.97it/s]Load StationWindows:   3%|▋                   | 38/1188 [00:00<00:21, 53.85it/s]Load StationWindows:   4%|▊                   | 45/1188 [00:00<00:19, 57.64it/s]Load StationWindows:   4%|▊                   | 51/1188 [00:00<00:20, 55.91it/s]Load StationWindows:   5%|▉                   | 57/1188 [00:01<00:21, 51.66it/s]Load StationWindows:   5%|█                   | 63/1188 [00:01<00:21, 52.94it/s]Load StationWindows:   6%|█▏                  | 69/1188 [00:01<00:21, 52.91it/s]Load StationWindows:   6%|█▎                  | 75/1188 [00:01<00:20, 54.62it/s]Load StationWindows:   7%|█▍                  | 83/1188 [00:01<00:18, 58.84it/s]Load StationWindows:   8%|█▌                  | 91/1188 [00:01<00:17, 62.83it/s]Load StationWindows:   8%|█▋                  | 99/1188 [00:01<00:16, 64.70it/s]Load StationWindows:   9%|█▋                 | 106/1188 [00:01<00:18, 59.28it/s]Load StationWindows:  10%|█▊                 | 113/1188 [00:01<00:19, 56.11it/s]Load StationWindows:  10%|█▉                 | 119/1188 [00:02<00:19, 54.63it/s]Load StationWindows:  11%|█▉                 | 125/1188 [00:02<00:19, 55.40it/s]Load StationWindows:  11%|██                 | 131/1188 [00:02<00:19, 54.33it/s]Load StationWindows:  12%|██▏                | 138/1188 [00:02<00:18, 58.16it/s]Load StationWindows:  12%|██▎                | 146/1188 [00:02<00:16, 61.69it/s]Load StationWindows:  13%|██▍                | 153/1188 [00:02<00:16, 63.84it/s]Load StationWindows:  14%|██▌                | 161/1188 [00:02<00:15, 66.43it/s]Load StationWindows:  14%|██▋                | 169/1188 [00:02<00:14, 68.02it/s]Load StationWindows:  15%|██▊                | 176/1188 [00:02<00:15, 63.93it/s]Load StationWindows:  15%|██▉                | 183/1188 [00:03<00:16, 59.18it/s]Load StationWindows:  16%|███                | 190/1188 [00:03<00:17, 58.66it/s]Load StationWindows:  17%|███▏               | 197/1188 [00:03<00:16, 61.19it/s]Load StationWindows:  17%|███▎               | 206/1188 [00:03<00:14, 66.75it/s]Load StationWindows:  18%|███▍               | 215/1188 [00:03<00:13, 70.96it/s]Load StationWindows:  19%|███▌               | 224/1188 [00:03<00:12, 74.30it/s]Load StationWindows:  20%|███▋               | 233/1188 [00:03<00:12, 76.71it/s]Load StationWindows:  20%|███▊               | 241/1188 [00:03<00:12, 77.40it/s]Load StationWindows:  21%|███▉               | 249/1188 [00:04<00:13, 70.23it/s]Load StationWindows:  22%|████               | 257/1188 [00:04<00:14, 66.15it/s]Load StationWindows:  22%|████▏              | 264/1188 [00:04<00:14, 62.93it/s]Load StationWindows:  23%|████▎              | 272/1188 [00:04<00:13, 66.24it/s]Load StationWindows:  24%|████▍              | 280/1188 [00:04<00:13, 69.79it/s]Load StationWindows:  24%|████▌              | 288/1188 [00:04<00:12, 72.40it/s]Load StationWindows:  25%|████▋              | 296/1188 [00:04<00:12, 74.13it/s]Load StationWindows:  26%|████▊              | 304/1188 [00:04<00:11, 74.66it/s]Load StationWindows:  26%|████▉              | 312/1188 [00:04<00:12, 72.38it/s]Load StationWindows:  27%|█████              | 320/1188 [00:05<00:13, 65.95it/s]Load StationWindows:  28%|█████▏             | 327/1188 [00:05<00:14, 61.22it/s]Load StationWindows:  28%|█████▎             | 334/1188 [00:05<00:14, 60.11it/s]Load StationWindows:  29%|█████▍             | 342/1188 [00:05<00:13, 64.16it/s]Load StationWindows:  29%|█████▌             | 350/1188 [00:05<00:12, 67.30it/s]Load StationWindows:  30%|█████▋             | 358/1188 [00:05<00:11, 69.51it/s]Load StationWindows:  31%|█████▊             | 366/1188 [00:05<00:11, 71.74it/s]Load StationWindows:  31%|█████▉             | 374/1188 [00:05<00:11, 72.66it/s]Load StationWindows:  32%|██████             | 382/1188 [00:05<00:12, 64.99it/s]Load StationWindows:  33%|██████▏            | 389/1188 [00:06<00:13, 61.38it/s]Load StationWindows:  34%|██████▎            | 398/1188 [00:06<00:11, 66.89it/s]Load StationWindows:  34%|██████▌            | 407/1188 [00:06<00:11, 70.13it/s]Load StationWindows:  35%|██████▋            | 415/1188 [00:06<00:11, 64.66it/s]Load StationWindows:  36%|██████▊            | 424/1188 [00:06<00:11, 69.32it/s]Load StationWindows:  36%|██████▉            | 432/1188 [00:06<00:11, 68.62it/s]Load StationWindows:  37%|███████            | 440/1188 [00:06<00:10, 68.48it/s]Load StationWindows:  38%|███████▏           | 447/1188 [00:06<00:12, 61.28it/s]Load StationWindows:  38%|███████▎           | 454/1188 [00:07<00:13, 56.03it/s]Load StationWindows:  39%|███████▎           | 460/1188 [00:07<00:13, 53.81it/s]Load StationWindows:  39%|███████▍           | 466/1188 [00:07<00:13, 54.56it/s]Load StationWindows:  40%|███████▌           | 472/1188 [00:07<00:13, 51.98it/s]Load StationWindows:  40%|███████▋           | 478/1188 [00:07<00:14, 50.18it/s]Load StationWindows:  41%|███████▋           | 484/1188 [00:07<00:14, 49.98it/s]Load StationWindows:  41%|███████▊           | 490/1188 [00:07<00:13, 52.14it/s]Load StationWindows:  42%|███████▉           | 496/1188 [00:07<00:13, 49.87it/s]Load StationWindows:  42%|████████           | 502/1188 [00:08<00:14, 48.26it/s]Load StationWindows:  43%|████████           | 507/1188 [00:08<00:14, 46.53it/s]Load StationWindows:  43%|████████▏          | 513/1188 [00:08<00:14, 47.55it/s]Load StationWindows:  44%|████████▎          | 520/1188 [00:08<00:12, 51.42it/s]Load StationWindows:  44%|████████▍          | 527/1188 [00:08<00:12, 54.98it/s]Load StationWindows:  45%|████████▌          | 534/1188 [00:08<00:11, 57.47it/s]Load StationWindows:  46%|████████▋          | 541/1188 [00:08<00:10, 59.50it/s]Load StationWindows:  46%|████████▊          | 548/1188 [00:08<00:12, 52.83it/s]Load StationWindows:  47%|████████▊          | 554/1188 [00:09<00:13, 47.47it/s]Load StationWindows:  47%|████████▉          | 560/1188 [00:09<00:13, 46.58it/s]Load StationWindows:  48%|█████████          | 567/1188 [00:09<00:12, 50.22it/s]Load StationWindows:  48%|█████████▏         | 574/1188 [00:09<00:11, 53.02it/s]Load StationWindows:  49%|█████████▎         | 581/1188 [00:09<00:10, 55.30it/s]Load StationWindows:  49%|█████████▍         | 588/1188 [00:09<00:10, 56.71it/s]Load StationWindows:  50%|█████████▌         | 594/1188 [00:09<00:10, 54.32it/s]Load StationWindows:  51%|█████████▌         | 600/1188 [00:09<00:12, 47.94it/s]Load StationWindows:  51%|█████████▋         | 606/1188 [00:10<00:13, 43.77it/s]Load StationWindows:  52%|█████████▊         | 612/1188 [00:10<00:12, 46.36it/s]Load StationWindows:  52%|█████████▉         | 618/1188 [00:10<00:11, 49.73it/s]Load StationWindows:  53%|█████████▉         | 624/1188 [00:10<00:10, 51.98it/s]Load StationWindows:  53%|██████████         | 630/1188 [00:10<00:10, 53.55it/s]Load StationWindows:  54%|██████████▏        | 636/1188 [00:10<00:11, 50.17it/s]Load StationWindows:  54%|██████████▎        | 642/1188 [00:10<00:11, 46.75it/s]Load StationWindows:  54%|██████████▎        | 647/1188 [00:10<00:12, 42.89it/s]Load StationWindows:  55%|██████████▍        | 652/1188 [00:11<00:13, 39.61it/s]Load StationWindows:  55%|██████████▌        | 658/1188 [00:11<00:12, 43.04it/s]Load StationWindows:  56%|██████████▌        | 664/1188 [00:11<00:11, 46.43it/s]Load StationWindows:  56%|██████████▋        | 669/1188 [00:11<00:11, 46.12it/s]Load StationWindows:  57%|██████████▊        | 674/1188 [00:11<00:12, 41.57it/s]Load StationWindows:  57%|██████████▊        | 679/1188 [00:11<00:11, 43.60it/s]Load StationWindows:  58%|██████████▉        | 684/1188 [00:11<00:11, 45.17it/s]Load StationWindows:  58%|███████████        | 689/1188 [00:11<00:10, 45.44it/s]Load StationWindows:  58%|███████████        | 694/1188 [00:12<00:10, 46.30it/s]Load StationWindows:  59%|███████████▏       | 700/1188 [00:12<00:10, 48.01it/s]Load StationWindows:  60%|███████████▎       | 708/1188 [00:12<00:08, 53.59it/s]Load StationWindows:  60%|███████████▍       | 716/1188 [00:12<00:08, 58.02it/s]Load StationWindows:  61%|███████████▌       | 724/1188 [00:12<00:07, 61.28it/s]Load StationWindows:  62%|███████████▋       | 731/1188 [00:12<00:07, 59.10it/s]Load StationWindows:  62%|███████████▊       | 738/1188 [00:12<00:07, 60.85it/s]Load StationWindows:  63%|███████████▉       | 745/1188 [00:12<00:07, 55.54it/s]Load StationWindows:  63%|████████████       | 751/1188 [00:12<00:08, 51.76it/s]Load StationWindows:  64%|████████████       | 757/1188 [00:13<00:08, 50.23it/s]Load StationWindows:  64%|████████████▏      | 764/1188 [00:13<00:07, 54.72it/s]Load StationWindows:  65%|████████████▎      | 771/1188 [00:13<00:07, 58.22it/s]Load StationWindows:  65%|████████████▍      | 778/1188 [00:13<00:06, 61.27it/s]Load StationWindows:  66%|████████████▌      | 785/1188 [00:13<00:06, 63.13it/s]Load StationWindows:  67%|████████████▋      | 792/1188 [00:13<00:06, 63.96it/s]Load StationWindows:  67%|████████████▊      | 799/1188 [00:13<00:06, 57.45it/s]Load StationWindows:  68%|████████████▊      | 805/1188 [00:13<00:07, 53.70it/s]Load StationWindows:  68%|████████████▉      | 812/1188 [00:14<00:06, 55.88it/s]Load StationWindows:  69%|█████████████      | 818/1188 [00:14<00:06, 55.78it/s]Load StationWindows:  69%|█████████████▏     | 824/1188 [00:14<00:06, 52.53it/s]Load StationWindows:  70%|█████████████▎     | 830/1188 [00:14<00:07, 50.48it/s]Load StationWindows:  70%|█████████████▎     | 836/1188 [00:14<00:06, 50.72it/s]Load StationWindows:  71%|█████████████▍     | 844/1188 [00:14<00:06, 55.73it/s]Load StationWindows:  72%|█████████████▋     | 852/1188 [00:14<00:05, 60.04it/s]Load StationWindows:  72%|█████████████▊     | 860/1188 [00:14<00:05, 63.15it/s]Load StationWindows:  73%|█████████████▊     | 867/1188 [00:14<00:04, 64.88it/s]Load StationWindows:  74%|█████████████▉     | 874/1188 [00:15<00:04, 64.56it/s]Load StationWindows:  74%|██████████████     | 881/1188 [00:15<00:05, 60.37it/s]Load StationWindows:  75%|██████████████▏    | 889/1188 [00:15<00:04, 63.42it/s]Load StationWindows:  75%|██████████████▎    | 896/1188 [00:15<00:04, 65.23it/s]Load StationWindows:  76%|██████████████▍    | 903/1188 [00:15<00:04, 63.79it/s]Load StationWindows:  77%|██████████████▌    | 911/1188 [00:15<00:04, 65.60it/s]Load StationWindows:  77%|██████████████▋    | 919/1188 [00:15<00:04, 66.97it/s]Load StationWindows:  78%|██████████████▊    | 927/1188 [00:15<00:03, 68.02it/s]Load StationWindows:  79%|██████████████▉    | 934/1188 [00:15<00:03, 67.23it/s]Load StationWindows:  79%|███████████████    | 941/1188 [00:16<00:03, 66.34it/s]Load StationWindows:  80%|███████████████▏   | 948/1188 [00:16<00:03, 64.92it/s]Load StationWindows:  80%|███████████████▎   | 955/1188 [00:16<00:03, 65.93it/s]Load StationWindows:  81%|███████████████▍   | 962/1188 [00:16<00:03, 62.85it/s]Load StationWindows:  82%|███████████████▍   | 969/1188 [00:16<00:03, 60.73it/s]Load StationWindows:  82%|███████████████▌   | 976/1188 [00:16<00:03, 62.46it/s]Load StationWindows:  83%|███████████████▋   | 983/1188 [00:16<00:03, 63.59it/s]Load StationWindows:  83%|███████████████▊   | 990/1188 [00:16<00:03, 64.24it/s]Load StationWindows:  84%|███████████████▉   | 997/1188 [00:16<00:03, 63.63it/s]Load StationWindows:  85%|███████████████▏  | 1004/1188 [00:17<00:03, 54.59it/s]Load StationWindows:  85%|███████████████▎  | 1010/1188 [00:17<00:03, 48.53it/s]Load StationWindows:  86%|███████████████▍  | 1016/1188 [00:17<00:03, 46.30it/s]Load StationWindows:  86%|███████████████▌  | 1023/1188 [00:17<00:03, 50.50it/s]Load StationWindows:  87%|███████████████▌  | 1030/1188 [00:17<00:02, 53.89it/s]Load StationWindows:  87%|███████████████▋  | 1037/1188 [00:17<00:02, 56.33it/s]Load StationWindows:  88%|███████████████▊  | 1044/1188 [00:17<00:02, 57.73it/s]Load StationWindows:  88%|███████████████▉  | 1050/1188 [00:17<00:02, 58.39it/s]Load StationWindows:  89%|████████████████  | 1056/1188 [00:18<00:02, 49.74it/s]Load StationWindows:  89%|████████████████  | 1062/1188 [00:18<00:02, 44.65it/s]Load StationWindows:  90%|████████████████▏ | 1067/1188 [00:18<00:02, 44.12it/s]Load StationWindows:  90%|████████████████▎ | 1074/1188 [00:18<00:02, 48.19it/s]Load StationWindows:  91%|████████████████▍ | 1081/1188 [00:18<00:02, 51.36it/s]Load StationWindows:  91%|████████████████▍ | 1087/1188 [00:18<00:01, 53.46it/s]Load StationWindows:  92%|████████████████▌ | 1093/1188 [00:18<00:01, 55.18it/s]Load StationWindows:  93%|████████████████▋ | 1099/1188 [00:18<00:01, 53.96it/s]Load StationWindows:  93%|████████████████▋ | 1105/1188 [00:19<00:01, 46.71it/s]Load StationWindows:  93%|████████████████▊ | 1110/1188 [00:19<00:01, 42.23it/s]Load StationWindows:  94%|████████████████▉ | 1115/1188 [00:19<00:01, 41.65it/s]Load StationWindows:  94%|████████████████▉ | 1121/1188 [00:19<00:01, 44.50it/s]Load StationWindows:  95%|█████████████████ | 1126/1188 [00:19<00:01, 38.99it/s]Load StationWindows:  95%|█████████████████▏| 1131/1188 [00:19<00:01, 35.78it/s]Load StationWindows:  96%|█████████████████▏| 1135/1188 [00:19<00:01, 33.80it/s]Load StationWindows:  96%|█████████████████▎| 1140/1188 [00:20<00:01, 36.95it/s]Load StationWindows:  96%|█████████████████▎| 1146/1188 [00:20<00:01, 40.85it/s]Load StationWindows:  97%|█████████████████▍| 1152/1188 [00:20<00:00, 43.68it/s]Load StationWindows:  97%|█████████████████▌| 1158/1188 [00:20<00:00, 45.59it/s]Load StationWindows:  98%|█████████████████▌| 1163/1188 [00:20<00:00, 41.67it/s]Load StationWindows:  98%|█████████████████▋| 1168/1188 [00:20<00:00, 34.66it/s]Load StationWindows:  99%|█████████████████▊| 1172/1188 [00:20<00:00, 32.37it/s]Load StationWindows:  99%|█████████████████▊| 1176/1188 [00:21<00:00, 31.29it/s]Load StationWindows:  99%|█████████████████▉| 1180/1188 [00:21<00:00, 30.15it/s]Load StationWindows: 100%|█████████████████▉| 1184/1188 [00:21<00:00, 30.49it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [00:21<00:00, 55.52it/s]
+Load One Data:   0%|                                    | 0/181 [00:00<?, ?it/s]
+ 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03686380386352539
+........ec grib reading start........
+curr_date: 2019-10-29 09:00:00
+curr_date: 2019-10-29 12:00:00
+curr_date: 2019-10-29 15:00:00
+curr_date: 2019-10-29 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-29 21:00:00
+prep_class_3: []
+prep_class_4: [97491:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910291800, 97493:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910291800, 97499:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910291800]
+ec_grib_cost_time: 0.1254732608795166
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029803037643432617
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03704118728637695
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029651165008544922
+........ec grib reading start........
+curr_date: 2019-10-30 00:00:00
+curr_date: 2019-10-30 03:00:00
+curr_date: 2019-10-30 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-30 09:00:00
+curr_date: 2019-10-30 12:00:00
+prep_class_3: [97671:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910300600, 97673:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910300600, 97679:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910300600]
+prep_class_4: []
+ec_grib_cost_time: 0.1263411045074463
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03795170783996582
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029964447021484375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03748679161071777
+........ec grib reading start........
+curr_date: 2019-10-30 09:00:00
+curr_date: 2019-10-30 12:00:00
+curr_date: 2019-10-30 15:00:00
+curr_date: 2019-10-30 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-30 21:00:00
+prep_class_3: []
+prep_class_4: [97851:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910301800, 97853:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910301800, 97859:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910301800]
+ec_grib_cost_time: 0.2694237232208252
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04541730880737305
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055525779724121094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04444718360900879
+........ec grib reading start........
+curr_date: 2019-10-31 00:00:00
+curr_date: 2019-10-31 03:00:00
+curr_date: 2019-10-31 06:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-31 09:00:00
+curr_date: 2019-10-31 12:00:00
+prep_class_3: [98031:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910310600, 98033:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910310600, 98039:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910310600]
+prep_class_4: []
+ec_grib_cost_time: 0.14096784591674805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03838372230529785
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030598878860473633
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04082608222961426
+........ec grib reading start........
+curr_date: 2019-10-31 09:00:00
+curr_date: 2019-10-31 12:00:00
+curr_date: 2019-10-31 15:00:00
+curr_date: 2019-10-31 18:00:00
+--3--
+--3--
+--3--
+--4--
+curr_date: 2019-10-31 21:00:00
+prep_class_3: []
+prep_class_4: [98211:Convective precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910311800, 98213:Large-scale precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910311800, 98219:Total precipitation:m (accum):regular_ll:surface:level 0:fcst time 0-1 hrs (accum):from 201910311800]
+ec_grib_cost_time: 0.14571356773376465
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04849433898925781
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03829693794250488
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03826546669006348
+month_ec_features_shape: (186, 12, 113, 81)
+month_ec_dates_shape: (186,)
+EC_FEATURES_STATIONS: (1188, 186, 12, 27, 27)
+EC_FEATURES_ALL_SEQUENCE: 181
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100114.000
+diamond 1 File is not exist!
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100117.000
+diamond 1 File is not exist!
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100120.000
+diamond 1 File is not exist!
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100123.000
+diamond 1 File is not exist!
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100202.000
+diamond 1 File is not exist!
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/plot/19100205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/10/surface/r6-p/19100205.000
+diamond 1 File is not exist!
+Traceback (most recent call last):
+  File "PreERA5_ts_modals_ec.py", line 770, in <module>
+    pre_ts_ecData(ec_features, ec_dates, latLonItem, sys.argv[1][0:8])
+  File "PreERA5_ts_modals_ec.py", line 356, in __init__
+    self.gainGT4ecPath()
+  File "PreERA5_ts_modals_ec.py", line 596, in gainGT4ecPath
+    index_v1 = indice_all[0]
+IndexError: list index out of range
