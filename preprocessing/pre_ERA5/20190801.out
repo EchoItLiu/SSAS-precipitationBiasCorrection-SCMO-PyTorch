@@ -1,0 +1,3177 @@
+nohup: ignoring input
+........ec grib reading start........
+curr_date: 2019-08-01 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-01 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-01 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-01 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-01 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.17338800430297852
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03914022445678711
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03225135803222656
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04448294639587402
+........ec grib reading start........
+curr_date: 2019-08-01 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-01 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-01 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-01 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-01 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12304139137268066
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030585050582885742
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038321495056152344
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031026363372802734
+........ec grib reading start........
+curr_date: 2019-08-02 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-02 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-02 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-02 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-02 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.21444988250732422
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05640745162963867
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04494023323059082
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056203603744506836
+........ec grib reading start........
+curr_date: 2019-08-02 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-02 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-02 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-02 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-02 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.17749571800231934
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029780864715576172
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03715085983276367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030272483825683594
+........ec grib reading start........
+curr_date: 2019-08-03 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-03 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-03 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-03 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-03 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12282514572143555
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03781461715698242
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029860496520996094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03686404228210449
+........ec grib reading start........
+curr_date: 2019-08-03 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-03 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-03 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-03 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-03 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.1258068084716797
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030008792877197266
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05031180381774902
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04483819007873535
+........ec grib reading start........
+curr_date: 2019-08-04 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-04 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-04 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-04 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-04 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.27538156509399414
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05613827705383301
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03373837471008301
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03735685348510742
+........ec grib reading start........
+curr_date: 2019-08-04 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-04 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-04 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-04 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-04 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12514495849609375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030078411102294922
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.038066864013671875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030109405517578125
+........ec grib reading start........
+curr_date: 2019-08-05 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-05 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-05 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-05 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-05 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.18314838409423828
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04167604446411133
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029631376266479492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04384779930114746
+........ec grib reading start........
+curr_date: 2019-08-05 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-05 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-05 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-05 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-05 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2730882167816162
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04493594169616699
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055550575256347656
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03672599792480469
+........ec grib reading start........
+curr_date: 2019-08-06 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-06 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-06 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-06 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-06 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.11963868141174316
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03716254234313965
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029495716094970703
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03682875633239746
+........ec grib reading start........
+curr_date: 2019-08-06 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-06 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-06 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-06 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-06 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12209296226501465
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02989053726196289
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03765416145324707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030283212661743164
+........ec grib reading start........
+curr_date: 2019-08-07 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-07 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-07 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-07 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-07 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.15041828155517578
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05713820457458496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04508662223815918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05596303939819336
+........ec grib reading start........
+curr_date: 2019-08-07 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-07 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-07 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-07 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-07 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2557501792907715
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029972076416015625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03719449043273926
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02976369857788086
+........ec grib reading start........
+curr_date: 2019-08-08 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-08 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-08 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-08 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-08 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12205862998962402
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037331342697143555
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02960491180419922
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03696393966674805
+........ec grib reading start........
+curr_date: 2019-08-08 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-08 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-08 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-08 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-08 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.1235346794128418
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030321121215820312
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.036992549896240234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029651403427124023
+........ec grib reading start........
+curr_date: 2019-08-09 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-09 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-09 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-09 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-09 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.28066468238830566
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056313276290893555
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0448148250579834
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05065417289733887
+........ec grib reading start........
+curr_date: 2019-08-09 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-09 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-09 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-09 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-09 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12222003936767578
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02992701530456543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04986763000488281
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04686284065246582
+........ec grib reading start........
+curr_date: 2019-08-10 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-10 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-10 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-10 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-10 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.18822050094604492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05578327178955078
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04467344284057617
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055954694747924805
+........ec grib reading start........
+curr_date: 2019-08-10 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-10 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-10 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-10 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-10 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2523636817932129
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030225038528442383
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037062644958496094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02956247329711914
+........ec grib reading start........
+curr_date: 2019-08-11 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-11 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-11 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-11 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-11 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12354445457458496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037590980529785156
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02985215187072754
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03755903244018555
+........ec grib reading start........
+curr_date: 2019-08-11 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-11 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-11 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-11 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-11 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12412714958190918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03478837013244629
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03692984580993652
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030490875244140625
+........ec grib reading start........
+curr_date: 2019-08-12 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-12 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-12 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-12 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-12 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12307882308959961
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.054945945739746094
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04436898231506348
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055848121643066406
+........ec grib reading start........
+curr_date: 2019-08-12 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-12 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-12 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-12 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-12 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.26720547676086426
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02965521812438965
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03693819046020508
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029701948165893555
+........ec grib reading start........
+curr_date: 2019-08-13 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-13 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-13 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-13 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-13 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12162423133850098
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03757786750793457
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029641389846801758
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03743720054626465
+........ec grib reading start........
+curr_date: 2019-08-13 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-13 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-13 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-13 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-13 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12370657920837402
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03024148941040039
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03758883476257324
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030138492584228516
+........ec grib reading start........
+curr_date: 2019-08-14 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-14 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-14 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-14 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-14 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2648961544036865
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056464195251464844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04520559310913086
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05663275718688965
+........ec grib reading start........
+curr_date: 2019-08-14 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-14 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-14 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-14 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-14 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12498044967651367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0296022891998291
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03716921806335449
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02957749366760254
+........ec grib reading start........
+curr_date: 2019-08-15 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-15 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-15 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-15 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-15 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12209391593933105
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.036919593811035156
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.033884286880493164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03836655616760254
+........ec grib reading start........
+curr_date: 2019-08-15 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-15 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-15 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-15 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-15 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.14851713180541992
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05463385581970215
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06730341911315918
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.054082393646240234
+........ec grib reading start........
+curr_date: 2019-08-16 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-16 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-16 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-16 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-16 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.22606110572814941
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03722643852233887
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029695987701416016
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037137746810913086
+........ec grib reading start........
+curr_date: 2019-08-16 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-16 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-16 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-16 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-16 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12200760841369629
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029783964157104492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03730630874633789
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029522418975830078
+........ec grib reading start........
+curr_date: 2019-08-17 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-17 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-17 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-17 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-17 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.16250824928283691
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03727316856384277
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.039201974868774414
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05749392509460449
+........ec grib reading start........
+curr_date: 2019-08-17 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-17 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-17 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-17 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-17 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2722809314727783
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04508066177368164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0420835018157959
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02949976921081543
+........ec grib reading start........
+curr_date: 2019-08-18 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-18 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-18 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-18 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-18 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12092757225036621
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037308454513549805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029819965362548828
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03702044486999512
+........ec grib reading start........
+curr_date: 2019-08-18 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-18 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-18 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-18 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-18 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12219929695129395
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030031442642211914
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0373845100402832
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029779434204101562
+........ec grib reading start........
+curr_date: 2019-08-19 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-19 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-19 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-19 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-19 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.23807621002197266
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0858616828918457
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.033861637115478516
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06395149230957031
+........ec grib reading start........
+curr_date: 2019-08-19 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-19 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-19 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-19 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-19 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.22770261764526367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03018951416015625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037557125091552734
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03009200096130371
+........ec grib reading start........
+curr_date: 2019-08-20 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-20 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-20 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-20 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-20 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12348198890686035
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.046877384185791016
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04609322547912598
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05634760856628418
+........ec grib reading start........
+curr_date: 2019-08-20 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-20 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-20 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-20 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-20 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2728147506713867
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03299093246459961
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037018537521362305
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029930591583251953
+........ec grib reading start........
+curr_date: 2019-08-21 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-21 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-21 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-21 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-21 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12288117408752441
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04375576972961426
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0408933162689209
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056990623474121094
+........ec grib reading start........
+curr_date: 2019-08-21 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-21 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-21 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-21 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-21 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.1330702304840088
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04333066940307617
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05805635452270508
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04879927635192871
+........ec grib reading start........
+curr_date: 2019-08-22 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-22 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-22 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-22 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-22 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.21179413795471191
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.058444976806640625
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04561614990234375
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06938529014587402
+........ec grib reading start........
+curr_date: 2019-08-22 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-22 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-22 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-22 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-22 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.19791293144226074
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030446767807006836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04122138023376465
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031470537185668945
+........ec grib reading start........
+curr_date: 2019-08-23 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-23 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-23 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-23 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-23 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12509560585021973
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037882328033447266
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02978682518005371
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03719496726989746
+........ec grib reading start........
+curr_date: 2019-08-23 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-23 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-23 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-23 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-23 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.26505041122436523
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044556617736816406
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05656838417053223
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04423999786376953
+........ec grib reading start........
+curr_date: 2019-08-24 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-24 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-24 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-24 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-24 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.130751371383667
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.037542104721069336
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02975010871887207
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04257345199584961
+........ec grib reading start........
+curr_date: 2019-08-24 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-24 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-24 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-24 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-24 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.13016104698181152
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03026890754699707
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03730177879333496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030153274536132812
+........ec grib reading start........
+curr_date: 2019-08-25 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-25 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-25 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-25 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-25 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12308049201965332
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03739309310913086
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02944350242614746
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044545650482177734
+........ec grib reading start........
+curr_date: 2019-08-25 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-25 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-25 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-25 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-25 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2363722324371338
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044035911560058594
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.055562734603881836
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044107675552368164
+........ec grib reading start........
+curr_date: 2019-08-26 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-26 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-26 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-26 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-26 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.17684555053710938
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04034996032714844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029091835021972656
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0368804931640625
+........ec grib reading start........
+curr_date: 2019-08-26 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-26 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-26 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-26 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-26 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12062525749206543
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029509305953979492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03707385063171387
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030007600784301758
+........ec grib reading start........
+curr_date: 2019-08-27 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-27 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-27 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-27 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-27 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.17450714111328125
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05595970153808594
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044621944427490234
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.056078433990478516
+........ec grib reading start........
+curr_date: 2019-08-27 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-27 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-27 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-27 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-27 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.24876809120178223
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031066417694091797
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03710651397705078
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03446197509765625
+........ec grib reading start........
+curr_date: 2019-08-28 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-28 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-28 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-28 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-28 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12639164924621582
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03729557991027832
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029575586318969727
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03696608543395996
+........ec grib reading start........
+curr_date: 2019-08-28 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-28 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-28 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-28 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-28 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.15656399726867676
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.031201601028442383
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04447221755981445
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04433298110961914
+........ec grib reading start........
+curr_date: 2019-08-29 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-29 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-29 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-29 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-29 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.26706933975219727
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06769728660583496
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05001497268676758
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.05020856857299805
+........ec grib reading start........
+curr_date: 2019-08-29 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-29 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-29 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-29 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-29 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12333250045776367
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029738664627075195
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.03766441345214844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.030174732208251953
+........ec grib reading start........
+curr_date: 2019-08-30 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-30 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-30 06:00:00
+message_prep: Convective precipitationLoad StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 3/1188 [00:00<00:55, 21.30it/s]Load StationWindows:   1%|                     | 6/1188 [00:00<00:51, 22.97it/s]Load StationWindows:   1%|▏                   | 12/1188 [00:00<00:42, 27.87it/s]Load StationWindows:   2%|▎                   | 18/1188 [00:00<00:35, 32.74it/s]Load StationWindows:   2%|▍                   | 24/1188 [00:00<00:31, 37.19it/s]Load StationWindows:   3%|▌                   | 32/1188 [00:00<00:26, 43.37it/s]Load StationWindows:   3%|▋                   | 39/1188 [00:00<00:24, 47.77it/s]Load StationWindows:   4%|▊                   | 45/1188 [00:00<00:23, 49.28it/s]Load StationWindows:   4%|▊                   | 51/1188 [00:01<00:22, 50.92it/s]Load StationWindows:   5%|▉                   | 57/1188 [00:01<00:22, 50.93it/s]Load StationWindows:   5%|█                   | 63/1188 [00:01<00:25, 44.70it/s]Load StationWindows:   6%|█▏                  | 68/1188 [00:01<00:25, 44.53it/s]Load StationWindows:   6%|█▏                  | 74/1188 [00:01<00:23, 46.86it/s]Load StationWindows:   7%|█▎                  | 80/1188 [00:01<00:22, 48.38it/s]Load StationWindows:   7%|█▍                  | 85/1188 [00:01<00:22, 48.12it/s]Load StationWindows:   8%|█▌                  | 90/1188 [00:01<00:22, 48.44it/s]Load StationWindows:   8%|█▌                  | 96/1188 [00:01<00:21, 51.16it/s]Load StationWindows:   9%|█▋                 | 102/1188 [00:02<00:21, 49.88it/s]Load StationWindows:   9%|█▋                 | 108/1188 [00:02<00:24, 43.65it/s]Load StationWindows:  10%|█▊                 | 113/1188 [00:02<00:25, 41.61it/s]Load StationWindows:  10%|█▉                 | 119/1188 [00:02<00:24, 44.40it/s]Load StationWindows:  11%|█▉                 | 125/1188 [00:02<00:22, 46.52it/s]Load StationWindows:  11%|██                 | 131/1188 [00:02<00:22, 47.71it/s]Load StationWindows:  11%|██▏                | 136/1188 [00:02<00:22, 47.49it/s]Load StationWindows:  12%|██▎                | 142/1188 [00:02<00:21, 49.23it/s]Load StationWindows:  12%|██▎                | 147/1188 [00:03<00:21, 47.49it/s]Load StationWindows:  13%|██▍                | 152/1188 [00:03<00:22, 45.23it/s]Load StationWindows:  13%|██▌                | 157/1188 [00:03<00:23, 44.71it/s]Load StationWindows:  14%|██▌                | 163/1188 [00:03<00:21, 48.40it/s]Load StationWindows:  14%|██▋                | 169/1188 [00:03<00:19, 51.10it/s]Load StationWindows:  15%|██▊                | 175/1188 [00:03<00:19, 53.30it/s]Load StationWindows:  15%|██▉                | 182/1188 [00:03<00:18, 55.48it/s]Load StationWindows:  16%|███                | 189/1188 [00:03<00:17, 57.80it/s]Load StationWindows:  16%|███                | 195/1188 [00:03<00:17, 56.60it/s]Load StationWindows:  17%|███▏               | 201/1188 [00:04<00:18, 54.48it/s]Load StationWindows:  17%|███▎               | 207/1188 [00:04<00:23, 42.48it/s]Load StationWindows:  18%|███▍               | 212/1188 [00:04<00:24, 40.30it/s]Load StationWindows:  18%|███▍               | 217/1188 [00:04<00:24, 39.22it/s]Load StationWindows:  19%|███▌               | 222/1188 [00:04<00:24, 38.67it/s]Load StationWindows:  19%|███▋               | 227/1188 [00:04<00:24, 39.09it/s]Load StationWindows:  20%|███▋               | 232/1188 [00:04<00:24, 39.41it/s]Load StationWindows:  20%|███▊               | 237/1188 [00:05<00:23, 41.01it/s]Load StationWindows:  20%|███▊               | 242/1188 [00:05<00:22, 42.36it/s]Load StationWindows:  21%|███▉               | 248/1188 [00:05<00:20, 45.47it/s]Load StationWindows:  21%|████               | 254/1188 [00:05<00:19, 48.22it/s]Load StationWindows:  22%|████▏              | 260/1188 [00:05<00:18, 50.84it/s]Load StationWindows:  22%|████▎              | 266/1188 [00:05<00:17, 52.50it/s]Load StationWindows:  23%|████▎              | 272/1188 [00:05<00:17, 53.60it/s]Load StationWindows:  23%|████▍              | 278/1188 [00:05<00:18, 49.50it/s]Load StationWindows:  24%|████▌              | 284/1188 [00:05<00:19, 46.70it/s]Load StationWindows:  24%|████▌              | 289/1188 [00:06<00:19, 45.41it/s]Load StationWindows:  25%|████▋              | 294/1188 [00:06<00:20, 43.91it/s]Load StationWindows:  25%|████▊              | 300/1188 [00:06<00:18, 47.26it/s]Load StationWindows:  26%|████▉              | 306/1188 [00:06<00:17, 49.80it/s]Load StationWindows:  26%|████▉              | 312/1188 [00:06<00:16, 51.79it/s]Load StationWindows:  27%|█████              | 318/1188 [00:06<00:16, 53.00it/s]Load StationWindows:  27%|█████▏             | 324/1188 [00:06<00:17, 49.86it/s]Load StationWindows:  28%|█████▎             | 330/1188 [00:06<00:16, 51.11it/s]Load StationWindows:  28%|█████▎             | 336/1188 [00:07<00:17, 49.52it/s]Load StationWindows:  29%|█████▍             | 342/1188 [00:07<00:17, 48.64it/s]Load StationWindows:  29%|█████▌             | 347/1188 [00:07<00:17, 47.58it/s]Load StationWindows:  30%|█████▋             | 352/1188 [00:07<00:17, 48.20it/s]Load StationWindows:  30%|█████▋             | 359/1188 [00:07<00:15, 52.10it/s]Load StationWindows:  31%|█████▊             | 366/1188 [00:07<00:14, 55.17it/s]Load StationWindows:  31%|█████▉             | 373/1188 [00:07<00:14, 57.64it/s]Load StationWindows:  32%|██████             | 380/1188 [00:07<00:13, 58.46it/s]Load StationWindows:  33%|██████▏            | 387/1188 [00:07<00:13, 58.93it/s]Load StationWindows:  33%|██████▎            | 393/1188 [00:08<00:14, 53.24it/s]Load StationWindows:  34%|██████▍            | 399/1188 [00:08<00:15, 49.90it/s]Load StationWindows:  34%|██████▍            | 405/1188 [00:08<00:16, 47.80it/s]Load StationWindows:  35%|██████▌            | 411/1188 [00:08<00:15, 50.74it/s]Load StationWindows:  35%|██████▋            | 418/1188 [00:08<00:14, 53.40it/s]Load StationWindows:  36%|██████▊            | 424/1188 [00:08<00:14, 53.98it/s]Load StationWindows:  36%|██████▉            | 430/1188 [00:08<00:15, 48.71it/s]Load StationWindows:  37%|██████▉            | 436/1188 [00:08<00:16, 46.22it/s]Load StationWindows:  37%|███████            | 441/1188 [00:09<00:17, 43.02it/s]Load StationWindows:  38%|███████▏           | 446/1188 [00:09<00:16, 44.63it/s]Load StationWindows:  38%|███████▏           | 452/1188 [00:09<00:15, 46.62it/s]Load StationWindows:  39%|███████▎           | 458/1188 [00:09<00:15, 47.71it/s]Load StationWindows:  39%|███████▍           | 463/1188 [00:09<00:15, 47.90it/s]Load StationWindows:  39%|███████▍           | 468/1188 [00:09<00:15, 45.96it/s]Load StationWindows:  40%|███████▌           | 473/1188 [00:09<00:16, 43.34it/s]Load StationWindows:  40%|███████▋           | 478/1188 [00:09<00:17, 40.79it/s]Load StationWindows:  41%|███████▋           | 483/1188 [00:10<00:18, 38.60it/s]Load StationWindows:  41%|███████▊           | 488/1188 [00:10<00:17, 40.46it/s]Load StationWindows:  41%|███████▉           | 493/1188 [00:10<00:16, 42.51it/s]Load StationWindows:  42%|███████▉           | 499/1188 [00:10<00:15, 44.73it/s]Load StationWindows:  42%|████████           | 504/1188 [00:10<00:14, 46.04it/s]Load StationWindows:  43%|████████▏          | 509/1188 [00:10<00:14, 46.02it/s]Load StationWindows:  43%|████████▏          | 514/1188 [00:10<00:15, 43.97it/s]Load StationWindows:  44%|████████▎          | 519/1188 [00:10<00:16, 39.85it/s]Load StationWindows:  44%|████████▍          | 524/1188 [00:11<00:17, 37.59it/s]Load StationWindows:  45%|████████▍          | 529/1188 [00:11<00:16, 39.26it/s]Load StationWindows:  45%|████████▌          | 534/1188 [00:11<00:15, 40.94it/s]Load StationWindows:  45%|████████▌          | 539/1188 [00:11<00:15, 42.66it/s]Load StationWindows:  46%|████████▋          | 544/1188 [00:11<00:14, 44.16it/s]Load StationWindows:  46%|████████▊          | 550/1188 [00:11<00:13, 46.42it/s]Load StationWindows:  47%|████████▉          | 556/1188 [00:11<00:13, 48.59it/s]Load StationWindows:  47%|████████▉          | 562/1188 [00:11<00:12, 50.04it/s]Load StationWindows:  48%|█████████          | 568/1188 [00:11<00:13, 46.82it/s]Load StationWindows:  48%|█████████▏         | 573/1188 [00:12<00:14, 42.37it/s]Load StationWindows:  49%|█████████▏         | 578/1188 [00:12<00:15, 39.34it/s]Load StationWindows:  49%|█████████▎         | 583/1188 [00:12<00:14, 41.13it/s]Load StationWindows:  49%|█████████▍         | 588/1188 [00:12<00:14, 42.52it/s]Load StationWindows:  50%|█████████▍         | 593/1188 [00:12<00:14, 39.83it/s]Load StationWindows:  50%|█████████▌         | 598/1188 [00:12<00:15, 39.03it/s]Load StationWindows:  51%|█████████▋         | 604/1188 [00:12<00:14, 41.44it/s]Load StationWindows:  51%|█████████▋         | 609/1188 [00:13<00:15, 38.24it/s]Load StationWindows:  52%|█████████▊         | 613/1188 [00:13<00:15, 36.58it/s]Load StationWindows:  52%|█████████▊         | 617/1188 [00:13<00:16, 35.37it/s]Load StationWindows:  52%|█████████▉         | 623/1188 [00:13<00:14, 38.81it/s]Load StationWindows:  53%|██████████         | 629/1188 [00:13<00:13, 41.60it/s]Load StationWindows:  53%|██████████▏        | 634/1188 [00:13<00:12, 43.79it/s]Load StationWindows:  54%|██████████▏        | 640/1188 [00:13<00:12, 45.64it/s]Load StationWindows:  54%|██████████▎        | 646/1188 [00:13<00:11, 46.21it/s]Load StationWindows:  55%|██████████▍        | 651/1188 [00:14<00:13, 40.56it/s]Load StationWindows:  55%|██████████▍        | 656/1188 [00:14<00:14, 37.31it/s]Load StationWindows:  56%|██████████▌        | 660/1188 [00:14<00:14, 37.08it/s]Load StationWindows:  56%|██████████▋        | 665/1188 [00:14<00:13, 39.03it/s]Load StationWindows:  56%|██████████▋        | 670/1188 [00:14<00:13, 39.72it/s]Load StationWindows:  57%|██████████▊        | 675/1188 [00:14<00:12, 40.56it/s]Load StationWindows:  57%|██████████▉        | 680/1188 [00:14<00:13, 37.15it/s]Load StationWindows:  58%|██████████▉        | 684/1188 [00:14<00:13, 37.36it/s]Load StationWindows:  58%|███████████        | 688/1188 [00:14<00:13, 37.52it/s]Load StationWindows:  58%|███████████        | 693/1188 [00:15<00:12, 40.41it/s]Load StationWindows:  59%|███████████▏       | 699/1188 [00:15<00:11, 43.29it/s]Load StationWindows:  59%|███████████▎       | 705/1188 [00:15<00:10, 45.91it/s]Load StationWindows:  60%|███████████▎       | 711/1188 [00:15<00:10, 47.69it/s]Load StationWindows:  60%|███████████▍       | 717/1188 [00:15<00:09, 48.54it/s]Load StationWindows:  61%|███████████▌       | 722/1188 [00:15<00:10, 46.24it/s]Load StationWindows:  61%|███████████▋       | 728/1188 [00:15<00:09, 49.05it/s]Load StationWindows:  62%|███████████▋       | 734/1188 [00:15<00:10, 44.20it/s]Load StationWindows:  62%|███████████▊       | 739/1188 [00:16<00:10, 42.81it/s]Load StationWindows:  63%|███████████▉       | 744/1188 [00:16<00:10, 42.18it/s]Load StationWindows:  63%|████████████       | 751/1188 [00:16<00:09, 46.28it/s]Load StationWindows:  64%|████████████       | 757/1188 [00:16<00:08, 49.08it/s]Load StationWindows:  64%|████████████▏      | 763/1188 [00:16<00:08, 51.06it/s]Load StationWindows:  65%|████████████▎      | 769/1188 [00:16<00:08, 49.78it/s]Load StationWindows:  65%|████████████▍      | 775/1188 [00:16<00:09, 44.01it/s]Load StationWindows:  66%|████████████▍      | 780/1188 [00:17<00:11, 37.09it/s]Load StationWindows:  66%|████████████▌      | 785/1188 [00:17<00:10, 37.44it/s]Load StationWindows:  66%|████████████▋      | 790/1188 [00:17<00:09, 40.29it/s]Load StationWindows:  67%|████████████▋      | 796/1188 [00:17<00:08, 44.02it/s]Load StationWindows:  68%|████████████▊      | 802/1188 [00:17<00:08, 46.96it/s]Load StationWindows:  68%|████████████▉      | 808/1188 [00:17<00:07, 49.75it/s]Load StationWindows:  69%|█████████████      | 814/1188 [00:17<00:07, 51.31it/s]Load StationWindows:  69%|█████████████      | 820/1188 [00:17<00:07, 50.56it/s]Load StationWindows:  70%|█████████████▏     | 826/1188 [00:17<00:07, 46.08it/s]Load StationWindows:  70%|█████████████▎     | 831/1188 [00:18<00:08, 43.15it/s]Load StationWindows:  70%|█████████████▎     | 836/1188 [00:18<00:08, 42.23it/s]Load StationWindows:  71%|█████████████▍     | 841/1188 [00:18<00:08, 43.13it/s]Load StationWindows:  71%|█████████████▌     | 846/1188 [00:18<00:07, 44.48it/s]Load StationWindows:  72%|█████████████▌     | 851/1188 [00:18<00:07, 45.59it/s]Load StationWindows:  72%|█████████████▋     | 856/1188 [00:18<00:08, 41.16it/s]Load StationWindows:  72%|█████████████▊     | 861/1188 [00:18<00:08, 37.97it/s]Load StationWindows:  73%|█████████████▊     | 865/1188 [00:18<00:08, 36.51it/s]Load StationWindows:  73%|█████████████▉     | 870/1188 [00:19<00:08, 39.36it/s]Load StationWindows:  74%|█████████████▉     | 875/1188 [00:19<00:07, 41.59it/s]Load StationWindows:  74%|██████████████     | 880/1188 [00:19<00:07, 43.40it/s]Load StationWindows:  75%|██████████████▏    | 886/1188 [00:19<00:06, 45.84it/s]Load StationWindows:  75%|██████████████▎    | 892/1188 [00:19<00:06, 48.00it/s]Load StationWindows:  76%|██████████████▎    | 898/1188 [00:19<00:05, 49.68it/s]Load StationWindows:  76%|██████████████▍    | 904/1188 [00:19<00:05, 49.18it/s]Load StationWindows:  77%|██████████████▌    | 909/1188 [00:19<00:08, 34.81it/s]Load StationWindows:  77%|██████████████▌    | 914/1188 [00:20<00:07, 34.88it/s]Load StationWindows:  77%|██████████████▋    | 920/1188 [00:20<00:06, 38.61it/s]Load StationWindows:  78%|██████████████▊    | 926/1188 [00:20<00:06, 42.05it/s]Load StationWindows:  78%|██████████████▉    | 932/1188 [00:20<00:05, 44.99it/s]Load StationWindows:  79%|███████████████    | 938/1188 [00:20<00:05, 47.15it/s]Load StationWindows:  79%|███████████████    | 944/1188 [00:20<00:05, 48.70it/s]Load StationWindows:  80%|███████████████▏   | 950/1188 [00:20<00:05, 43.64it/s]Load StationWindows:  80%|███████████████▎   | 955/1188 [00:20<00:05, 40.03it/s]Load StationWindows:  81%|███████████████▎   | 960/1188 [00:21<00:05, 38.76it/s]Load StationWindows:  81%|███████████████▍   | 965/1188 [00:21<00:05, 40.60it/s]Load StationWindows:  82%|███████████████▌   | 970/1188 [00:21<00:05, 41.84it/s]Load StationWindows:  82%|███████████████▌   | 975/1188 [00:21<00:04, 43.07it/s]Load StationWindows:  82%|███████████████▋   | 980/1188 [00:21<00:04, 43.64it/s]Load StationWindows:  83%|███████████████▊   | 986/1188 [00:21<00:04, 44.89it/s]Load StationWindows:  83%|███████████████▊   | 991/1188 [00:21<00:04, 40.55it/s]Load StationWindows:  84%|███████████████▉   | 996/1188 [00:21<00:05, 38.08it/s]Load StationWindows:  84%|███████████████▏  | 1000/1188 [00:22<00:05, 37.41it/s]Load StationWindows:  85%|███████████████▏  | 1006/1188 [00:22<00:04, 40.61it/s]Load StationWindows:  85%|███████████████▎  | 1011/1188 [00:22<00:04, 42.97it/s]Load StationWindows:  86%|███████████████▍  | 1017/1188 [00:22<00:03, 44.93it/s]Load StationWindows:  86%|███████████████▍  | 1022/1188 [00:22<00:03, 46.19it/s]Load StationWindows:  86%|███████████████▌  | 1027/1188 [00:22<00:03, 47.16it/s]Load StationWindows:  87%|███████████████▋  | 1032/1188 [00:22<00:03, 40.90it/s]Load StationWindows:  87%|███████████████▋  | 1037/1188 [00:22<00:04, 37.47it/s]Load StationWindows:  88%|███████████████▊  | 1041/1188 [00:23<00:04, 35.67it/s]Load StationWindows:  88%|███████████████▊  | 1046/1188 [00:23<00:03, 37.88it/s]Load StationWindows:  89%|███████████████▉  | 1052/1188 [00:23<00:03, 40.92it/s]Load StationWindows:  89%|████████████████  | 1057/1188 [00:23<00:03, 43.24it/s]Load StationWindows:  89%|████████████████  | 1062/1188 [00:23<00:02, 43.91it/s]Load StationWindows:  90%|████████████████▏ | 1067/1188 [00:23<00:02, 41.64it/s]Load StationWindows:  90%|████████████████▏ | 1072/1188 [00:23<00:03, 37.20it/s]Load StationWindows:  91%|████████████████▎ | 1076/1188 [00:23<00:03, 33.67it/s]Load StationWindows:  91%|████████████████▎ | 1080/1188 [00:24<00:03, 33.71it/s]Load StationWindows:  91%|████████████████▍ | 1085/1188 [00:24<00:02, 35.96it/s]Load StationWindows:  92%|████████████████▌ | 1090/1188 [00:24<00:02, 38.11it/s]Load StationWindows:  92%|████████████████▌ | 1095/1188 [00:24<00:02, 40.05it/s]Load StationWindows:  93%|████████████████▋ | 1100/1188 [00:24<00:02, 41.47it/s]Load StationWindows:  93%|████████████████▋ | 1105/1188 [00:24<00:02, 39.48it/s]Load StationWindows:  93%|████████████████▊ | 1110/1188 [00:24<00:02, 34.27it/s]Load StationWindows:  94%|████████████████▉ | 1114/1188 [00:24<00:02, 35.09it/s]Load StationWindows:  94%|████████████████▉ | 1118/1188 [00:25<00:01, 35.49it/s]Load StationWindows:  94%|█████████████████ | 1122/1188 [00:25<00:01, 35.81it/s]Load StationWindows:  95%|█████████████████ | 1126/1188 [00:25<00:01, 36.16it/s]Load StationWindows:  95%|█████████████████ | 1130/1188 [00:25<00:01, 37.22it/s]Load StationWindows:  95%|█████████████████▏| 1134/1188 [00:25<00:01, 35.13it/s]Load StationWindows:  96%|█████████████████▏| 1138/1188 [00:25<00:01, 28.35it/s]Load StationWindows:  96%|█████████████████▎| 1142/1188 [00:25<00:01, 25.80it/s]Load StationWindows:  96%|█████████████████▎| 1145/1188 [00:26<00:01, 24.97it/s]Load StationWindows:  97%|█████████████████▍| 1150/1188 [00:26<00:01, 28.52it/s]Load StationWindows:  97%|█████████████████▌| 1155/1188 [00:26<00:01, 31.60it/s]Load StationWindows:  98%|█████████████████▌| 1160/1188 [00:26<00:00, 34.00it/s]Load StationWindows:  98%|█████████████████▋| 1164/1188 [00:26<00:00, 33.31it/s]Load StationWindows:  98%|█████████████████▋| 1168/1188 [00:26<00:00, 30.83it/s]Load StationWindows:  99%|█████████████████▊| 1172/1188 [00:26<00:00, 26.51it/s]Load StationWindows:  99%|█████████████████▊| 1175/1188 [00:27<00:00, 27.26it/s]Load StationWindows:  99%|█████████████████▊| 1179/1188 [00:27<00:00, 29.64it/s]Load StationWindows: 100%|█████████████████▉| 1184/1188 [00:27<00:00, 33.17it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [00:27<00:00, 43.50it/s]
+Load One Data:   0%|                                    | 0/186 [00:00<?, ?it/s]Load One Data:   1%|▏                           | 1/186 [00:00<00:39,  4.68it/s]Load One Data:   2%|▍                           | 3/186 [00:00<00:30,  5.96it/s]Load One Data:   4%|█                           | 7/186 [00:03<01:03,  2.82it/s]Load One Data:   4%|█▏                          | 8/186 [00:03<01:07,  2.65it/s]Load One Data:   5%|█▎                          | 9/186 [00:05<02:36,  1.13it/s]Load One Data:   5%|█▍                         | 10/186 [00:06<02:21,  1.25it/s]Load One Data:   6%|█▌                         | 11/186 [00:07<02:29,  1.17it/s]Load One Data:   6%|█▋                         | 12/186 [00:08<02:24,  1.20it/s]Load One Data:   7%|█▉                         | 13/186 [00:11<04:00,  1.39s/it]Load One Data:   8%|██                         | 14/186 [00:11<03:20,  1.17s/it]Load One Data:   8%|██▏                        | 15/186 [00:14<05:02,  1.77s/it]Load One Data:   9%|██▎                        | 16/186 [00:15<03:59,  1.41s/it]Load One Data:   9%|██▍                        | 17/186 [00:16<03:30,  1.25s/it]
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-30 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-30 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.14890241622924805
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04630422592163086
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029947519302368164
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04140734672546387
+........ec grib reading start........
+curr_date: 2019-08-30 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-30 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-30 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-30 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-30 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.2711341381072998
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.044867515563964844
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.06126976013183594
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0400233268737793
+........ec grib reading start........
+curr_date: 2019-08-31 00:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-31 03:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-31 06:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-2: 12
+curr_count_prep-2: 3
+curr_date: 2019-08-31 09:00:00
+curr_count_normal-3: 12
+curr_count_prep-3: 0
+curr_date: 2019-08-31 12:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12139463424682617
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0377655029296875
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.029356718063354492
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0364842414855957
+........ec grib reading start........
+curr_date: 2019-08-31 09:00:00
+curr_count_normal-0: 12
+curr_count_prep-0: 0
+curr_date: 2019-08-31 12:00:00
+curr_count_normal-1: 12
+curr_count_prep-1: 0
+curr_date: 2019-08-31 15:00:00
+curr_count_normal-2: 12
+curr_count_prep-2: 0
+curr_date: 2019-08-31 18:00:00
+message_prep: Convective precipitation
+--3--
+message_prep: Large-scale precipitation
+--3--
+message_prep: Total precipitation
+--3--
+--4--
+curr_count_normal-3: 12
+curr_count_prep-3: 3
+curr_date: 2019-08-31 21:00:00
+curr_count_normal-4: 12
+curr_count_prep-4: 0
+ec_grib_cost_time: 0.12075591087341309
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.02954387664794922
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.0432124137878418
+........ec data reading start........
+interval_prep_date_length: 0
+nc_grib_prep_length: 12
+ec_data_cost_time: 0.04690837860107422
+month_ec_features_shape: (186, 12, 113, 81)
+month_ec_dates_shape: (186,)
+LATLON_STATIONS_NUM_before: 1188
+LATLON_STATIONS_NUM_after: 1188
+EC_FEATURES_STATIONS: (186, 1188, 12, 27, 27)
+ec_date: 2019080106
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080114.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080109
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080117.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080112
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080120.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080115
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080123.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080118
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080202.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080121
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080205.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080206
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080214.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080209
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080217.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080212
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080220.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080215
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080223.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080218
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080302.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080221
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080305.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080306
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080314.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080309
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080317.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080312
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080320.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080315
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080323.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080318
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080402.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080321
+modalsFileFullName:Load One Data:  10%|██▌                        | 18/186 [00:16<02:55,  1.04s/it]Load One Data:  10%|██▊                        | 19/186 [00:19<03:53,  1.40s/it]Load One Data:  11%|██▉                        | 20/186 [00:19<03:06,  1.12s/it]Load One Data:  11%|███                        | 21/186 [00:22<04:44,  1.72s/it]Load One Data:  12%|███▏                       | 22/186 [00:23<03:46,  1.38s/it]Load One Data:  12%|███▎                       | 23/186 [00:24<03:15,  1.20s/it]Load One Data:  13%|███▍                       | 24/186 [00:24<02:39,  1.02it/s]Load One Data:  13%|███▋                       | 25/186 [00:26<03:44,  1.39s/it]Load One Data:  14%|███▊                       | 26/186 [00:27<02:59,  1.12s/it]Load One Data:  15%|███▉                       | 27/186 [00:29<03:44,  1.41s/it]Load One Data:  15%|████                       | 28/186 [00:30<03:11,  1.21s/it]Load One Data:  16%|████▏                      | 29/186 [00:30<02:50,  1.08s/it]Load One Data:  16%|████▎                      | 30/186 [00:31<02:23,  1.09it/s]Load One Data:  17%|████▌                      | 31/186 [00:34<04:00,  1.55s/it]Load One Data:  17%|████▋                      | 32/186 [00:35<03:17,  1.28s/it]Load One Data:  18%|████▊                      | 33/186 [00:37<03:53,  1.52s/it]Load One Data:  18%|████▉                      | 34/186 [00:37<03:10,  1.25s/it]Load One Data:  19%|█████                      | 35/186 [00:38<02:51,  1.14s/it]Load One Data:  19%|█████▏                     | 36/186 [00:39<02:38,  1.05s/it]Load One Data:  20%|█████▎                     | 37/186 [00:43<04:23,  1.77s/it]Load One Data:  20%|█████▌                     | 38/186 [00:43<03:31,  1.43s/it]Load One Data:  21%|█████▋                     | 39/186 [00:45<03:55,  1.60s/it]Load One Data:  22%|█████▊                     | 40/186 [00:46<03:09,  1.30s/it]Load One Data:  22%|█████▉                     | 41/186 [00:46<02:41,  1.11s/it]Load One Data:  23%|██████                     | 42/186 [00:47<02:24,  1.01s/it]Load One Data:  23%|██████▏                    | 43/186 [00:49<03:08,  1.32s/it]Load One Data:  24%|██████▍                    | 44/186 [00:51<03:18,  1.40s/it]Load One Data:  24%|██████▌                    | 45/186 [00:53<03:49,  1.63s/it]Load One Data:  25%|██████▋                    | 46/186 [00:54<03:12,  1.38s/it]Load One Data:  25%|██████▊                    | 47/186 [00:55<02:45,  1.19s/it]Load One Data:  26%|██████▉                    | 48/186 [00:55<02:22,  1.03s/it]Load One Data:  26%|███████                    | 49/186 [00:57<03:08,  1.38s/it] /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080405.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080406
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080414.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080409
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080417.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080412
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080420.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080415
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080423.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080418
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080502.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080421
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080505.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080506
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080514.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080509
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080517.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080512
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080520.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080515
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080523.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080518
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080602.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080521
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080605.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080606
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080614.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080609
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080617.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080612
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080620.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080615
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080623.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080618
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080702.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080621
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080705.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080706
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080714.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080709
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080717.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080712
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080720.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080715
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080723.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080718
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080802.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080721
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080805.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080806
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080814.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080809
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080817.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080812
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080820.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080815
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080823.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080818
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080902.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080821
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080905.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080906
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080914.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080909
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080917.000Load One Data:  27%|███████▎                   | 50/186 [00:58<02:39,  1.17s/it]Load One Data:  27%|███████▍                   | 51/186 [01:02<04:15,  1.89s/it]Load One Data:  28%|███████▌                   | 52/186 [01:02<03:17,  1.47s/it]Load One Data:  29%|███████▊                   | 54/186 [01:03<02:30,  1.14s/it]Load One Data:  30%|███████▉                   | 55/186 [01:05<03:13,  1.47s/it]Load One Data:  30%|████████▏                  | 56/186 [01:06<02:37,  1.21s/it]Load One Data:  31%|████████▎                  | 57/186 [01:08<03:14,  1.51s/it]Load One Data:  31%|████████▍                  | 58/186 [01:10<03:23,  1.59s/it]Load One Data:  32%|████████▌                  | 59/186 [01:10<02:43,  1.29s/it]Load One Data:  32%|████████▋                  | 60/186 [01:11<02:13,  1.06s/it]Load One Data:  33%|████████▊                  | 61/186 [01:13<02:55,  1.40s/it]Load One Data:  33%|█████████                  | 62/186 [01:14<02:29,  1.21s/it]Load One Data:  34%|█████████▏                 | 63/186 [01:16<03:05,  1.51s/it]Load One Data:  34%|█████████▎                 | 64/186 [01:17<02:33,  1.26s/it]Load One Data:  35%|█████████▍                 | 65/186 [01:17<02:12,  1.10s/it]Load One Data:  35%|█████████▌                 | 66/186 [01:18<01:48,  1.10it/s]Load One Data:  36%|█████████▋                 | 67/186 [01:21<03:18,  1.67s/it]Load One Data:  37%|█████████▊                 | 68/186 [01:22<02:37,  1.33s/it]Load One Data:  37%|██████████                 | 69/186 [01:24<03:04,  1.58s/it]Load One Data:  38%|██████████▏                | 70/186 [01:25<02:33,  1.33s/it]Load One Data:  38%|██████████▎                | 71/186 [01:26<02:14,  1.17s/it]Load One Data:  39%|██████████▍                | 72/186 [01:26<01:51,  1.02it/s]Load One Data:  39%|██████████▌                | 73/186 [01:30<03:16,  1.74s/it]Load One Data:  40%|██████████▋                | 74/186 [01:30<02:39,  1.43s/it]Load One Data:  40%|██████████▉                | 75/186 [01:32<03:01,  1.64s/it]Load One Data:  41%|███████████                | 76/186 [01:33<02:24,  1.32s/it]Load One Data:  41%|███████████▏               | 77/186 [01:34<02:12,  1.21s/it]Load One Data:  42%|███████████▎               | 78/186 [01:35<01:56,  1.08s/it]Load One Data:  42%|███████████▍               | 79/186 [01:37<02:33,  1.43s/it]Load One Data:  43%|███████████▌               | 80/186 [01:38<02:09,  1.22s/it]Load One Data:  44%|███████████▊               | 81/186 [01:41<03:22,  1.93s/it]Load One Data:  44%|███████████▉               | 82/186 [01:42<02:35,  1.50s/it]
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080912
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080920.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080915
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19080923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19080923.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080918
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081002.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019080921
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081005.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081006
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081014.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081009
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081017.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081012
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081020.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081015
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081023.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081018
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081102.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081021
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081105.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081106
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081114.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081109
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081117.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081112
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081120.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081115
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081123.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081118
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081202.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081121
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081205.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081206
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081214.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081209
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081217.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081212
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081220.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081215
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081223.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081218
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081302.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081221
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081305.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081306
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081314.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081309
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081317.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081312
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081320.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081315
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081323.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081318
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081402.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081321
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081405.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081406
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081414.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081409
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081417.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081412
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081420.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081415
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081423.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081418
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081502.000Load One Data:  45%|████████████               | 83/186 [01:43<02:13,  1.29s/it]Load One Data:  45%|████████████▏              | 84/186 [01:43<01:56,  1.15s/it]Load One Data:  46%|████████████▎              | 85/186 [01:46<02:28,  1.47s/it]Load One Data:  46%|████████████▍              | 86/186 [01:46<02:07,  1.28s/it]Load One Data:  47%|████████████▋              | 87/186 [01:50<03:21,  2.04s/it]Load One Data:  47%|████████████▊              | 88/186 [01:51<02:53,  1.77s/it]Load One Data:  48%|████████████▉              | 89/186 [01:52<02:24,  1.49s/it]Load One Data:  48%|█████████████              | 90/186 [01:53<02:03,  1.28s/it]Load One Data:  49%|█████████████▏             | 91/186 [01:55<02:29,  1.57s/it]Load One Data:  49%|█████████████▎             | 92/186 [01:56<02:02,  1.31s/it]Load One Data:  50%|█████████████▌             | 93/186 [01:58<02:27,  1.58s/it]Load One Data:  51%|█████████████▋             | 94/186 [01:59<02:04,  1.36s/it]Load One Data:  51%|█████████████▊             | 95/186 [02:01<02:13,  1.47s/it]Load One Data:  52%|█████████████▉             | 96/186 [02:02<01:53,  1.26s/it]Load One Data:  52%|██████████████             | 97/186 [02:04<02:16,  1.54s/it]Load One Data:  53%|██████████████▏            | 98/186 [02:05<01:56,  1.32s/it]Load One Data:  53%|██████████████▎            | 99/186 [02:07<02:18,  1.59s/it]Load One Data:  54%|█████████████▉            | 100/186 [02:08<01:56,  1.35s/it]Load One Data:  54%|██████████████            | 101/186 [02:08<01:41,  1.20s/it]Load One Data:  55%|██████████████▎           | 102/186 [02:09<01:35,  1.14s/it]Load One Data:  55%|██████████████▍           | 103/186 [02:13<02:31,  1.82s/it]Load One Data:  56%|██████████████▌           | 104/186 [02:13<01:58,  1.44s/it]Load One Data:  56%|██████████████▋           | 105/186 [02:16<02:17,  1.70s/it]Load One Data:  57%|██████████████▊           | 106/186 [02:16<01:52,  1.40s/it]Load One Data:  58%|██████████████▉           | 107/186 [02:17<01:35,  1.21s/it]Load One Data:  58%|███████████████           | 108/186 [02:18<01:24,  1.08s/it]Load One Data:  59%|███████████████▏          | 109/186 [02:22<02:25,  1.88s/it]Load One Data:  59%|███████████████▍          | 110/186 [02:22<01:55,  1.52s/it]Load One Data:  60%|███████████████▌          | 111/186 [02:25<02:09,  1.73s/it]Load One Data:  60%|███████████████▋          | 112/186 [02:25<01:41,  1.37s/it]Load One Data:  61%|███████████████▊          | 113/186 [02:26<01:29,  1.22s/it]Load One Data:  61%|███████████████▉          | 114/186 [02:27<01:18,  1.09s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081502.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081421
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081505.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081506
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081514.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081509
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081517.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081512
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081520.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081515
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081523.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081523.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081518
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081602.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081521
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081605.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081606
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081614.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081609
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081617.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081612
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081620.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081615
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081623.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081618
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081702.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081621
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081705.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081706
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081714.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081709
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081717.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081712
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081720.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081715
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081723.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081718
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081802.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081721
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081805.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081806
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081814.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081809
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081817.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081812
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081820.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081815
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081823.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081818
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081902.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081821
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081905.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081906
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081914.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081909
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081917.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081912
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081920.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081915
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19081923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19081923.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081918
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082002.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019081921
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082005.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082006
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082014.000
+sample_freq0_4rain:Load One Data:  62%|████████████████          | 115/186 [02:29<01:41,  1.43s/it]Load One Data:  62%|████████████████▏         | 116/186 [02:30<01:26,  1.24s/it]Load One Data:  63%|████████████████▎         | 117/186 [02:33<02:04,  1.80s/it]Load One Data:  63%|████████████████▍         | 118/186 [02:34<01:38,  1.45s/it]Load One Data:  64%|████████████████▋         | 119/186 [02:34<01:20,  1.21s/it]Load One Data:  65%|████████████████▊         | 120/186 [02:35<01:12,  1.11s/it]Load One Data:  65%|████████████████▉         | 121/186 [02:37<01:28,  1.36s/it]Load One Data:  66%|█████████████████         | 122/186 [02:38<01:11,  1.12s/it]Load One Data:  66%|█████████████████▏        | 123/186 [02:41<01:55,  1.84s/it]Load One Data:  67%|█████████████████▎        | 124/186 [02:42<01:31,  1.47s/it]Load One Data:  67%|█████████████████▍        | 125/186 [02:42<01:17,  1.26s/it]Load One Data:  68%|█████████████████▌        | 126/186 [02:43<01:07,  1.13s/it]Load One Data:  68%|█████████████████▊        | 127/186 [02:46<01:25,  1.46s/it]Load One Data:  69%|█████████████████▉        | 128/186 [02:46<01:11,  1.24s/it]Load One Data:  69%|██████████████████        | 129/186 [02:49<01:30,  1.60s/it]Load One Data:  70%|██████████████████▏       | 130/186 [02:49<01:15,  1.36s/it]Load One Data:  70%|██████████████████▎       | 131/186 [02:51<01:21,  1.47s/it]Load One Data:  71%|██████████████████▍       | 132/186 [02:52<01:05,  1.20s/it]Load One Data:  72%|██████████████████▌       | 133/186 [02:54<01:15,  1.43s/it]Load One Data:  72%|██████████████████▋       | 134/186 [02:54<01:01,  1.18s/it]Load One Data:  73%|██████████████████▊       | 135/186 [02:56<01:14,  1.46s/it]Load One Data:  73%|███████████████████       | 136/186 [02:57<00:58,  1.18s/it]Load One Data:  74%|███████████████████▏      | 137/186 [02:58<00:51,  1.06s/it]Load One Data:  74%|███████████████████▎      | 138/186 [02:59<00:47,  1.02it/s]Load One Data:  75%|███████████████████▍      | 139/186 [03:02<01:14,  1.59s/it]Load One Data:  75%|███████████████████▌      | 140/186 [03:02<01:02,  1.35s/it]Load One Data:  76%|███████████████████▋      | 141/186 [03:05<01:13,  1.63s/it]Load One Data:  76%|███████████████████▊      | 142/186 [03:05<00:56,  1.29s/it]Load One Data:  77%|███████████████████▉      | 143/186 [03:06<00:49,  1.15s/it]Load One Data:  77%|████████████████████▏     | 144/186 [03:07<00:42,  1.02s/it]Load One Data:  78%|████████████████████▎     | 145/186 [03:11<01:21,  1.99s/it]Load One Data:  78%|████████████████████▍     | 146/186 [03:12<01:06,  1.66s/it]Load One Data:  79%|████████████████████▌     | 147/186 [03:14<01:11,  1.82s/it] 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082009
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082017.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082012
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082020.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082015
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082023.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082018
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082102.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082021
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082105.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082106
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082114.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082109
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082117.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082112
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082120.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082115
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082123.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082118
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082202.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082202.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082121
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082205.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082205.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082206
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082214.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082214.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082209
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082217.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082217.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082212
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082220.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082220.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082215
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082223.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082223.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082218
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082302.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082302.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082221
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082305.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082305.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082306
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082314.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082314.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082309
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082317.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082317.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082312
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082320.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082320.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082315
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082323.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082323.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082318
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082402.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082402.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082321
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082405.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082405.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082406
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082414.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082414.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082409
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082417.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082417.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082412
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082420.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082420.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082415
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082423.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082423.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082418
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082502.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082502.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082421
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082505.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082505.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082506
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082514.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082514.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082509
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082517.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082517.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082512
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082520.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082520.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082515
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082523.000Load One Data:  80%|████████████████████▋     | 148/186 [03:15<00:53,  1.42s/it]Load One Data:  80%|████████████████████▊     | 149/186 [03:15<00:46,  1.25s/it]Load One Data:  81%|████████████████████▉     | 150/186 [03:16<00:36,  1.02s/it]Load One Data:  81%|█████████████████████     | 151/186 [03:18<00:47,  1.36s/it]Load One Data:  82%|█████████████████████▏    | 152/186 [03:19<00:38,  1.13s/it]Load One Data:  82%|█████████████████████▍    | 153/186 [03:21<00:54,  1.66s/it]Load One Data:  83%|█████████████████████▌    | 154/186 [03:22<00:43,  1.36s/it]Load One Data:  83%|█████████████████████▋    | 155/186 [03:23<00:35,  1.16s/it]Load One Data:  84%|█████████████████████▊    | 156/186 [03:23<00:30,  1.02s/it]Load One Data:  84%|█████████████████████▉    | 157/186 [03:26<00:39,  1.36s/it]Load One Data:  85%|██████████████████████    | 158/186 [03:26<00:32,  1.15s/it]Load One Data:  85%|██████████████████████▏   | 159/186 [03:28<00:39,  1.45s/it]Load One Data:  86%|██████████████████████▎   | 160/186 [03:29<00:31,  1.23s/it]Load One Data:  87%|██████████████████████▌   | 161/186 [03:30<00:29,  1.16s/it]Load One Data:  87%|██████████████████████▋   | 162/186 [03:31<00:23,  1.03it/s]Load One Data:  88%|██████████████████████▊   | 163/186 [03:34<00:39,  1.72s/it]Load One Data:  88%|██████████████████████▉   | 164/186 [03:35<00:33,  1.52s/it]Load One Data:  89%|███████████████████████   | 165/186 [03:38<00:36,  1.76s/it]Load One Data:  89%|███████████████████████▏  | 166/186 [03:38<00:27,  1.39s/it]Load One Data:  90%|███████████████████████▎  | 167/186 [03:39<00:23,  1.26s/it]Load One Data:  90%|███████████████████████▍  | 168/186 [03:40<00:20,  1.15s/it]Load One Data:  91%|███████████████████████▌  | 169/186 [03:43<00:31,  1.86s/it]Load One Data:  91%|███████████████████████▊  | 170/186 [03:44<00:23,  1.48s/it]Load One Data:  92%|███████████████████████▉  | 171/186 [03:44<00:16,  1.10s/it]Load One Data:  94%|████████████████████████▍ | 175/186 [03:46<00:10,  1.10it/s]Load One Data:  95%|████████████████████████▌ | 176/186 [03:47<00:08,  1.17it/s]Load One Data:  95%|████████████████████████▋ | 177/186 [03:49<00:11,  1.26s/it]Load One Data:  96%|████████████████████████▉ | 178/186 [03:50<00:09,  1.18s/it]Load One Data:  96%|█████████████████████████ | 179/186 [03:51<00:07,  1.10s/it]
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082523.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082518
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082602.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082602.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082521
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082605.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082605.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082606
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082614.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082614.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082609
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082617.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082617.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082612
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082620.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082620.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082615
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082623.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082623.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082618
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082702.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082702.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082621
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082705.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082705.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082706
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082714.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082714.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082709
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082717.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082717.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082712
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082720.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082720.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082715
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082723.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082723.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082718
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082802.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082802.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082721
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082805.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082805.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082806
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082814.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082814.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082809
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082817.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082817.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082812
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082820.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082820.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082815
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082823.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082823.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082818
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082902.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082902.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082821
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082905.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082905.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082906
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082914.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082914.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082909
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082917.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082917.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082912
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082920.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082920.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082915
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19082923.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19082923.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082918
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083002.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083002.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019082921
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083005.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083005.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083006
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083014.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083014.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083009
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083017.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083017.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083012
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083020.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083020.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083015
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083023.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083023.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083018
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083102.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083021
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083105.000
+sample_freq0_4rain:Load One Data:  97%|█████████████████████████▏| 180/186 [03:52<00:06,  1.02s/it]Load One Data:  97%|█████████████████████████▎| 181/186 [03:55<00:08,  1.64s/it]Load One Data:  98%|█████████████████████████▍| 182/186 [03:56<00:05,  1.36s/it]Load One Data:  98%|█████████████████████████▌| 183/186 [03:58<00:04,  1.65s/it]Load One Data:  99%|█████████████████████████▋| 184/186 [03:59<00:02,  1.36s/it]Load One Data:  99%|█████████████████████████▊| 185/186 [03:59<00:01,  1.20s/it]Load One Data: 100%|██████████████████████████| 186/186 [04:00<00:00,  1.01s/it]
+ 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083106
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083114.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083114.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083109
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083117.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083117.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083112
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083120.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083120.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083115
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/plot/19083123.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/08/surface/r6-p/19083123.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083118
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090102.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090102.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_date: 2019083121
+modalsFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/plot/19090105.000
+labelFileFullName: /mnt/pami14/DATASET/METEOROLOGY/micaps_19/09/surface/r6-p/19090105.000
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+----------------------------------------
+total_rainSamples0: 32651
+total_rainSamples0_01: 2681
+TOTALsamples: 102543
+RAINsamples: 12994
+RAINLESSsamples: 89549
+cost_time: 511.3607738018036
