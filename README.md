@@ -49,7 +49,7 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 
 15: DA-RNN
 
-16: ANN
+16: ANN(MLP)
 
 ## Citation
 
