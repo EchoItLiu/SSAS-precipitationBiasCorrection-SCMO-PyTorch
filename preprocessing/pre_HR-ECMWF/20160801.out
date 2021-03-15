@@ -1,0 +1,2391 @@
+nohup: ignoring input
+Load ECPath:   0%|                                       | 0/62 [00:00<?, ?it/s]Load ECPath:   2%|▍                           | 1/62 [03:25<3:29:16, 205.85s/it]Load ECPath:   3%|▉                           | 2/62 [06:51<3:25:42, 205.71s/it]Load ECPath:   5%|█▎                          | 3/62 [10:18<3:22:41, 206.13s/it]Load ECPath:   6%|█▊                          | 4/62 [13:49<3:20:50, 207.77s/it]Load ECPath:   8%|██▎                         | 5/62 [17:22<3:18:52, 209.34s/it]Load ECPath:  10%|██▋                         | 6/62 [20:55<3:16:22, 210.40s/it]Load ECPath:  11%|███▏                        | 7/62 [24:29<3:13:42, 211.32s/it]Load ECPath:  13%|███▌                        | 8/62 [28:03<3:10:55, 212.13s/it]Load ECPath:  15%|████                        | 9/62 [31:37<3:07:50, 212.65s/it]Load ECPath:  16%|████▎                      | 10/62 [35:10<3:04:30, 212.89s/it]Load ECPath:  18%|████▊                      | 11/62 [38:44<3:01:12, 213.18s/it]Load ECPath:  19%|█████▏                     | 12/62 [42:18<2:57:57, 213.55s/it]Load ECPath:  21%|█████▋                     | 13/62 [45:53<2:54:43, 213.94s/it]Load ECPath:  23%|██████                     | 14/62 [49:28<2:51:23, 214.25s/it]Load ECPath:  24%|██████▌                    | 15/62 [53:04<2:48:05, 214.59s/it]Load ECPath:  26%|██████▉                    | 16/62 [56:39<2:44:37, 214.73s/it]---
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.706719398498535
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.193187713623047
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.87097716331482
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.460418939590454
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.19524073600769
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.82827353477478
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.483050107955933
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.147693395614624
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.865113258361816
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.457817316055298
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.167145013809204
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.825135231018066
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.476159811019897
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.177268028259277
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.842444658279419
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.480364799499512
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.195508003234863
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.839781045913696
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.505255937576294
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.173078775405884
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.817269802093506
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.509600400924683
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.200547695159912
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.850128173828125
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.509047985076904
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.159677028656006
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.90627908706665
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.486114978790283
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.159011602401733
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.800658941268921
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.45699429512024
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.131659984588623
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.854848861694336
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.528953552246094
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.19281840324402
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.830697536468506
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.449786186218262
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.097806453704834
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.792974948883057
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.456729412078857
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.098809242248535
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.784008502960205
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.422920942306519
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.123626708984375
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.79129433631897
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.403601884841919
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.113181829452515
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.767496109008789
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)Load ECPath:  27%|██████▊                  | 17/62 [1:00:13<2:40:59, 214.65s/it]Load ECPath:  29%|███████▎                 | 18/62 [1:03:51<2:38:11, 215.71s/it]Load ECPath:  31%|███████▋                 | 19/62 [1:07:30<2:35:18, 216.70s/it]Load ECPath:  32%|████████                 | 20/62 [1:11:10<2:32:19, 217.62s/it]Load ECPath:  34%|████████▍                | 21/62 [1:14:49<2:29:01, 218.08s/it]Load ECPath:  35%|████████▊                | 22/62 [1:18:29<2:25:38, 218.45s/it]Load ECPath:  37%|█████████▎               | 23/62 [1:22:09<2:22:17, 218.92s/it]Load ECPath:  39%|█████████▋               | 24/62 [1:25:47<2:18:39, 218.93s/it]Load ECPath:  40%|██████████               | 25/62 [1:29:25<2:14:46, 218.55s/it]Load ECPath:  42%|██████████▍              | 26/62 [1:33:05<2:11:16, 218.80s/it]Load ECPath:  44%|██████████▉              | 27/62 [1:36:43<2:07:36, 218.76s/it]Load ECPath:  45%|███████████▎             | 28/62 [1:40:21<2:03:50, 218.54s/it]Load ECPath:  47%|███████████▋             | 29/62 [1:44:01<2:00:19, 218.77s/it]Load ECPath:  48%|████████████             | 30/62 [1:47:39<1:56:42, 218.83s/it]Load ECPath:  50%|████████████▌            | 31/62 [1:51:19<1:53:05, 218.89s/it]Load ECPath:  52%|████████████▉            | 32/62 [1:54:58<1:49:34, 219.14s/it]
+ec_data_cost_time: 12.439002752304077
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.102818965911865
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.79653525352478
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.482365131378174
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.22531270980835
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.873208999633789
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.501148462295532
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.217994928359985
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.837589502334595
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.511617422103882
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.380353927612305
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.255539178848267
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.491968631744385
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.204859495162964
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.898154258728027
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.76920223236084
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.434879541397095
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.944401741027832
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.492698192596436
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.173264503479004
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.800451517105103
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.479907512664795
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.163156509399414
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.845752954483032
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.510215997695923
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.154726266860962
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.810363531112671
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.467177867889404
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.194180965423584
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.852325439453125
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.495129108428955
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.166940212249756
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.826130867004395
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.498993158340454
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.16447353363037
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.819719552993774
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.460366249084473
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.152968645095825
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.862482786178589
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.494942665100098
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.196144342422485
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.816822052001953
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.472672939300537
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.177305459976196
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.808647871017456
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.496844291687012
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.158560514450073
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.829453229904175
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.691768169403076
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.30023217201233
+........ec data reading start........Load ECPath:  53%|█████████████▎           | 33/62 [1:58:40<1:46:14, 219.81s/it]Load ECPath:  55%|█████████████▋           | 34/62 [2:02:19<1:42:30, 219.67s/it]Load ECPath:  56%|██████████████           | 35/62 [2:05:57<1:38:38, 219.20s/it]Load ECPath:  58%|██████████████▌          | 36/62 [2:09:37<1:35:04, 219.41s/it]Load ECPath:  60%|██████████████▉          | 37/62 [2:13:18<1:31:33, 219.75s/it]Load ECPath:  61%|███████████████▎         | 38/62 [2:16:58<1:28:01, 220.07s/it]Load ECPath:  63%|███████████████▋         | 39/62 [2:20:37<1:24:09, 219.56s/it]Load ECPath:  65%|████████████████▏        | 40/62 [2:24:17<1:20:35, 219.81s/it]Load ECPath:  66%|████████████████▌        | 41/62 [2:27:57<1:16:58, 219.94s/it]Load ECPath:  68%|████████████████▉        | 42/62 [2:31:38<1:13:22, 220.13s/it]Load ECPath:  69%|█████████████████▎       | 43/62 [2:35:18<1:09:42, 220.14s/it]Load ECPath:  71%|█████████████████▋       | 44/62 [2:38:58<1:06:02, 220.12s/it]Load ECPath:  73%|██████████████████▏      | 45/62 [2:42:39<1:02:25, 220.33s/it]Load ECPath:  74%|████████████████████       | 46/62 [2:46:17<58:34, 219.63s/it]Load ECPath:  76%|████████████████████▍      | 47/62 [2:49:54<54:43, 218.88s/it]Load ECPath:  77%|████████████████████▉      | 48/62 [2:53:33<51:03, 218.79s/it]Load ECPath:  79%|█████████████████████▎     | 49/62 [2:57:11<47:22, 218.63s/it]
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.979030847549438
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.49062991142273
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.185046672821045
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.819019794464111
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.433942317962646
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.111098289489746
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.871734619140625
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.53559684753418
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.221503734588623
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.863516330718994
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.516133308410645
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.217580318450928
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.863534688949585
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.504055261611938
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.20476222038269
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.92253303527832
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.463042736053467
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.17943787574768
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.820162534713745
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.45346975326538
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.173367261886597
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.88828992843628
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.462690353393555
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.128889560699463
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.785135507583618
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.47590446472168
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.17474865913391
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.82561469078064
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.45222020149231
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.18740200996399
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.812521696090698
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.47718358039856
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.178677797317505
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.830327272415161
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.467765808105469
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.16758370399475
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.825796842575073
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.419329166412354
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.138580322265625
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.765318393707275
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.433641195297241
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.102097749710083
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.786723613739014
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.421343564987183
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.107131719589233
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.743610620498657
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.434015274047852
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.135902881622314
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.748282432556152
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........Load ECPath:  81%|█████████████████████▊     | 50/62 [3:00:47<43:35, 217.97s/it]Load ECPath:  82%|██████████████████████▏    | 51/62 [3:04:25<39:57, 217.96s/it]Load ECPath:  84%|██████████████████████▋    | 52/62 [3:08:03<36:20, 218.01s/it]Load ECPath:  85%|███████████████████████    | 53/62 [3:11:42<32:42, 218.09s/it]Load ECPath:  87%|███████████████████████▌   | 54/62 [3:15:22<29:11, 218.88s/it]Load ECPath:  89%|███████████████████████▉   | 55/62 [3:19:04<25:36, 219.57s/it]Load ECPath:  90%|████████████████████████▍  | 56/62 [3:22:46<22:02, 220.34s/it]Load ECPath:  92%|████████████████████████▊  | 57/62 [3:26:28<18:24, 220.96s/it]Load ECPath:  94%|█████████████████████████▎ | 58/62 [3:30:10<14:44, 221.25s/it]Load ECPath:  95%|█████████████████████████▋ | 59/62 [3:33:49<11:01, 220.54s/it]Load ECPath:  97%|██████████████████████████▏| 60/62 [3:37:28<07:20, 220.18s/it]Load ECPath:  98%|██████████████████████████▌| 61/62 [3:41:07<03:39, 219.59s/it]Load ECPath: 100%|███████████████████████████| 62/62 [3:45:00<00:00, 223.67s/it]
+Load StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 4/1188 [00:00<00:32, 35.93it/s]Load StationWindows:   3%|▌                   | 31/1188 [00:00<00:23, 48.55it/s]Load StationWindows:   4%|▊                   | 51/1188 [00:00<00:18, 62.69it/s]Load StationWindows:   6%|█▏                  | 69/1188 [00:00<00:14, 77.68it/s]Load StationWindows:   7%|█▍                  | 85/1188 [00:00<00:12, 91.31it/s]Load StationWindows:   9%|█▌                | 101/1188 [00:00<00:10, 104.05it/s]Load StationWindows:  10%|█▊                | 116/1188 [00:00<00:09, 110.87it/s]Load StationWindows:  11%|█▉                | 131/1188 [00:00<00:09, 115.73it/s]Load StationWindows:  12%|██▏               | 145/1188 [00:00<00:08, 118.63it/s]Load StationWindows:  13%|██▍               | 159/1188 [00:01<00:08, 116.28it/s]Load StationWindows:  14%|██▌               | 172/1188 [00:01<00:08, 114.18it/s]Load StationWindows:  16%|██▊               | 185/1188 [00:01<00:08, 112.95it/s]Load StationWindows:  18%|███▎              | 215/1188 [00:01<00:07, 138.53it/s]Load StationWindows:  20%|███▋              | 241/1188 [00:01<00:05, 161.03it/s]Load StationWindows:  22%|███▉              | 261/1188 [00:01<00:05, 170.80it/s]Load StationWindows:  24%|████▎             | 281/1188 [00:01<00:05, 170.23it/s]Load StationWindows:  25%|████▌             | 300/1188 [00:01<00:05, 166.70it/s]Load StationWindows:  27%|████▊             | 319/1188 [00:01<00:05, 162.16it/s]Load StationWindows:  28%|█████             | 337/1188 [00:02<00:05, 149.59it/s]Load StationWindows:  30%|█████▎            | 353/1188 [00:02<00:05, 143.92it/s]Load StationWindows:  31%|█████▌            | 369/1188 [00:02<00:05, 139.39it/s]Load StationWindows:  32%|█████▊            | 384/1188 [00:02<00:06, 130.29it/s]Load StationWindows:  34%|██████            | 398/1188 [00:02<00:06, 123.00it/s]Load StationWindows:  35%|██████▏           | 411/1188 [00:02<00:06, 116.20it/s]Load StationWindows:  36%|██████▍           | 423/1188 [00:02<00:06, 109.35it/s]Load StationWindows:  37%|██████▌           | 435/1188 [00:03<00:07, 104.33it/s]Load StationWindows:  38%|██████▊           | 446/1188 [00:03<00:07, 100.30it/s]Load StationWindows:  38%|███████▎           | 457/1188 [00:03<00:07, 93.86it/s]Load StationWindows:  39%|███████▍           | 467/1188 [00:03<00:07, 90.63it/s]Load StationWindows:  40%|███████▋           | 477/1188 [00:03<00:08, 88.46it/s]Load StationWindows:  41%|███████▊           | 486/1188 [00:03<00:08, 83.33it/s]Load StationWindows:  42%|███████▉           | 495/1188 [00:03<00:08, 80.78it/s]Load StationWindows:  42%|████████           | 504/1188 [00:03<00:08, 77.81it/s]Load StationWindows:  43%|████████▏          | 512/1188 [00:04<00:09, 74.09it/s]Load StationWindows:  44%|████████▎          | 520/1188 [00:04<00:09, 71.77it/s]Load StationWindows:  44%|████████▍          | 528/1188 [00:04<00:09, 68.83it/s]Load StationWindows:  45%|████████▌          | 535/1188 [00:04<00:09, 66.35it/s]Load StationWindows:  46%|████████▋          | 542/1188 [00:04<00:09, 65.11it/s]Load StationWindows:  46%|████████▊          | 549/1188 [00:04<00:10, 63.45it/s]Load StationWindows:  47%|████████▉          | 556/1188 [00:04<00:10, 61.64it/s]Load StationWindows:  47%|█████████          | 563/1188 [00:04<00:10, 60.11it/s]Load StationWindows:  48%|█████████          | 570/1188 [00:04<00:10, 58.93it/s]Load StationWindows:  48%|█████████▏         | 576/1188 [00:05<00:10, 57.24it/s]Load StationWindows:  49%|█████████▎         | 582/1188 [00:05<00:10, 55.78it/s]Load StationWindows:  49%|█████████▍         | 588/1188 [00:05<00:10, 54.75it/s]Load StationWindows:  50%|█████████▌         | 594/1188 [00:05<00:11, 53.10it/s]Load StationWindows:  51%|█████████▌         | 600/1188 [00:05<00:11, 51.88it/s]Load StationWindows:  51%|█████████▋         | 606/1188 [00:05<00:11, 51.17it/s]Load StationWindows:  52%|█████████▊         | 612/1188 [00:05<00:11, 50.38it/s]Load StationWindows:  52%|█████████▉         | 618/1188 [00:05<00:11, 50.30it/s]Load StationWindows:  53%|█████████▉         | 624/1188 [00:06<00:11, 49.14it/s]Load StationWindows:  53%|██████████         | 629/1188 [00:06<00:11, 48.11it/s]Load StationWindows:  53%|██████████▏        | 634/1188 [00:06<00:11, 47.45it/s]Load StationWindows:  54%|██████████▏        | 639/1188 [00:06<00:11, 46.93it/s]Load StationWindows:  54%|██████████▎        | 644/1188 [00:06<00:11, 46.34it/s]Load StationWindows:  55%|██████████▍        | 649/1188 [00:06<00:11, 45.62it/s]Load StationWindows:  55%|██████████▍        | 654/1188 [00:06<00:12, 44.46it/s]Load StationWindows:  55%|██████████▌        | 659/1188 [00:06<00:12, 44.07it/s]Load StationWindows:  56%|██████████▌        | 664/1188 [00:06<00:11, 43.95it/s]Load StationWindows:  56%|██████████▋        | 669/1188 [00:07<00:11, 43.60it/s]Load StationWindows:  57%|██████████▊        | 674/1188 [00:07<00:11, 43.52it/s]Load StationWindows:  57%|██████████▊        | 679/1188 [00:07<00:11, 44.91it/s]Load StationWindows:  58%|███████████        | 689/1188 [00:07<00:09, 53.35it/s]Load StationWindows:  59%|███████████▏       | 699/1188 [00:07<00:07, 61.39it/s]Load StationWindows:  60%|███████████▎       | 709/1188 [00:07<00:06, 68.68it/s]Load StationWindows:  60%|███████████▍       | 718/1188 [00:07<00:06, 73.01it/s]Load StationWindows:  61%|███████████▋       | 727/1188 [00:07<00:06, 76.33it/s]Load StationWindows:  62%|███████████▊       | 736/1188 [00:07<00:05, 78.09it/s]Load StationWindows:  63%|███████████▉       | 745/1188 [00:08<00:05, 79.85it/s]Load StationWindows:  63%|████████████       | 754/1188 [00:08<00:05, 78.72it/s]Load StationWindows:  64%|████████████▏      | 763/1188 [00:08<00:05, 77.38it/s]Load StationWindows:  65%|████████████▎      | 771/1188 [00:08<00:05, 76.27it/s]Load StationWindows:  66%|████████████▍      | 779/1188 [00:08<00:05, 75.75it/s]Load StationWindows:  66%|████████████▌      | 787/1188 [00:08<00:05, 74.69it/s]Load StationWindows:  67%|████████████▋      | 795/1188 [00:08<00:05, 72.29it/s]Load StationWindows:  68%|████████████▊      | 803/1188 [00:08<00:05, 71.33it/s]Load StationWindows:  68%|████████████▉      | 811/1188 [00:08<00:05, 69.92it/s]Load StationWindows:  69%|█████████████      | 819/1188 [00:09<00:05, 69.47it/s]Load StationWindows:  70%|█████████████▏     | 826/1188 [00:09<00:05, 68.61it/s]Load StationWindows:  70%|█████████████▎     | 833/1188 [00:09<00:05, 67.96it/s]Load StationWindows:  71%|█████████████▍     | 840/1188 [00:09<00:05, 65.99it/s]Load StationWindows:  71%|█████████████▌     | 847/1188 [00:09<00:05, 64.57it/s]Load StationWindows:  72%|█████████████▋     | 854/1188 [00:09<00:05, 63.97it/s]Load StationWindows:  72%|█████████████▊     | 861/1188 [00:09<00:05, 63.44it/s]Load StationWindows:  73%|█████████████▉     | 868/1188 [00:09<00:05, 63.16it/s]Load StationWindows:  74%|█████████████▉     | 875/1188 [00:09<00:04, 62.81it/s]Load StationWindows:  74%|██████████████     | 882/1188 [00:10<00:04, 62.95it/s]Load StationWindows:  75%|██████████████▏    | 889/1188 [00:10<00:04, 61.84it/s]Load StationWindows:  75%|██████████████▎    | 896/1188 [00:10<00:04, 60.35it/s]Load StationWindows:  76%|██████████████▍    | 903/1188 [00:10<00:04, 59.28it/s]Load StationWindows:  77%|██████████████▌    | 909/1188 [00:10<00:04, 58.73it/s]Load StationWindows:  77%|██████████████▋    | 915/1188 [00:10<00:04, 57.86it/s]Load StationWindows:  78%|██████████████▋    | 921/1188 [00:10<00:04, 57.50it/s]Load StationWindows:  78%|██████████████▊    | 927/1188 [00:10<00:04, 57.27it/s]Load StationWindows:  79%|██████████████▉    | 933/1188 [00:10<00:04, 56.52it/s]Load StationWindows:  79%|███████████████    | 939/1188 [00:11<00:04, 55.40it/s]Load StationWindows:  80%|███████████████    | 945/1188 [00:11<00:04, 54.74it/s]Load StationWindows:  80%|███████████████▏   | 951/1188 [00:11<00:04, 54.22it/s]Load StationWindows:  81%|███████████████▎   | 957/1188 [00:11<00:04, 53.99it/s]Load StationWindows:  81%|███████████████▍   | 963/1188 [00:11<00:04, 53.87it/s]Load StationWindows:  82%|███████████████▍   | 969/1188 [00:11<00:04, 53.21it/s]Load StationWindows:  82%|███████████████▌   | 975/1188 [00:11<00:04, 52.46it/s]Load StationWindows:  83%|███████████████▋   | 981/1188 [00:11<00:04, 51.67it/s]Load StationWindows:  83%|███████████████▊   | 987/1188 [00:11<00:03, 50.77it/s]Load StationWindows:  84%|███████████████▉   | 993/1188 [00:12<00:03, 50.40it/s]Load StationWindows:  84%|███████████████▉   | 999/1188 [00:12<00:03, 50.11it/s]Load StationWindows:  85%|███████████████▏  | 1005/1188 [00:12<00:03, 49.97it/s]Load StationWindows:  85%|███████████████▎  | 1011/1188 [00:12<00:03, 48.58it/s]Load StationWindows:  86%|███████████████▍  | 1016/1188 [00:12<00:03, 47.86it/s]Load StationWindows:  86%|███████████████▍  | 1021/1188 [00:12<00:03, 47.11it/s]Load StationWindows:  86%|███████████████▌  | 1026/1188 [00:12<00:03, 46.75it/s]Load StationWindows:  87%|███████████████▌  | 1031/1188 [00:12<00:03, 45.97it/s]Load StationWindows:  87%|███████████████▋  | 1036/1188 [00:13<00:03, 45.11it/s]Load StationWindows:  88%|███████████████▊  | 1041/1188 [00:13<00:03, 44.44it/s]Load StationWindows:  88%|███████████████▊  | 1046/1188 [00:13<00:03, 44.06it/s]Load StationWindows:  88%|███████████████▉  | 1051/1188 [00:13<00:03, 43.84it/s]Load StationWindows:  89%|████████████████  | 1056/1188 [00:13<00:03, 43.56it/s]Load StationWindows:  89%|████████████████  | 1061/1188 [00:13<00:02, 42.73it/s]Load StationWindows:  90%|████████████████▏ | 1066/1188 [00:13<00:02, 41.79it/s]Load StationWindows:  90%|████████████████▏ | 1071/1188 [00:13<00:02, 41.49it/s]Load StationWindows:  91%|████████████████▎ | 1076/1188 [00:13<00:02, 41.10it/s]Load StationWindows:  91%|████████████████▍ | 1081/1188 [00:14<00:02, 40.85it/s]Load StationWindows:  91%|████████████████▍ | 1086/1188 [00:14<00:02, 40.70it/s]Load StationWindows:  92%|████████████████▌ | 1091/1188 [00:14<00:02, 40.78it/s]Load StationWindows:  92%|████████████████▌ | 1096/1188 [00:14<00:02, 40.69it/s]Load StationWindows:  93%|████████████████▋ | 1101/1188 [00:14<00:02, 40.90it/s]Load StationWindows:  93%|████████████████▊ | 1106/1188 [00:14<00:02, 40.30it/s]Load StationWindows:  94%|████████████████▊ | 1111/1188 [00:14<00:01, 39.70it/s]Load StationWindows:  94%|████████████████▉ | 1115/1188 [00:14<00:01, 39.33it/s]Load StationWindows:  94%|████████████████▉ | 1119/1188 [00:15<00:01, 39.11it/s]Load StationWindows:  95%|█████████████████ | 1123/1188 [00:15<00:01, 38.93it/s]Load StationWindows:  95%|█████████████████ | 1127/1188 [00:15<00:01, 38.78it/s]Load StationWindows:  95%|█████████████████▏| 1131/1188 [00:15<00:01, 38.88it/s]Load StationWindows:  96%|█████████████████▏| 1135/1188 [00:15<00:01, 38.79it/s]Load StationWindows:  96%|█████████████████▎| 1139/1188 [00:15<00:01, 38.70it/s]Load StationWindows:  96%|█████████████████▎| 1143/1188 [00:15<00:01, 38.84it/s]Load StationWindows:  97%|█████████████████▍| 1147/1188 [00:15<00:01, 38.36it/s]Load StationWindows:  97%|█████████████████▍| 1151/1188 [00:15<00:00, 37.89it/s]Load StationWindows:  97%|█████████████████▌| 1155/1188 [00:16<00:00, 37.51it/s]Load StationWindows:  98%|█████████████████▌| 1159/1188 [00:16<00:00, 36.88it/s]Load StationWindows:  98%|█████████████████▌| 1163/1188 [00:16<00:00, 36.78it/s]Load StationWindows:  98%|█████████████████▋| 1167/1188 [00:16<00:00, 36.81it/s]Load StationWindows:  99%|█████████████████▋| 1171/1188 [00:16<00:00, 36.69it/s]Load StationWindows:  99%|█████████████████▊| 1175/1188 [00:16<00:00, 36.34it/s]Load StationWindows:  99%|█████████████████▊| 1179/1188 [00:16<00:00, 35.90it/s]Load StationWindows: 100%|█████████████████▉| 1183/1188 [00:16<00:00, 35.58it/s]Load StationWindows: 100%|█████████████████▉| 1187/1188 [00:16<00:00, 34.60it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [00:16<00:00, 70.07it/s]
+Load One Data:   0%|                                    | 0/181 [00:00<?, ?it/s]Load One Data:   1%|▏                           | 1/181 [00:00<02:41,  1.11it/s]Load One Data:   1%|▎                           | 2/181 [00:01<02:42,  1.10it/s]Load One Data:   2%|▍                           | 3/181 [00:02<02:34,  1.15it/s]Load One Data:   2%|▌                           | 4/181 [00:03<02:31,  1.17it/s]Load One Data:   3%|▊                           | 5/181 [00:05<03:33,  1.21s/it]Load One Data:   3%|▉                           | 6/181 [00:06<03:11,  1.10s/it]Load One Data:   4%|█                           | 7/181 [00:07<02:57,  1.02s/it]
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.41067099571228
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.0784854888916
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.777064323425293
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.449872255325317
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.12691569328308
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.797533988952637
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.407307863235474
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.09602952003479
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.75265121459961
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.421302556991577
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.115201950073242
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.77973747253418
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.481595277786255
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.161112546920776
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.776768207550049
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.477153301239014
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.188236713409424
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.82872486114502
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.495062828063965
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.193352937698364
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.822608947753906
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.515028953552246
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.184411764144897
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.82030463218689
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.512744665145874
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.217219591140747
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.87216067314148
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.428494453430176
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.124699115753174
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.784371614456177
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.450008630752563
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.11207342147827
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.779822587966919
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.43481731414795
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.136767387390137
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 15.765099287033081
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 12.554560899734497
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.257782697677612
+........ec data reading start........
+EC_DATA_before,size: (54, 193, 145)
+EC_DATA,size: (57, 193, 145)
+ec_data_cost_time: 16.271235704421997
+EC_FEATURES_STATIONS: (1188, 186, 57, 17, 17)
+EC_FEATURES_ALL_SEQUENCE: 181
+TPDWP_STATIONS_NUMS: 177
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 0
+count_0: 52
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080200modals.pkl
+TPDWP_STATIONS_NUMS: 177
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 39
+count_rainSamples0_01: 11
+count_0: 40
+count_0_01: 12
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080206modals.pkl
+TPDWP_STATIONS_NUMS: 140
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 0
+count_0: 43
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080209modals.pkl
+TPDWP_STATIONS_NUMS: 140
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 30
+count_rainSamples0_01: 6
+count_0: 31
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080212modals.pkl
+TPDWP_STATIONS_NUMS: 140
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 28
+count_rainSamples0_01: 0
+count_0: 29
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080218modals.pkl
+TPDWP_STATIONS_NUMS: 116
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 34
+count_rainSamples0_01: 0
+count_0: 35
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080221modals.pkl
+TPDWP_STATIONS_NUMS: 119
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 33
+count_rainSamples0_01: 0
+count_0: 34
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080300modals.pkl
+TPDWP_STATIONS_NUMS: 119
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 27Load One Data:   4%|█▏                          | 8/181 [00:08<02:59,  1.04s/it]Load One Data:   5%|█▍                          | 9/181 [00:08<02:42,  1.06it/s]Load One Data:   6%|█▍                         | 10/181 [00:09<02:33,  1.12it/s]Load One Data:   6%|█▋                         | 11/181 [00:10<02:27,  1.15it/s]Load One Data:   7%|█▊                         | 12/181 [00:11<02:24,  1.17it/s]Load One Data:   7%|█▉                         | 13/181 [00:12<02:18,  1.21it/s]Load One Data:   8%|██                         | 14/181 [00:12<02:16,  1.22it/s]Load One Data:   8%|██▏                        | 15/181 [00:13<02:17,  1.21it/s]Load One Data:   9%|██▍                        | 16/181 [00:14<02:20,  1.17it/s]Load One Data:   9%|██▌                        | 17/181 [00:15<02:17,  1.19it/s]Load One Data:  10%|██▋                        | 18/181 [00:16<02:15,  1.20it/s]Load One Data:  10%|██▊                        | 19/181 [00:17<02:16,  1.19it/s]Load One Data:  11%|██▉                        | 20/181 [00:18<02:20,  1.14it/s]Load One Data:  12%|███▏                       | 21/181 [00:18<02:20,  1.14it/s]Load One Data:  12%|███▎                       | 22/181 [00:19<02:20,  1.13it/s]Load One Data:  13%|███▍                       | 23/181 [00:20<02:22,  1.11it/s]Load One Data:  13%|███▌                       | 24/181 [00:21<02:19,  1.13it/s]Load One Data:  14%|███▋                       | 25/181 [00:22<02:17,  1.14it/s]Load One Data:  14%|███▉                       | 26/181 [00:23<02:17,  1.13it/s]Load One Data:  15%|████                       | 27/181 [00:24<02:15,  1.14it/s]Load One Data:  15%|████▏                      | 28/181 [00:25<02:14,  1.14it/s]Load One Data:  16%|████▎                      | 29/181 [00:26<02:13,  1.14it/s]Load One Data:  17%|████▍                      | 30/181 [00:26<02:13,  1.13it/s]Load One Data:  17%|████▌                      | 31/181 [00:27<02:09,  1.16it/s]Load One Data:  18%|████▊                      | 32/181 [00:28<02:13,  1.12it/s]Load One Data:  18%|████▉                      | 33/181 [00:29<02:05,  1.18it/s]Load One Data:  19%|█████                      | 34/181 [00:30<02:05,  1.18it/s]Load One Data:  19%|█████▏                     | 35/181 [00:31<02:02,  1.19it/s]Load One Data:  20%|█████▎                     | 36/181 [00:32<02:04,  1.16it/s]Load One Data:  20%|█████▌                     | 37/181 [00:32<02:03,  1.17it/s]Load One Data:  21%|█████▋                     | 38/181 [00:33<02:01,  1.17it/s]Load One Data:  22%|█████▊                     | 39/181 [00:34<02:02,  1.16it/s]Load One Data:  22%|█████▉                     | 40/181 [00:35<02:05,  1.12it/s]Load One Data:  23%|██████                     | 41/181 [00:36<02:06,  1.10it/s]Load One Data:  23%|██████▎                    | 42/181 [00:37<02:12,  1.05it/s]
+count_rainSamples0_01: 3
+count_0: 28
+count_0_01: 4
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080306modals.pkl
+TPDWP_STATIONS_NUMS: 111
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 33
+count_rainSamples0_01: 0
+count_0: 34
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080309modals.pkl
+TPDWP_STATIONS_NUMS: 111
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 28
+count_rainSamples0_01: 4
+count_0: 29
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080312modals.pkl
+TPDWP_STATIONS_NUMS: 111
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 27
+count_rainSamples0_01: 0
+count_0: 28
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080318modals.pkl
+TPDWP_STATIONS_NUMS: 126
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 37
+count_rainSamples0_01: 0
+count_0: 38
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080321modals.pkl
+TPDWP_STATIONS_NUMS: 128
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 37
+count_rainSamples0_01: 0
+count_0: 38
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080400modals.pkl
+TPDWP_STATIONS_NUMS: 127
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 33
+count_rainSamples0_01: 1
+count_0: 34
+count_0_01: 2
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080406modals.pkl
+TPDWP_STATIONS_NUMS: 139
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 41
+count_rainSamples0_01: 0
+count_0: 42
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080409modals.pkl
+TPDWP_STATIONS_NUMS: 139
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 36
+count_rainSamples0_01: 5
+count_0: 37
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080412modals.pkl
+TPDWP_STATIONS_NUMS: 139
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 36
+count_rainSamples0_01: 0
+count_0: 37
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080418modals.pkl
+TPDWP_STATIONS_NUMS: 141
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 0
+count_0: 43
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080421modals.pkl
+TPDWP_STATIONS_NUMS: 162
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 46
+count_rainSamples0_01: 0
+count_0: 47
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080500modals.pkl
+TPDWP_STATIONS_NUMS: 162
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 39
+count_rainSamples0_01: 6
+count_0: 40
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080506modals.pkl
+TPDWP_STATIONS_NUMS: 150
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 45
+count_rainSamples0_01: 0
+count_0: 46
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080509modals.pkl
+TPDWP_STATIONS_NUMS: 151
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 35
+count_rainSamples0_01: 13
+count_0: 36
+count_0_01: 14
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080512modals.pkl
+TPDWP_STATIONS_NUMS: 150
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 40
+count_rainSamples0_01: 0
+count_0: 41
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080518modals.pkl
+TPDWP_STATIONS_NUMS: 144
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 43
+count_rainSamples0_01: 0
+count_0: 44
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080521modals.pkl
+TPDWP_STATIONS_NUMS: 170
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 49
+count_rainSamples0_01: 0
+count_0: 50
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080600modals.pkl
+TPDWP_STATIONS_NUMS: 170
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 3
+count_0: 43
+count_0_01: 4
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080606modals.pkl
+TPDWP_STATIONS_NUMS: 157
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 47
+count_rainSamples0_01: 0
+count_0: 48
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080609modals.pkl
+TPDWP_STATIONS_NUMS: 157
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 36
+count_rainSamples0_01: 6
+count_0: 37
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080612modals.pkl
+TPDWP_STATIONS_NUMS: 157
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 41
+count_rainSamples0_01: 0
+count_0: 42
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080618modals.pkl
+TPDWP_STATIONS_NUMS: 148
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 44
+count_rainSamples0_01: 0
+count_0: 45
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080621modals.pkl
+TPDWP_STATIONS_NUMS: 153
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 41
+count_rainSamples0_01: 0
+count_0: 42
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080700modals.pkl
+TPDWP_STATIONS_NUMS: 153
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 31
+count_rainSamples0_01: 4
+count_0: 32
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080706modals.pkl
+TPDWP_STATIONS_NUMS: 143
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 0
+count_0: 43
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080709modals.pkl
+TPDWP_STATIONS_NUMS: 143
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 36
+count_rainSamples0_01: 5
+count_0: 37
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080712modals.pkl
+TPDWP_STATIONS_NUMS: 143
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 38
+count_rainSamples0_01: 0
+count_0: 39
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080718modals.pkl
+TPDWP_STATIONS_NUMS: 141
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 0
+count_0: 43
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080721modals.pkl
+TPDWP_STATIONS_NUMS: 160
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 45
+count_rainSamples0_01: 0
+count_0: 46
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080800modals.pkl
+TPDWP_STATIONS_NUMS: 160
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 39
+count_rainSamples0_01: 4
+count_0: 40
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080806modals.pkl
+TPDWP_STATIONS_NUMS: 188
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 0
+count_0: 57
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080809modals.pkl
+TPDWP_STATIONS_NUMS: 188
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 48
+count_rainSamples0_01: 10
+count_0: 49
+count_0_01: 11
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080812modals.pkl
+TPDWP_STATIONS_NUMS: 187
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 0
+count_0: 52
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080818modals.pkl
+TPDWP_STATIONS_NUMS: 194
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 58
+count_rainSamples0_01: 0
+count_0: 59
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080821modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 52
+count_rainSamples0_01: 0
+count_0:Load One Data:  24%|██████▍                    | 43/181 [00:38<02:12,  1.04it/s]Load One Data:  24%|██████▌                    | 44/181 [00:39<02:14,  1.01it/s]Load One Data:  25%|██████▋                    | 45/181 [00:40<02:07,  1.07it/s]Load One Data:  25%|██████▊                    | 46/181 [00:41<02:07,  1.05it/s]Load One Data:  26%|███████                    | 47/181 [00:42<02:07,  1.05it/s]Load One Data:  27%|███████▏                   | 48/181 [00:43<02:04,  1.07it/s]Load One Data:  27%|███████▎                   | 49/181 [00:44<02:15,  1.02s/it]Load One Data:  28%|███████▍                   | 50/181 [00:45<02:13,  1.02s/it]Load One Data:  28%|███████▌                   | 51/181 [00:46<02:03,  1.05it/s]Load One Data:  29%|███████▊                   | 52/181 [00:47<02:02,  1.05it/s]Load One Data:  29%|███████▉                   | 53/181 [00:48<01:57,  1.09it/s]Load One Data:  30%|████████                   | 54/181 [00:49<01:56,  1.09it/s]Load One Data:  30%|████████▏                  | 55/181 [00:49<01:54,  1.10it/s]Load One Data:  31%|████████▎                  | 56/181 [00:50<01:55,  1.08it/s]Load One Data:  31%|████████▌                  | 57/181 [00:51<01:55,  1.08it/s]Load One Data:  32%|████████▋                  | 58/181 [00:52<01:57,  1.05it/s]Load One Data:  33%|████████▊                  | 59/181 [00:53<01:58,  1.03it/s]Load One Data:  33%|████████▉                  | 60/181 [00:54<01:58,  1.02it/s]Load One Data:  34%|█████████                  | 61/181 [00:55<01:58,  1.02it/s]Load One Data:  34%|█████████▏                 | 62/181 [00:56<01:57,  1.01it/s]Load One Data:  35%|█████████▍                 | 63/181 [00:57<01:54,  1.03it/s]Load One Data:  35%|█████████▌                 | 64/181 [00:58<01:56,  1.00it/s]Load One Data:  36%|█████████▋                 | 65/181 [00:59<01:53,  1.02it/s]Load One Data:  36%|█████████▊                 | 66/181 [01:00<01:50,  1.04it/s]Load One Data:  37%|█████████▉                 | 67/181 [01:01<01:47,  1.06it/s]Load One Data:  38%|██████████▏                | 68/181 [01:02<01:44,  1.09it/s]Load One Data:  38%|██████████▎                | 69/181 [01:03<01:44,  1.07it/s]Load One Data:  39%|██████████▍                | 70/181 [01:04<01:46,  1.04it/s]Load One Data:  39%|██████████▌                | 71/181 [01:05<01:46,  1.03it/s]Load One Data:  40%|██████████▋                | 72/181 [01:06<01:45,  1.04it/s]Load One Data:  40%|██████████▉                | 73/181 [01:07<01:41,  1.06it/s]Load One Data:  41%|███████████                | 74/181 [01:08<01:43,  1.03it/s]Load One Data:  41%|███████████▏               | 75/181 [01:09<01:40,  1.05it/s]Load One Data:  42%|███████████▎               | 76/181 [01:10<01:38,  1.07it/s]Load One Data:  43%|███████████▍               | 77/181 [01:11<01:37,  1.07it/s] 53
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080900modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 44
+count_rainSamples0_01: 10
+count_0: 45
+count_0_01: 11
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080906modals.pkl
+TPDWP_STATIONS_NUMS: 175
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 52
+count_rainSamples0_01: 0
+count_0: 53
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080909modals.pkl
+TPDWP_STATIONS_NUMS: 175
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 42
+count_rainSamples0_01: 10
+count_0: 43
+count_0_01: 11
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080912modals.pkl
+TPDWP_STATIONS_NUMS: 176
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 46
+count_rainSamples0_01: 0
+count_0: 47
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080918modals.pkl
+TPDWP_STATIONS_NUMS: 176
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 52
+count_rainSamples0_01: 0
+count_0: 53
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016080921modals.pkl
+TPDWP_STATIONS_NUMS: 181
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 0
+count_0: 52
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081000modals.pkl
+TPDWP_STATIONS_NUMS: 181
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 44
+count_rainSamples0_01: 5
+count_0: 45
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081006modals.pkl
+TPDWP_STATIONS_NUMS: 164
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 49
+count_rainSamples0_01: 0
+count_0: 50
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081009modals.pkl
+TPDWP_STATIONS_NUMS: 164
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 44
+count_rainSamples0_01: 4
+count_0: 45
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081012modals.pkl
+TPDWP_STATIONS_NUMS: 164
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 45
+count_rainSamples0_01: 0
+count_0: 46
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081018modals.pkl
+TPDWP_STATIONS_NUMS: 173
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 0
+count_0: 52
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081021modals.pkl
+TPDWP_STATIONS_NUMS: 188
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081100modals.pkl
+TPDWP_STATIONS_NUMS: 188
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 50
+count_rainSamples0_01: 0
+count_0: 51
+count_0_01: 1
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081106modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081109modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 8
+count_0: 55
+count_0_01: 9
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081112modals.pkl
+TPDWP_STATIONS_NUMS: 207
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 0
+count_0: 57
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081118modals.pkl
+TPDWP_STATIONS_NUMS: 194
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 58
+count_rainSamples0_01: 0
+count_0: 59
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081121modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 0
+count_0: 61
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081200modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 1
+count_0: 57
+count_0_01: 2
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081206modals.pkl
+TPDWP_STATIONS_NUMS: 201
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 0
+count_0: 61
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081209modals.pkl
+TPDWP_STATIONS_NUMS: 201
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 4
+count_0: 55
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081212modals.pkl
+TPDWP_STATIONS_NUMS: 202
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081218modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081221modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 0
+count_0: 57
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081300modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 1
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081306modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081309modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 3
+count_0: 55
+count_0_01: 4
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081312modals.pkl
+TPDWP_STATIONS_NUMS: 210
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081318modals.pkl
+TPDWP_STATIONS_NUMS: 204
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 61
+count_rainSamples0_01: 0
+count_0: 62
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081321modals.pkl
+TPDWP_STATIONS_NUMS: 201
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 58
+count_rainSamples0_01: 0
+count_0: 59
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081400modals.pkl
+TPDWP_STATIONS_NUMS: 201
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 4
+count_0: 52
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081406modals.pkl
+TPDWP_STATIONS_NUMS: 183
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081409modals.pkl
+TPDWP_STATIONS_NUMS: 182
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 50
+count_rainSamples0_01: 1
+count_0: 51
+count_0_01: 2
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081412modals.pkl
+TPDWP_STATIONS_NUMS: 182
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 50
+count_rainSamples0_01: 0
+count_0: 51
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081418modals.pkl
+TPDWP_STATIONS_NUMS: 189
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 0
+count_0: 57
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081421modals.pklLoad One Data:  43%|███████████▋               | 78/181 [01:12<01:38,  1.05it/s]Load One Data:  44%|███████████▊               | 79/181 [01:12<01:35,  1.06it/s]Load One Data:  44%|███████████▉               | 80/181 [01:13<01:37,  1.04it/s]Load One Data:  45%|████████████               | 81/181 [01:14<01:35,  1.05it/s]Load One Data:  45%|████████████▏              | 82/181 [01:15<01:34,  1.04it/s]Load One Data:  46%|████████████▍              | 83/181 [01:16<01:33,  1.05it/s]Load One Data:  46%|████████████▌              | 84/181 [01:17<01:32,  1.05it/s]Load One Data:  47%|████████████▋              | 85/181 [01:18<01:31,  1.05it/s]Load One Data:  48%|████████████▊              | 86/181 [01:19<01:31,  1.04it/s]Load One Data:  48%|████████████▉              | 87/181 [01:20<01:31,  1.02it/s]Load One Data:  49%|█████████████▏             | 88/181 [01:21<01:32,  1.01it/s]Load One Data:  49%|█████████████▎             | 89/181 [01:22<01:33,  1.02s/it]Load One Data:  50%|█████████████▍             | 90/181 [01:23<01:34,  1.04s/it]Load One Data:  50%|█████████████▌             | 91/181 [01:25<01:36,  1.07s/it]Load One Data:  51%|█████████████▋             | 92/181 [01:26<01:35,  1.07s/it]Load One Data:  51%|█████████████▊             | 93/181 [01:27<01:32,  1.06s/it]Load One Data:  52%|██████████████             | 94/181 [01:28<01:31,  1.05s/it]Load One Data:  52%|██████████████▏            | 95/181 [01:29<01:31,  1.06s/it]Load One Data:  53%|██████████████▎            | 96/181 [01:30<01:30,  1.07s/it]Load One Data:  54%|██████████████▍            | 97/181 [01:31<01:29,  1.06s/it]Load One Data:  54%|██████████████▌            | 98/181 [01:32<01:27,  1.05s/it]Load One Data:  55%|██████████████▊            | 99/181 [01:33<01:23,  1.02s/it]Load One Data:  55%|██████████████▎           | 100/181 [01:34<01:24,  1.05s/it]Load One Data:  56%|██████████████▌           | 101/181 [01:35<01:24,  1.06s/it]Load One Data:  56%|██████████████▋           | 102/181 [01:36<01:21,  1.03s/it]Load One Data:  57%|██████████████▊           | 103/181 [01:37<01:20,  1.04s/it]Load One Data:  57%|██████████████▉           | 104/181 [01:38<01:18,  1.02s/it]Load One Data:  58%|███████████████           | 105/181 [01:39<01:15,  1.01it/s]Load One Data:  59%|███████████████▏          | 106/181 [01:40<01:13,  1.02it/s]Load One Data:  59%|███████████████▎          | 107/181 [01:41<01:11,  1.04it/s]Load One Data:  60%|███████████████▌          | 108/181 [01:42<01:11,  1.03it/s]Load One Data:  60%|███████████████▋          | 109/181 [01:43<01:12,  1.01s/it]Load One Data:  61%|███████████████▊          | 110/181 [01:44<01:12,  1.03s/it]Load One Data:  61%|███████████████▉          | 111/181 [01:45<01:10,  1.00s/it]Load One Data:  62%|████████████████          | 112/181 [01:46<01:10,  1.02s/it]Load One Data:  62%|████████████████▏         | 113/181 [01:47<01:08,  1.00s/it]
+TPDWP_STATIONS_NUMS: 202
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 1
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081500modals.pkl
+TPDWP_STATIONS_NUMS: 202
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 53
+count_rainSamples0_01: 6
+count_0: 54
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081506modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081509modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 55
+count_rainSamples0_01: 9
+count_0: 56
+count_0_01: 10
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081512modals.pkl
+TPDWP_STATIONS_NUMS: 209
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 59
+count_rainSamples0_01: 0
+count_0: 60
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081518modals.pkl
+TPDWP_STATIONS_NUMS: 206
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 61
+count_rainSamples0_01: 0
+count_0: 62
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081521modals.pkl
+TPDWP_STATIONS_NUMS: 211
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 61
+count_rainSamples0_01: 0
+count_0: 62
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081600modals.pkl
+TPDWP_STATIONS_NUMS: 211
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 5
+count_0: 61
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081606modals.pkl
+TPDWP_STATIONS_NUMS: 244
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 73
+count_rainSamples0_01: 0
+count_0: 74
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081609modals.pkl
+TPDWP_STATIONS_NUMS: 243
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 67
+count_rainSamples0_01: 4
+count_0: 68
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081612modals.pkl
+TPDWP_STATIONS_NUMS: 243
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 68
+count_rainSamples0_01: 0
+count_0: 69
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081618modals.pkl
+TPDWP_STATIONS_NUMS: 248
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 0
+count_0: 75
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081621modals.pkl
+TPDWP_STATIONS_NUMS: 255
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 0
+count_0: 75
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081700modals.pkl
+TPDWP_STATIONS_NUMS: 255
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 71
+count_rainSamples0_01: 6
+count_0: 72
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081706modals.pkl
+TPDWP_STATIONS_NUMS: 244
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 73
+count_rainSamples0_01: 0
+count_0: 74
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081709modals.pkl
+TPDWP_STATIONS_NUMS: 245
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 68
+count_rainSamples0_01: 11
+count_0: 69
+count_0_01: 12
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081712modals.pkl
+TPDWP_STATIONS_NUMS: 245
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 69
+count_rainSamples0_01: 0
+count_0: 70
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081718modals.pkl
+TPDWP_STATIONS_NUMS: 230
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 69
+count_rainSamples0_01: 0
+count_0: 70
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081721modals.pkl
+TPDWP_STATIONS_NUMS: 227
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 66
+count_rainSamples0_01: 0
+count_0: 67
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081800modals.pkl
+TPDWP_STATIONS_NUMS: 227
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 4
+count_0: 65
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081806modals.pkl
+TPDWP_STATIONS_NUMS: 228
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 68
+count_rainSamples0_01: 0
+count_0: 69
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081809modals.pkl
+TPDWP_STATIONS_NUMS: 228
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 63
+count_rainSamples0_01: 5
+count_0: 64
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081812modals.pkl
+TPDWP_STATIONS_NUMS: 228
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 63
+count_rainSamples0_01: 0
+count_0: 64
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081818modals.pkl
+TPDWP_STATIONS_NUMS: 215
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081821modals.pkl
+TPDWP_STATIONS_NUMS: 219
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081900modals.pkl
+TPDWP_STATIONS_NUMS: 219
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 3
+count_0: 58
+count_0_01: 4
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081906modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081909modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 5
+count_0: 58
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081912modals.pkl
+TPDWP_STATIONS_NUMS: 208
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081918modals.pkl
+TPDWP_STATIONS_NUMS: 206
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 61
+count_rainSamples0_01: 0
+count_0: 62
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016081921modals.pkl
+TPDWP_STATIONS_NUMS: 223
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082000modals.pkl
+TPDWP_STATIONS_NUMS: 223
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 56
+count_rainSamples0_01: 7
+count_0: 57
+count_0_01: 8
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082006modals.pkl
+TPDWP_STATIONS_NUMS: 203
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 0
+count_0: 61
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082009modals.pkl
+TPDWP_STATIONS_NUMS: 206
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 53
+count_rainSamples0_01: 5
+count_0: 54
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082012modals.pkl
+TPDWP_STATIONS_NUMS: 205
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 54
+count_rainSamples0_01: 0
+count_0: 55
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082018modals.pkl
+TPDWP_STATIONS_NUMS: 199
+sample_freq0_4rain:Load One Data:  63%|████████████████▍         | 114/181 [01:48<01:07,  1.01s/it]Load One Data:  64%|████████████████▌         | 115/181 [01:49<01:04,  1.02it/s]Load One Data:  64%|████████████████▋         | 116/181 [01:50<01:04,  1.01it/s]Load One Data:  65%|████████████████▊         | 117/181 [01:51<01:02,  1.02it/s]Load One Data:  65%|████████████████▉         | 118/181 [01:52<01:02,  1.01it/s]Load One Data:  66%|█████████████████         | 119/181 [01:53<01:00,  1.02it/s]Load One Data:  66%|█████████████████▏        | 120/181 [01:54<01:01,  1.02s/it]Load One Data:  67%|█████████████████▍        | 121/181 [01:55<01:01,  1.03s/it]Load One Data:  67%|█████████████████▌        | 122/181 [01:56<01:01,  1.03s/it]Load One Data:  68%|█████████████████▋        | 123/181 [01:57<01:00,  1.04s/it]Load One Data:  69%|█████████████████▊        | 124/181 [01:58<00:59,  1.04s/it]Load One Data:  69%|█████████████████▉        | 125/181 [01:59<00:58,  1.04s/it]Load One Data:  70%|██████████████████        | 126/181 [02:00<00:58,  1.06s/it]Load One Data:  70%|██████████████████▏       | 127/181 [02:01<00:58,  1.08s/it]Load One Data:  71%|██████████████████▍       | 128/181 [02:03<00:58,  1.11s/it]Load One Data:  71%|██████████████████▌       | 129/181 [02:04<00:57,  1.11s/it]Load One Data:  72%|██████████████████▋       | 130/181 [02:05<00:56,  1.11s/it]Load One Data:  72%|██████████████████▊       | 131/181 [02:06<00:55,  1.11s/it]Load One Data:  73%|██████████████████▉       | 132/181 [02:07<00:56,  1.15s/it]Load One Data:  73%|███████████████████       | 133/181 [02:08<00:54,  1.14s/it]Load One Data:  74%|███████████████████▏      | 134/181 [02:09<00:53,  1.13s/it]Load One Data:  75%|███████████████████▍      | 135/181 [02:11<00:51,  1.13s/it]Load One Data:  75%|███████████████████▌      | 136/181 [02:12<00:51,  1.14s/it]Load One Data:  76%|███████████████████▋      | 137/181 [02:13<00:51,  1.17s/it]Load One Data:  76%|███████████████████▊      | 138/181 [02:14<00:49,  1.15s/it]Load One Data:  77%|███████████████████▉      | 139/181 [02:15<00:47,  1.13s/it]Load One Data:  77%|████████████████████      | 140/181 [02:16<00:46,  1.14s/it]Load One Data:  78%|████████████████████▎     | 141/181 [02:17<00:43,  1.10s/it]Load One Data:  78%|████████████████████▍     | 142/181 [02:18<00:41,  1.07s/it]Load One Data:  79%|████████████████████▌     | 143/181 [02:19<00:40,  1.07s/it]Load One Data:  80%|████████████████████▋     | 144/181 [02:20<00:39,  1.06s/it]Load One Data:  80%|████████████████████▊     | 145/181 [02:21<00:37,  1.03s/it]Load One Data:  81%|████████████████████▉     | 146/181 [02:22<00:36,  1.03s/it]Load One Data:  81%|█████████████████████     | 147/181 [02:23<00:33,  1.01it/s]Load One Data:  82%|█████████████████████▎    | 148/181 [02:24<00:32,  1.02it/s] 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 59
+count_rainSamples0_01: 0
+count_0: 60
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082021modals.pkl
+TPDWP_STATIONS_NUMS: 205
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 59
+count_rainSamples0_01: 0
+count_0: 60
+count_0_01: 1
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082100modals.pkl
+TPDWP_STATIONS_NUMS: 205
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 51
+count_rainSamples0_01: 8
+count_0: 52
+count_0_01: 9
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082106modals.pkl
+TPDWP_STATIONS_NUMS: 212
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 63
+count_rainSamples0_01: 0
+count_0: 64
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082109modals.pkl
+TPDWP_STATIONS_NUMS: 212
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 8
+count_0: 58
+count_0_01: 9
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082112modals.pkl
+TPDWP_STATIONS_NUMS: 215
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 0
+count_0: 61
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082118modals.pkl
+TPDWP_STATIONS_NUMS: 214
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082121modals.pkl
+TPDWP_STATIONS_NUMS: 233
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 68
+count_rainSamples0_01: 0
+count_0: 69
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082200modals.pkl
+TPDWP_STATIONS_NUMS: 233
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 65
+count_rainSamples0_01: 3
+count_0: 66
+count_0_01: 4
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082206modals.pkl
+TPDWP_STATIONS_NUMS: 254
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 76
+count_rainSamples0_01: 0
+count_0: 77
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082209modals.pkl
+TPDWP_STATIONS_NUMS: 254
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 71
+count_rainSamples0_01: 4
+count_0: 72
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082212modals.pkl
+TPDWP_STATIONS_NUMS: 254
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 0
+count_0: 75
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082218modals.pkl
+TPDWP_STATIONS_NUMS: 256
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 76
+count_rainSamples0_01: 0
+count_0: 77
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082221modals.pkl
+TPDWP_STATIONS_NUMS: 277
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082300modals.pkl
+TPDWP_STATIONS_NUMS: 276
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 76
+count_rainSamples0_01: 4
+count_0: 77
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082306modals.pkl
+TPDWP_STATIONS_NUMS: 276
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 82
+count_rainSamples0_01: 0
+count_0: 83
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082309modals.pkl
+TPDWP_STATIONS_NUMS: 275
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 77
+count_rainSamples0_01: 9
+count_0: 78
+count_0_01: 10
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082312modals.pkl
+TPDWP_STATIONS_NUMS: 275
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 79
+count_rainSamples0_01: 0
+count_0: 80
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082318modals.pkl
+TPDWP_STATIONS_NUMS: 272
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082321modals.pkl
+TPDWP_STATIONS_NUMS: 275
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082400modals.pkl
+TPDWP_STATIONS_NUMS: 277
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 80
+count_rainSamples0_01: 4
+count_0: 81
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082406modals.pkl
+TPDWP_STATIONS_NUMS: 281
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 84
+count_rainSamples0_01: 0
+count_0: 85
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082409modals.pkl
+TPDWP_STATIONS_NUMS: 278
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 78
+count_rainSamples0_01: 4
+count_0: 79
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082412modals.pkl
+TPDWP_STATIONS_NUMS: 277
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 76
+count_rainSamples0_01: 0
+count_0: 77
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082418modals.pkl
+TPDWP_STATIONS_NUMS: 255
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 76
+count_rainSamples0_01: 0
+count_0: 77
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082421modals.pkl
+TPDWP_STATIONS_NUMS: 259
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 0
+count_0: 75
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082500modals.pkl
+TPDWP_STATIONS_NUMS: 259
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 4
+count_0: 65
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082506modals.pkl
+TPDWP_STATIONS_NUMS: 226
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 67
+count_rainSamples0_01: 0
+count_0: 68
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082509modals.pkl
+TPDWP_STATIONS_NUMS: 226
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 6
+count_0: 61
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082512modals.pkl
+TPDWP_STATIONS_NUMS: 226
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082518modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 0
+count_0: 58
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082521modals.pkl
+TPDWP_STATIONS_NUMS: 192
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 52
+count_rainSamples0_01: 0
+count_0: 53
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082600modals.pkl
+TPDWP_STATIONS_NUMS: 191
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 45
+count_rainSamples0_01: 8
+count_0: 46
+count_0_01: 9
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082606modals.pkl
+TPDWP_STATIONS_NUMS: 178
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 53
+count_rainSamples0_01: 0
+count_0: 54
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082609modals.pkl
+TPDWP_STATIONS_NUMS: 181
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 47
+count_rainSamples0_01: 5
+count_0: 48
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082612modals.pkl
+TPDWP_STATIONS_NUMS: 182
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0:Load One Data:  82%|█████████████████████▍    | 149/181 [02:25<00:31,  1.01it/s]Load One Data:  83%|█████████████████████▌    | 150/181 [02:26<00:30,  1.00it/s]Load One Data:  83%|█████████████████████▋    | 151/181 [02:27<00:29,  1.02it/s]Load One Data:  84%|█████████████████████▊    | 152/181 [02:28<00:28,  1.03it/s]Load One Data:  85%|█████████████████████▉    | 153/181 [02:29<00:27,  1.01it/s]Load One Data:  85%|██████████████████████    | 154/181 [02:30<00:26,  1.01it/s]Load One Data:  86%|██████████████████████▎   | 155/181 [02:31<00:25,  1.01it/s]Load One Data:  86%|██████████████████████▍   | 156/181 [02:32<00:25,  1.01s/it]Load One Data:  87%|██████████████████████▌   | 157/181 [02:33<00:24,  1.03s/it]Load One Data:  87%|██████████████████████▋   | 158/181 [02:35<00:24,  1.07s/it]Load One Data:  88%|██████████████████████▊   | 159/181 [02:36<00:23,  1.06s/it]Load One Data:  88%|██████████████████████▉   | 160/181 [02:37<00:22,  1.06s/it]Load One Data:  89%|███████████████████████▏  | 161/181 [02:38<00:21,  1.07s/it]Load One Data:  90%|███████████████████████▎  | 162/181 [02:39<00:21,  1.12s/it]Load One Data:  90%|███████████████████████▍  | 163/181 [02:40<00:20,  1.14s/it]Load One Data:  91%|███████████████████████▌  | 164/181 [02:41<00:19,  1.14s/it]Load One Data:  91%|███████████████████████▋  | 165/181 [02:43<00:18,  1.16s/it]Load One Data:  92%|███████████████████████▊  | 166/181 [02:44<00:17,  1.18s/it]Load One Data:  92%|███████████████████████▉  | 167/181 [02:45<00:16,  1.20s/it]Load One Data:  93%|████████████████████████▏ | 168/181 [02:46<00:15,  1.21s/it]Load One Data:  93%|████████████████████████▎ | 169/181 [02:47<00:14,  1.20s/it]Load One Data:  94%|████████████████████████▍ | 170/181 [02:49<00:13,  1.19s/it]Load One Data:  94%|████████████████████████▌ | 171/181 [02:50<00:11,  1.18s/it]Load One Data:  95%|████████████████████████▋ | 172/181 [02:51<00:10,  1.17s/it]Load One Data:  96%|████████████████████████▊ | 173/181 [02:52<00:09,  1.17s/it]Load One Data:  96%|████████████████████████▉ | 174/181 [02:53<00:08,  1.20s/it]Load One Data:  97%|█████████████████████████▏| 175/181 [02:54<00:07,  1.19s/it]Load One Data:  97%|█████████████████████████▎| 176/181 [02:56<00:05,  1.18s/it]Load One Data:  98%|█████████████████████████▍| 177/181 [02:57<00:04,  1.16s/it]Load One Data:  98%|█████████████████████████▌| 178/181 [02:58<00:03,  1.17s/it]Load One Data:  99%|█████████████████████████▋| 179/181 [02:59<00:02,  1.26s/it]Load One Data:  99%|█████████████████████████▊| 180/181 [03:01<00:01,  1.24s/it]Load One Data: 100%|██████████████████████████| 181/181 [03:02<00:00,  1.20s/it]
+ 47
+count_rainSamples0_01: 0
+count_0: 48
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082618modals.pkl
+TPDWP_STATIONS_NUMS: 207
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 0
+count_0: 63
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082621modals.pkl
+TPDWP_STATIONS_NUMS: 202
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 60
+count_rainSamples0_01: 0
+count_0: 61
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082700modals.pkl
+TPDWP_STATIONS_NUMS: 202
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 57
+count_rainSamples0_01: 4
+count_0: 58
+count_0_01: 5
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082706modals.pkl
+TPDWP_STATIONS_NUMS: 222
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 66
+count_rainSamples0_01: 0
+count_0: 67
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082709modals.pkl
+TPDWP_STATIONS_NUMS: 222
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 62
+count_rainSamples0_01: 2
+count_0: 63
+count_0_01: 3
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082712modals.pkl
+TPDWP_STATIONS_NUMS: 220
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 64
+count_rainSamples0_01: 0
+count_0: 65
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082718modals.pkl
+TPDWP_STATIONS_NUMS: 224
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 67
+count_rainSamples0_01: 0
+count_0: 68
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082721modals.pkl
+TPDWP_STATIONS_NUMS: 256
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 75
+count_rainSamples0_01: 0
+count_0: 76
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082800modals.pkl
+TPDWP_STATIONS_NUMS: 256
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 74
+count_rainSamples0_01: 0
+count_0: 75
+count_0_01: 1
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082806modals.pkl
+TPDWP_STATIONS_NUMS: 268
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 80
+count_rainSamples0_01: 0
+count_0: 81
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082809modals.pkl
+TPDWP_STATIONS_NUMS: 269
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 79
+count_rainSamples0_01: 1
+count_0: 80
+count_0_01: 2
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082812modals.pkl
+TPDWP_STATIONS_NUMS: 271
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 80
+count_rainSamples0_01: 0
+count_0: 81
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082818modals.pkl
+TPDWP_STATIONS_NUMS: 293
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 0
+count_0: 88
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082821modals.pkl
+TPDWP_STATIONS_NUMS: 299
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 89
+count_rainSamples0_01: 0
+count_0: 90
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082900modals.pkl
+TPDWP_STATIONS_NUMS: 298
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 89
+count_rainSamples0_01: 0
+count_0: 90
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082906modals.pkl
+TPDWP_STATIONS_NUMS: 304
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 91
+count_rainSamples0_01: 0
+count_0: 92
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082909modals.pkl
+TPDWP_STATIONS_NUMS: 306
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 91
+count_rainSamples0_01: 0
+count_0: 92
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082912modals.pkl
+TPDWP_STATIONS_NUMS: 306
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 91
+count_rainSamples0_01: 0
+count_0: 92
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082918modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 0
+count_0: 93
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016082921modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 0
+count_0: 91
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083000modals.pkl
+TPDWP_STATIONS_NUMS: 308
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 2
+count_0: 91
+count_0_01: 3
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083006modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 0
+count_0: 93
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083009modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 90
+count_rainSamples0_01: 5
+count_0: 91
+count_0_01: 6
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083012modals.pkl
+TPDWP_STATIONS_NUMS: 305
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 91
+count_rainSamples0_01: 0
+count_0: 92
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083018modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 0
+count_0: 93
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083021modals.pkl
+TPDWP_STATIONS_NUMS: 309
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 92
+count_rainSamples0_01: 0
+count_0: 93
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083100modals.pkl
+TPDWP_STATIONS_NUMS: 307
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 87
+count_rainSamples0_01: 6
+count_0: 88
+count_0_01: 7
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083106modals.pkl
+TPDWP_STATIONS_NUMS: 298
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 89
+count_rainSamples0_01: 0
+count_0: 90
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083109modals.pkl
+TPDWP_STATIONS_NUMS: 298
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 83
+count_rainSamples0_01: 8
+count_0: 84
+count_0_01: 9
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083112modals.pkl
+TPDWP_STATIONS_NUMS: 299
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 84
+count_rainSamples0_01: 0
+count_0: 85
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083118modals.pkl
+TPDWP_STATIONS_NUMS: 270
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 81
+count_rainSamples0_01: 0
+count_0: 82
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016083121modals.pkl
+TPDWP_STATIONS_NUMS: 257
+sample_freq0_4rain: 0.3
+sample_freq0_01_4rain: 0.8
+count_rainSamples0: 71
+count_rainSamples0_01: 0
+count_0: 72
+count_0_01: 0
+PKL_NAME: /mnt/pami23/yqliu/cropdata_modal/1-modals-seq201608/2016090100modals.pkl
+----------------------------------------
+total_rainSamples0: 10785
+total_rainSamples0_01: 296
+TOTALsamples: 38259
+RAINsamples: 1640
+RAINLESSsamples: 36619
