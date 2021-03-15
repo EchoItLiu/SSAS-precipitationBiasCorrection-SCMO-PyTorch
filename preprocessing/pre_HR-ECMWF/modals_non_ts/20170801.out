@@ -1,0 +1,1310 @@
+nohup: ignoring input
+Load ECPath:   0%|                                       | 0/62 [00:00<?, ?it/s]Load ECPath:   2%|▍                           | 1/62 [04:15<4:20:15, 255.99s/it]Load ECPath:   3%|▉                           | 2/62 [08:31<4:15:55, 255.93s/it]Load ECPath:   5%|█▎                          | 3/62 [12:51<4:12:46, 257.06s/it]Load ECPath:   6%|█▊                          | 4/62 [17:07<4:08:15, 256.82s/it]Load ECPath:   8%|██▎                         | 5/62 [21:27<4:04:44, 257.62s/it]Load ECPath:  10%|██▋                         | 6/62 [25:47<4:01:16, 258.51s/it]Load ECPath:  11%|███▏                        | 7/62 [30:07<3:57:21, 258.94s/it]Load ECPath:  13%|███▌                        | 8/62 [34:31<3:54:16, 260.30s/it]Load ECPath:  15%|████                        | 9/62 [38:51<3:49:57, 260.32s/it]Load ECPath:  16%|████▎                      | 10/62 [43:14<3:46:13, 261.02s/it]Load ECPath:  18%|████▊                      | 11/62 [47:38<3:42:38, 261.93s/it]Load ECPath:  19%|█████▏                     | 12/62 [52:02<3:38:57, 262.75s/it]Load ECPath:  21%|█████▋                     | 13/62 [56:27<3:35:02, 263.32s/it]Load ECPath:  23%|█████▋                   | 14/62 [1:00:52<3:31:06, 263.89s/it]Load ECPath:  24%|██████                   | 15/62 [1:05:17<3:26:49, 264.04s/it]Load ECPath:  26%|██████▍                  | 16/62 [1:09:43<3:22:52, 264.62s/it]Load ECPath:  27%|██████▊                  | 17/62 [1:14:09<3:18:47, 265.05s/it]Load ECPath:  29%|███████▎                 | 18/62 [1:18:37<3:14:59, 265.91s/it]Load ECPath:  31%|███████▋                 | 19/62 [1:23:02<3:10:33, 265.89s/it]Load ECPath:  32%|████████                 | 20/62 [1:27:27<3:05:44, 265.34s/it]Load ECPath:  34%|████████▍                | 21/62 [1:31:52<3:01:22, 265.42s/it]Load ECPath:  35%|████████▊                | 22/62 [1:36:22<2:57:44, 266.62s/it]Load ECPath:  37%|█████████▎               | 23/62 [1:40:51<2:53:55, 267.58s/it]Load ECPath:  39%|█████████▋               | 24/62 [1:45:21<2:49:46, 268.06s/it]Load ECPath:  40%|██████████               | 25/62 [1:49:51<2:45:47, 268.86s/it]Load ECPath:  42%|██████████▍              | 26/62 [1:54:21<2:41:26, 269.06s/it]---
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.518427848815918
+........ec data reading start........
+ec_data_cost_time: 20.460580587387085
+........ec data reading start........
+ec_data_cost_time: 20.96683406829834
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.0525803565979
+........ec data reading start........
+ec_data_cost_time: 19.414144277572632
+........ec data reading start........
+ec_data_cost_time: 20.88117814064026
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.6453275680542
+........ec data reading start........
+ec_data_cost_time: 20.278466939926147
+........ec data reading start........
+ec_data_cost_time: 20.779866933822632
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.701448440551758
+........ec data reading start........
+ec_data_cost_time: 20.112805366516113
+........ec data reading start........
+ec_data_cost_time: 20.562479734420776
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.976980686187744
+........ec data reading start........
+ec_data_cost_time: 20.079709768295288
+........ec data reading start........
+ec_data_cost_time: 20.811758279800415
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.594550132751465
+........ec data reading start........
+ec_data_cost_time: 20.23499584197998
+........ec data reading start........
+ec_data_cost_time: 20.687254190444946
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.7803955078125
+........ec data reading start........
+ec_data_cost_time: 20.265155792236328
+........ec data reading start........
+ec_data_cost_time: 21.170793056488037
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.48110318183899
+........ec data reading start........
+ec_data_cost_time: 20.339184761047363
+........ec data reading start........
+ec_data_cost_time: 21.230058670043945
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.867805242538452
+........ec data reading start........
+ec_data_cost_time: 20.389257669448853
+........ec data reading start........
+ec_data_cost_time: 20.849926710128784
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.832954168319702
+........ec data reading start........
+ec_data_cost_time: 20.091161012649536
+........ec data reading start........
+ec_data_cost_time: 20.922976970672607
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.536640405654907
+........ec data reading start........
+ec_data_cost_time: 20.149157762527466
+........ec data reading start........
+ec_data_cost_time: 20.921953439712524
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.629974603652954
+........ec data reading start........
+ec_data_cost_time: 20.584216356277466
+........ec data reading start........
+ec_data_cost_time: 20.665233850479126
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.566488265991211
+........ec data reading start........
+ec_data_cost_time: 20.555917739868164
+........ec data reading start........
+ec_data_cost_time: 20.55084466934204
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.378578186035156
+........ec data reading start........
+ec_data_cost_time: 20.654879093170166
+........ec data reading start........
+ec_data_cost_time: 20.545724630355835
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.231366395950317
+........ec data reading start........
+ec_data_cost_time: 20.762475728988647
+........ec data reading start........
+ec_data_cost_time: 20.158454418182373
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.524999380111694
+........ec data reading start........
+ec_data_cost_time: 20.432530164718628
+........ec data reading start........
+ec_data_cost_time: 20.39525866508484
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.467930316925049
+........ec data reading start........
+ec_data_cost_time: 20.602720975875854
+........ec data reading start........
+ec_data_cost_time: 20.146819353103638
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.565324306488037
+........ec data reading start........
+ec_data_cost_time: 20.894221782684326
+........ec data reading start........
+ec_data_cost_time: 20.465157508850098
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.731757164001465
+........ec data reading start........
+ec_data_cost_time: 20.550737857818604
+........ec data reading start........
+ec_data_cost_time: 20.12035059928894
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.803762674331665
+........ec data reading start........
+ec_data_cost_time: 20.646678924560547
+........ec data reading start........
+ec_data_cost_time: 20.17452621459961
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.950083017349243
+........ec data reading start........
+ec_data_cost_time: 20.606274127960205
+........ec data reading start........
+ec_data_cost_time: 20.323195457458496
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.292850971221924
+........ec data reading start........
+ec_data_cost_time: 20.48185157775879
+........ec data reading start........
+ec_data_cost_time: 20.617263555526733
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.47350549697876
+........ec data reading start........
+ec_data_cost_time: 20.885476112365723
+........ec data reading start........
+ec_data_cost_time: 21.49633264541626
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.440418004989624
+........ec data reading start........
+ec_data_cost_time: 20.797852754592896
+........ec data reading start........
+ec_data_cost_time: 21.21133828163147
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.866539478302002
+........ec data reading start........
+ec_data_cost_time: 21.372329473495483
+........ec data reading start........
+ec_data_cost_time: 21.257574796676636
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.873379468917847
+........ec data reading start........
+ec_data_cost_time: 21.151646375656128
+........ec data reading start........
+ec_data_cost_time: 20.791121006011963
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.098685264587402
+........ec data reading start........
+ec_data_cost_time: 21.759769916534424
+........ec data reading start........Load ECPath:  44%|██████████▉              | 27/62 [1:58:49<2:36:48, 268.83s/it]Load ECPath:  45%|███████████▎             | 28/62 [2:03:16<2:32:04, 268.37s/it]Load ECPath:  47%|███████████▋             | 29/62 [2:07:45<2:27:34, 268.33s/it]Load ECPath:  48%|████████████             | 30/62 [2:12:13<2:23:04, 268.26s/it]Load ECPath:  50%|████████████▌            | 31/62 [2:16:42<2:18:49, 268.69s/it]Load ECPath:  52%|████████████▉            | 32/62 [2:21:14<2:14:44, 269.48s/it]Load ECPath:  53%|█████████████▎           | 33/62 [2:25:43<2:10:15, 269.50s/it]Load ECPath:  55%|█████████████▋           | 34/62 [2:30:13<2:05:47, 269.54s/it]Load ECPath:  56%|██████████████           | 35/62 [2:34:44<2:01:32, 270.11s/it]Load ECPath:  58%|██████████████▌          | 36/62 [2:39:17<1:57:21, 270.82s/it]Load ECPath:  60%|██████████████▉          | 37/62 [2:43:49<1:52:59, 271.19s/it]Load ECPath:  61%|███████████████▎         | 38/62 [2:48:21<1:48:34, 271.42s/it]Load ECPath:  63%|███████████████▋         | 39/62 [2:52:53<1:44:04, 271.50s/it]Load ECPath:  65%|████████████████▏        | 40/62 [2:57:26<1:39:45, 272.06s/it]Load ECPath:  66%|████████████████▌        | 41/62 [3:02:03<1:35:42, 273.44s/it]Load ECPath:  68%|████████████████▉        | 42/62 [3:06:40<1:31:33, 274.65s/it]Load ECPath:  69%|█████████████████▎       | 43/62 [3:11:17<1:27:12, 275.39s/it]Load ECPath:  71%|█████████████████▋       | 44/62 [3:15:57<1:22:58, 276.60s/it]Load ECPath:  73%|██████████████████▏      | 45/62 [3:20:30<1:18:06, 275.69s/it]Load ECPath:  74%|██████████████████▌      | 46/62 [3:25:12<1:13:58, 277.40s/it]Load ECPath:  76%|██████████████████▉      | 47/62 [3:29:52<1:09:36, 278.41s/it]Load ECPath:  77%|███████████████████▎     | 48/62 [3:34:36<1:05:18, 279.88s/it]Load ECPath:  79%|███████████████████▊     | 49/62 [3:39:06<1:00:00, 276.93s/it]Load ECPath:  81%|█████████████████████▊     | 50/62 [3:43:48<55:41, 278.42s/it]Load ECPath:  82%|██████████████████████▏    | 51/62 [3:48:29<51:10, 279.18s/it]Load ECPath:  84%|██████████████████████▋    | 52/62 [3:53:12<46:45, 280.56s/it]Load ECPath:  85%|███████████████████████    | 53/62 [3:57:58<42:18, 282.00s/it]
+ec_data_cost_time: 20.9079806804657
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.486411094665527
+........ec data reading start........
+ec_data_cost_time: 20.98089075088501
+........ec data reading start........
+ec_data_cost_time: 20.8283371925354
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.05312418937683
+........ec data reading start........
+ec_data_cost_time: 20.745208024978638
+........ec data reading start........
+ec_data_cost_time: 21.184853315353394
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.65004539489746
+........ec data reading start........
+ec_data_cost_time: 20.99895429611206
+........ec data reading start........
+ec_data_cost_time: 21.636474609375
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.54959750175476
+........ec data reading start........
+ec_data_cost_time: 21.25624394416809
+........ec data reading start........
+ec_data_cost_time: 21.742653846740723
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.1834876537323
+........ec data reading start........
+ec_data_cost_time: 22.1553316116333
+........ec data reading start........
+ec_data_cost_time: 21.66279101371765
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.36125349998474
+........ec data reading start........
+ec_data_cost_time: 21.960670709609985
+........ec data reading start........
+ec_data_cost_time: 21.08246159553528
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.00076675415039
+........ec data reading start........
+ec_data_cost_time: 21.45321035385132
+........ec data reading start........
+ec_data_cost_time: 21.512856006622314
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.3194797039032
+........ec data reading start........
+ec_data_cost_time: 21.579556703567505
+........ec data reading start........
+ec_data_cost_time: 21.470593214035034
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.82510209083557
+........ec data reading start........
+ec_data_cost_time: 21.494060516357422
+........ec data reading start........
+ec_data_cost_time: 22.34070372581482
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.870362281799316
+........ec data reading start........
+ec_data_cost_time: 21.7716064453125
+........ec data reading start........
+ec_data_cost_time: 22.243172883987427
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.320985794067383
+........ec data reading start........
+ec_data_cost_time: 22.77856206893921
+........ec data reading start........
+ec_data_cost_time: 21.848128080368042
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.187400341033936
+........ec data reading start........
+ec_data_cost_time: 22.364704608917236
+........ec data reading start........
+ec_data_cost_time: 21.21747374534607
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.97035241127014
+........ec data reading start........
+ec_data_cost_time: 21.938945531845093
+........ec data reading start........
+ec_data_cost_time: 22.245105743408203
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.825857639312744
+........ec data reading start........
+ec_data_cost_time: 21.430155515670776
+........ec data reading start........
+ec_data_cost_time: 22.570215463638306
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.520325899124146
+........ec data reading start........
+ec_data_cost_time: 22.623275995254517
+........ec data reading start........
+ec_data_cost_time: 21.84379005432129
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.630607843399048
+........ec data reading start........
+ec_data_cost_time: 21.806746006011963
+........ec data reading start........
+ec_data_cost_time: 21.93875026702881
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.288596391677856
+........ec data reading start........
+ec_data_cost_time: 21.727248191833496
+........ec data reading start........
+ec_data_cost_time: 22.245434999465942
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.036221504211426
+........ec data reading start........
+ec_data_cost_time: 22.690392017364502
+........ec data reading start........
+ec_data_cost_time: 21.634804487228394
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 17.31091070175171
+........ec data reading start........
+ec_data_cost_time: 21.27632999420166
+........ec data reading start........
+ec_data_cost_time: 23.296178817749023
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.470613956451416
+........ec data reading start........
+ec_data_cost_time: 21.783191680908203
+........ec data reading start........
+ec_data_cost_time: 22.313887357711792
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 18.052863359451294
+........ec data reading start........
+ec_data_cost_time: 22.633586168289185
+........ec data reading start........
+ec_data_cost_time: 21.935431480407715
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.59652853012085
+........ec data reading start........
+ec_data_cost_time: 19.64289879798889
+........ec data reading start........
+ec_data_cost_time: 20.628060817718506
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.573412895202637
+........ec data reading start........
+ec_data_cost_time: 20.596351623535156
+........ec data reading start........
+ec_data_cost_time: 20.33666443824768
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.163730144500732
+........ec data reading start........
+ec_data_cost_time: 20.218444347381592
+........ec data reading start........
+ec_data_cost_time: 20.13084602355957
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.537939548492432
+........ec data reading start........
+ec_data_cost_time: 20.453416347503662
+........ec data reading start........
+ec_data_cost_time: 20.662689685821533
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.17771029472351
+........ec data reading start........
+ec_data_cost_time: 20.563617706298828
+........ec data reading start........
+ec_data_cost_time: 20.365785121917725
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.145054578781128
+........ec data reading start........
+ec_data_cost_time: 20.57200264930725
+........ec data reading start........Load ECPath:  87%|███████████████████████▌   | 54/62 [4:02:44<37:45, 283.25s/it]Load ECPath:  89%|███████████████████████▉   | 55/62 [4:07:27<33:01, 283.10s/it]Load ECPath:  90%|████████████████████████▍  | 56/62 [4:12:10<28:18, 283.14s/it]Load ECPath:  92%|████████████████████████▊  | 57/62 [4:16:56<23:39, 283.99s/it]Load ECPath:  94%|█████████████████████████▎ | 58/62 [4:21:36<18:51, 282.86s/it]Load ECPath:  95%|█████████████████████████▋ | 59/62 [4:26:37<14:24, 288.32s/it]Load ECPath:  98%|██████████████████████████▌| 61/62 [4:31:25<04:04, 244.98s/it]Load ECPath: 100%|███████████████████████████| 62/62 [4:36:11<00:00, 257.42s/it]
+Load StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 2/1188 [00:00<01:35, 12.46it/s]Load StationWindows:   0%|                     | 4/1188 [00:00<01:32, 12.74it/s]Load StationWindows:   1%|                     | 7/1188 [00:00<01:22, 14.40it/s]Load StationWindows:   1%|▏                   | 10/1188 [00:00<01:14, 15.84it/s]Load StationWindows:   1%|▏                   | 13/1188 [00:00<01:08, 17.06it/s]Load StationWindows:   1%|▎                   | 15/1188 [00:00<01:08, 17.05it/s]Load StationWindows:   1%|▎                   | 17/1188 [00:00<01:06, 17.71it/s]Load StationWindows:   2%|▎                   | 20/1188 [00:01<01:03, 18.38it/s]Load StationWindows:   2%|▍                   | 23/1188 [00:01<01:01, 19.09it/s]Load StationWindows:   2%|▍                   | 26/1188 [00:01<00:59, 19.61it/s]Load StationWindows:   2%|▍                   | 29/1188 [00:01<00:58, 19.88it/s]Load StationWindows:   3%|▌                   | 32/1188 [00:01<00:57, 20.00it/s]Load StationWindows:   3%|▌                   | 35/1188 [00:01<00:57, 20.06it/s]Load StationWindows:   3%|▋                   | 38/1188 [00:01<00:57, 19.89it/s]Load StationWindows:   3%|▋                   | 40/1188 [00:02<00:58, 19.78it/s]Load StationWindows:   4%|▋                   | 42/1188 [00:02<00:58, 19.61it/s]Load StationWindows:   4%|▋                   | 44/1188 [00:02<00:58, 19.51it/s]Load StationWindows:   4%|▊                   | 46/1188 [00:02<00:58, 19.39it/s]Load StationWindows:   4%|▊                   | 48/1188 [00:02<00:58, 19.37it/s]Load StationWindows:   4%|▊                   | 50/1188 [00:02<00:59, 19.17it/s]Load StationWindows:   4%|▉                   | 52/1188 [00:02<01:05, 17.22it/s]Load StationWindows:   5%|▉                   | 54/1188 [00:02<01:11, 15.80it/s]Load StationWindows:   5%|▉                   | 56/1188 [00:03<01:13, 15.31it/s]Load StationWindows:   5%|▉                   | 58/1188 [00:03<01:15, 14.94it/s]Load StationWindows:   5%|█                   | 60/1188 [00:03<01:16, 14.66it/s]Load StationWindows:   5%|█                   | 62/1188 [00:03<01:17, 14.51it/s]Load StationWindows:   5%|█                   | 64/1188 [00:03<01:18, 14.36it/s]Load StationWindows:   6%|█                   | 66/1188 [00:03<01:19, 14.09it/s]Load StationWindows:   6%|█▏                  | 68/1188 [00:03<01:20, 13.88it/s]Load StationWindows:   6%|█▏                  | 70/1188 [00:04<01:21, 13.67it/s]Load StationWindows:   6%|█▏                  | 72/1188 [00:04<01:22, 13.50it/s]Load StationWindows:   6%|█▏                  | 74/1188 [00:04<01:23, 13.41it/s]Load StationWindows:   6%|█▎                  | 76/1188 [00:04<01:22, 13.53it/s]Load StationWindows:   7%|█▎                  | 78/1188 [00:04<01:23, 13.26it/s]Load StationWindows:   7%|█▎                  | 80/1188 [00:04<01:24, 13.12it/s]Load StationWindows:   7%|█▍                  | 82/1188 [00:04<01:23, 13.30it/s]Load StationWindows:   7%|█▍                  | 84/1188 [00:05<01:23, 13.20it/s]Load StationWindows:   7%|█▍                  | 86/1188 [00:05<01:21, 13.50it/s]Load StationWindows:   7%|█▍                  | 88/1188 [00:05<01:22, 13.40it/s]Load StationWindows:   8%|█▌                  | 90/1188 [00:05<01:21, 13.45it/s]Load StationWindows:   8%|█▌                  | 92/1188 [00:05<01:19, 13.80it/s]Load StationWindows:   8%|█▌                  | 94/1188 [00:05<01:18, 13.86it/s]Load StationWindows:   8%|█▌                  | 96/1188 [00:05<01:17, 14.03it/s]Load StationWindows:   8%|█▋                  | 98/1188 [00:06<01:17, 14.03it/s]Load StationWindows:   8%|█▌                 | 100/1188 [00:06<01:18, 13.87it/s]Load StationWindows:   9%|█▋                 | 102/1188 [00:06<01:17, 14.08it/s]Load StationWindows:   9%|█▋                 | 104/1188 [00:06<01:17, 13.98it/s]Load StationWindows:   9%|█▋                 | 106/1188 [00:06<01:33, 11.56it/s]Load StationWindows:   9%|█▋                 | 108/1188 [00:06<01:30, 11.92it/s]Load StationWindows:   9%|█▊                 | 110/1188 [00:07<01:26, 12.43it/s]Load StationWindows:   9%|█▊                 | 112/1188 [00:07<01:22, 13.02it/s]Load StationWindows:  10%|█▊                 | 114/1188 [00:07<01:22, 13.05it/s]Load StationWindows:  10%|█▊                 | 116/1188 [00:07<01:19, 13.44it/s]Load StationWindows:  10%|█▉                 | 118/1188 [00:07<01:17, 13.80it/s]Load StationWindows:  10%|█▉                 | 120/1188 [00:07<01:17, 13.75it/s]Load StationWindows:  10%|█▉                 | 122/1188 [00:07<01:16, 13.98it/s]Load StationWindows:  10%|█▉                 | 124/1188 [00:08<01:15, 14.05it/s]Load StationWindows:  11%|██                 | 126/1188 [00:08<01:15, 13.98it/s]Load StationWindows:  11%|██                 | 128/1188 [00:08<01:14, 14.15it/s]Load StationWindows:  11%|██                 | 130/1188 [00:08<01:15, 13.99it/s]Load StationWindows:  11%|██                 | 132/1188 [00:08<01:14, 14.21it/s]Load StationWindows:  11%|██▏                | 134/1188 [00:08<01:13, 14.36it/s]Load StationWindows:  11%|██▏                | 136/1188 [00:08<01:14, 14.16it/s]Load StationWindows:  12%|██▏                | 138/1188 [00:09<01:13, 14.27it/s]Load StationWindows:  12%|██▏                | 140/1188 [00:09<01:14, 14.12it/s]Load StationWindows:  12%|██▎                | 142/1188 [00:09<01:13, 14.23it/s]Load StationWindows:  12%|██▎                | 144/1188 [00:09<01:13, 14.19it/s]Load StationWindows:  12%|██▎                | 146/1188 [00:09<01:14, 13.95it/s]Load StationWindows:  12%|██▎                | 148/1188 [00:09<01:14, 14.02it/s]Load StationWindows:  13%|██▍                | 150/1188 [00:09<01:14, 13.89it/s]Load StationWindows:  13%|██▍                | 152/1188 [00:10<01:13, 14.04it/s]Load StationWindows:  13%|██▍                | 154/1188 [00:10<01:12, 14.19it/s]Load StationWindows:  13%|██▍                | 156/1188 [00:10<01:18, 13.23it/s]Load StationWindows:  13%|██▌                | 158/1188 [00:10<01:25, 11.99it/s]Load StationWindows:  13%|██▌                | 160/1188 [00:10<01:27, 11.77it/s]Load StationWindows:  14%|██▌                | 162/1188 [00:10<01:23, 12.24it/s]Load StationWindows:  14%|██▌                | 164/1188 [00:11<01:20, 12.80it/s]Load StationWindows:  14%|██▋                | 166/1188 [00:11<01:17, 13.15it/s]Load StationWindows:  14%|██▋                | 168/1188 [00:11<01:16, 13.38it/s]Load StationWindows:  14%|██▋                | 170/1188 [00:11<01:15, 13.49it/s]Load StationWindows:  14%|██▊                | 172/1188 [00:11<01:15, 13.51it/s]Load StationWindows:  15%|██▊                | 174/1188 [00:11<01:14, 13.53it/s]Load StationWindows:  15%|██▊                | 176/1188 [00:11<01:15, 13.45it/s]Load StationWindows:  15%|██▊                | 178/1188 [00:12<01:15, 13.45it/s]Load StationWindows:  15%|██▉                | 180/1188 [00:12<01:15, 13.32it/s]Load StationWindows:  15%|██▉                | 182/1188 [00:12<01:15, 13.35it/s]Load StationWindows:  15%|██▉                | 184/1188 [00:12<01:15, 13.31it/s]Load StationWindows:  16%|██▉                | 186/1188 [00:12<01:14, 13.49it/s]Load StationWindows:  16%|███                | 188/1188 [00:12<01:12, 13.76it/s]Load StationWindows:  16%|███                | 190/1188 [00:12<01:11, 14.01it/s]Load StationWindows:  16%|███                | 192/1188 [00:13<01:10, 14.08it/s]Load StationWindows:  16%|███                | 194/1188 [00:13<01:10, 14.17it/s]Load StationWindows:  16%|███▏               | 196/1188 [00:13<01:10, 14.10it/s]Load StationWindows:  17%|███▏               | 198/1188 [00:13<01:09, 14.18it/s]Load StationWindows:  17%|███▏               | 200/1188 [00:13<01:08, 14.39it/s]Load StationWindows:  17%|███▏               | 202/1188 [00:13<01:09, 14.21it/s]Load StationWindows:  17%|███▎               | 204/1188 [00:14<01:22, 11.97it/s]Load StationWindows:  17%|███▎               | 206/1188 [00:14<01:28, 11.11it/s]Load StationWindows:  18%|███▎               | 208/1188 [00:14<01:26, 11.29it/s]Load StationWindows:  18%|███▎               | 210/1188 [00:14<01:24, 11.61it/s]Load StationWindows:  18%|███▍               | 212/1188 [00:14<01:20, 12.12it/s]Load StationWindows:  18%|███▍               | 214/1188 [00:14<01:16, 12.82it/s]Load StationWindows:  18%|███▍               | 216/1188 [00:14<01:12, 13.44it/s]Load StationWindows:  18%|███▍               | 218/1188 [00:15<01:09, 13.90it/s]Load StationWindows:  19%|███▌               | 220/1188 [00:15<01:08, 14.07it/s]Load StationWindows:  19%|███▌               | 222/1188 [00:15<01:06, 14.46it/s]Load StationWindows:  19%|███▌               | 224/1188 [00:15<01:05, 14.63it/s]Load StationWindows:  19%|███▌               | 226/1188 [00:15<01:06, 14.57it/s]Load StationWindows:  19%|███▋               | 228/1188 [00:15<01:05, 14.62it/s]Load StationWindows:  19%|███▋               | 230/1188 [00:15<01:05, 14.66it/s]Load StationWindows:  20%|███▋               | 232/1188 [00:16<01:04, 14.85it/s]Load StationWindows:  20%|███▋               | 234/1188 [00:16<01:04, 14.73it/s]Load StationWindows:  20%|███▊               | 236/1188 [00:16<01:06, 14.24it/s]Load StationWindows:  20%|███▊               | 238/1188 [00:16<01:07, 14.12it/s]Load StationWindows:  20%|███▊               | 240/1188 [00:16<01:07, 14.03it/s]Load StationWindows:  20%|███▊               | 242/1188 [00:16<01:07, 13.97it/s]Load StationWindows:  21%|███▉               | 244/1188 [00:16<01:09, 13.63it/s]Load StationWindows:  21%|███▉               | 246/1188 [00:17<01:08, 13.68it/s]Load StationWindows:  21%|███▉               | 248/1188 [00:17<01:10, 13.35it/s]Load StationWindows:  21%|███▉               | 250/1188 [00:17<01:12, 12.96it/s]Load StationWindows:  21%|████               | 252/1188 [00:17<01:15, 12.36it/s]Load StationWindows:  21%|████               | 254/1188 [00:17<01:23, 11.19it/s]Load StationWindows:  22%|████               | 256/1188 [00:17<01:24, 11.06it/s]Load StationWindows:  22%|████▏              | 258/1188 [00:18<01:21, 11.48it/s]Load StationWindows:  22%|████▏              | 260/1188 [00:18<01:18, 11.87it/s]Load StationWindows:  22%|████▏              | 262/1188 [00:18<01:18, 11.75it/s]Load StationWindows:  22%|████▏              | 264/1188 [00:18<01:16, 12.15it/s]Load StationWindows:  22%|████▎              | 266/1188 [00:18<01:13, 12.50it/s]Load StationWindows:  23%|████▎              | 268/1188 [00:18<01:13, 12.59it/s]Load StationWindows:  23%|████▎              | 270/1188 [00:19<01:11, 12.80it/s]Load StationWindows:  23%|████▎              | 272/1188 [00:19<01:10, 13.06it/s]Load StationWindows:  23%|████▍              | 274/1188 [00:19<01:07, 13.57it/s]Load StationWindows:  23%|████▍              | 276/1188 [00:19<01:05, 13.89it/s]Load StationWindows:  23%|████▍              | 278/1188 [00:19<01:05, 13.98it/s]Load StationWindows:  24%|████▍              | 280/1188 [00:19<01:06, 13.60it/s]Load StationWindows:  24%|████▌              | 282/1188 [00:19<01:06, 13.69it/s]Load StationWindows:  24%|████▌              | 284/1188 [00:20<01:04, 14.07it/s]Load StationWindows:  24%|████▌              | 286/1188 [00:20<01:03, 14.12it/s]Load StationWindows:  24%|████▌              | 288/1188 [00:20<01:02, 14.41it/s]Load StationWindows:  24%|████▋              | 290/1188 [00:20<01:01, 14.71it/s]Load StationWindows:  25%|████▋              | 292/1188 [00:20<01:01, 14.56it/s]Load StationWindows:  25%|████▋              | 294/1188 [00:20<01:01, 14.64it/s]Load StationWindows:  25%|████▋              | 296/1188 [00:20<01:01, 14.58it/s]Load StationWindows:  25%|████▊              | 298/1188 [00:21<01:00, 14.75it/s]Load StationWindows:  25%|████▊              | 300/1188 [00:21<00:59, 14.89it/s]Load StationWindows:  25%|████▊              | 302/1188 [00:21<01:00, 14.73it/s]Load StationWindows:  26%|████▊              | 304/1188 [00:21<00:59, 14.82it/s]Load StationWindows:  26%|████▉              | 306/1188 [00:21<00:59, 14.87it/s]Load StationWindows:  26%|████▉              | 308/1188 [00:21<01:00, 14.57it/s]Load StationWindows:  26%|████▉              | 310/1188 [00:21<01:00, 14.58it/s]Load StationWindows:  26%|████▉              | 312/1188 [00:21<00:59, 14.81it/s]Load StationWindows:  26%|█████              | 314/1188 [00:22<00:59, 14.68it/s]Load StationWindows:  27%|█████              | 316/1188 [00:22<00:58, 14.89it/s]Load StationWindows:  27%|█████              | 318/1188 [00:22<00:58, 14.97it/s]Load StationWindows:  27%|█████              | 320/1188 [00:22<00:58, 14.72it/s]Load StationWindows:  27%|█████▏             | 322/1188 [00:22<00:59, 14.57it/s]Load StationWindows:  27%|█████▏             | 324/1188 [00:22<01:00, 14.39it/s]Load StationWindows:  27%|█████▏             | 326/1188 [00:22<00:59, 14.55it/s]Load StationWindows:  28%|█████▏             | 328/1188 [00:23<00:59, 14.48it/s]Load StationWindows:  28%|█████▎             | 330/1188 [00:23<00:59, 14.41it/s]Load StationWindows:  28%|█████▎             | 332/1188 [00:23<00:58, 14.54it/s]Load StationWindows:  28%|█████▎             | 334/1188 [00:23<00:59, 14.28it/s]Load StationWindows:  28%|█████▎             | 336/1188 [00:23<00:59, 14.21it/s]Load StationWindows:  28%|█████▍             | 338/1188 [00:23<00:58, 14.43it/s]Load StationWindows:  29%|█████▍             | 340/1188 [00:23<00:59, 14.36it/s]Load StationWindows:  29%|█████▍             | 342/1188 [00:24<00:58, 14.53it/s]Load StationWindows:  29%|█████▌             | 344/1188 [00:24<00:57, 14.65it/s]Load StationWindows:  29%|█████▌             | 346/1188 [00:24<00:58, 14.38it/s]Load StationWindows:  29%|█████▌             | 348/1188 [00:24<00:58, 14.45it/s]Load StationWindows:  29%|█████▌             | 350/1188 [00:24<00:58, 14.34it/s]Load StationWindows:  30%|█████▋             | 352/1188 [00:24<00:57, 14.55it/s]Load StationWindows:  30%|█████▋             | 354/1188 [00:24<00:57, 14.62it/s]Load StationWindows:  30%|█████▋             | 356/1188 [00:25<00:57, 14.44it/s]Load StationWindows:  30%|█████▋             | 358/1188 [00:25<00:57, 14.48it/s]Load StationWindows:  30%|█████▊             | 360/1188 [00:25<00:57, 14.46it/s]Load StationWindows:  30%|█████▊             | 362/1188 [00:25<00:58, 14.10it/s]Load StationWindows:  31%|█████▊             | 364/1188 [00:25<00:59, 13.94it/s]Load StationWindows:  31%|█████▊             | 366/1188 [00:25<00:59, 13.84it/s]Load StationWindows:  31%|█████▉             | 368/1188 [00:25<00:58, 13.94it/s]Load StationWindows:  31%|█████▉             | 370/1188 [00:26<00:58, 14.02it/s]Load StationWindows:  31%|█████▉             | 372/1188 [00:26<00:57, 14.10it/s]Load StationWindows:  31%|█████▉             | 374/1188 [00:26<00:57, 14.08it/s]Load StationWindows:  32%|██████             | 376/1188 [00:26<00:58, 13.92it/s]Load StationWindows:  32%|██████             | 378/1188 [00:26<00:58, 13.81it/s]Load StationWindows:  32%|██████             | 380/1188 [00:26<00:58, 13.80it/s]Load StationWindows:  32%|██████             | 382/1188 [00:26<00:58, 13.79it/s]Load StationWindows:  32%|██████▏            | 384/1188 [00:27<00:58, 13.69it/s]Load StationWindows:  32%|██████▏            | 386/1188 [00:27<00:58, 13.69it/s]Load StationWindows:  33%|██████▏            | 388/1188 [00:27<00:58, 13.68it/s]Load StationWindows:  33%|██████▏            | 390/1188 [00:27<00:59, 13.44it/s]Load StationWindows:  33%|██████▎            | 392/1188 [00:27<01:00, 13.15it/s]Load StationWindows:  33%|██████▎            | 394/1188 [00:27<01:01, 13.00it/s]Load StationWindows:  33%|██████▎            | 396/1188 [00:27<01:02, 12.76it/s]Load StationWindows:  34%|██████▎            | 398/1188 [00:28<01:02, 12.66it/s]Load StationWindows:  34%|██████▍            | 400/1188 [00:28<01:03, 12.36it/s]Load StationWindows:  34%|██████▍            | 402/1188 [00:28<01:04, 12.12it/s]Load StationWindows:  34%|██████▍            | 404/1188 [00:28<01:05, 11.96it/s]Load StationWindows:  34%|██████▍            | 406/1188 [00:28<01:05, 11.89it/s]Load StationWindows:  34%|██████▌            | 408/1188 [00:28<01:06, 11.78it/s]Load StationWindows:  35%|██████▌            | 410/1188 [00:29<01:06, 11.72it/s]Load StationWindows:  35%|██████▌            | 412/1188 [00:29<01:05, 11.78it/s]Load StationWindows:  35%|██████▌            | 414/1188 [00:29<01:05, 11.77it/s]Load StationWindows:  35%|██████▋            | 416/1188 [00:29<01:05, 11.84it/s]Load StationWindows:  35%|██████▋            | 418/1188 [00:29<01:03, 12.05it/s]Load StationWindows:  35%|██████▋            | 420/1188 [00:29<01:03, 12.01it/s]Load StationWindows:  36%|██████▋            | 422/1188 [00:30<01:01, 12.36it/s]Load StationWindows:  36%|██████▊            | 424/1188 [00:30<01:00, 12.56it/s]Load StationWindows:  36%|██████▊            | 426/1188 [00:30<00:59, 12.84it/s]Load StationWindows:  36%|██████▊            | 428/1188 [00:30<00:58, 13.09it/s]Load StationWindows:  36%|██████▉            | 430/1188 [00:30<00:56, 13.37it/s]Load StationWindows:  36%|██████▉            | 432/1188 [00:30<00:55, 13.52it/s]Load StationWindows:  37%|██████▉            | 434/1188 [00:31<00:54, 13.72it/s]Load StationWindows:  37%|██████▉            | 436/1188 [00:31<00:55, 13.55it/s]Load StationWindows:  37%|███████            | 438/1188 [00:31<00:54, 13.69it/s]Load StationWindows:  37%|███████            | 440/1188 [00:31<00:54, 13.85it/s]Load StationWindows:  37%|███████            | 442/1188 [00:31<00:53, 13.87it/s]Load StationWindows:  37%|███████            | 444/1188 [00:31<00:53, 13.79it/s]Load StationWindows:  38%|███████▏           | 446/1188 [00:31<00:53, 13.83it/s]Load StationWindows:  38%|███████▏           | 448/1188 [00:32<00:53, 13.80it/s]Load StationWindows:  38%|███████▏           | 450/1188 [00:32<00:53, 13.82it/s]Load StationWindows:  38%|███████▏           | 452/1188 [00:32<00:53, 13.74it/s]Load StationWindows:  38%|███████▎           | 454/1188 [00:32<00:53, 13.71it/s]Load StationWindows:  38%|███████▎           | 456/1188 [00:32<00:53, 13.69it/s]Load StationWindows:  39%|███████▎           | 458/1188 [00:32<00:53, 13.66it/s]Load StationWindows:  39%|███████▎           | 460/1188 [00:32<00:53, 13.66it/s]Load StationWindows:  39%|███████▍           | 462/1188 [00:33<00:53, 13.69it/s]Load StationWindows:  39%|███████▍           | 464/1188 [00:33<00:52, 13.73it/s]Load StationWindows:  39%|███████▍           | 466/1188 [00:33<00:52, 13.73it/s]Load StationWindows:  39%|███████▍           | 468/1188 [00:33<00:52, 13.74it/s]Load StationWindows:  40%|███████▌           | 470/1188 [00:33<00:52, 13.64it/s]Load StationWindows:  40%|███████▌           | 472/1188 [00:33<00:52, 13.61it/s]Load StationWindows:  40%|███████▌           | 474/1188 [00:33<00:52, 13.65it/s]Load StationWindows:  40%|███████▌           | 476/1188 [00:34<00:52, 13.66it/s]Load StationWindows:  40%|███████▋           | 478/1188 [00:34<00:51, 13.67it/s]Load StationWindows:  40%|███████▋           | 480/1188 [00:34<00:52, 13.59it/s]Load StationWindows:  41%|███████▋           | 482/1188 [00:34<00:52, 13.52it/s]Load StationWindows:  41%|███████▋           | 484/1188 [00:34<00:52, 13.47it/s]Load StationWindows:  41%|███████▊           | 486/1188 [00:34<00:52, 13.45it/s]Load StationWindows:  41%|███████▊           | 488/1188 [00:34<00:51, 13.51it/s]Load StationWindows:  41%|███████▊           | 490/1188 [00:35<00:52, 13.41it/s]Load StationWindows:  41%|███████▊           | 492/1188 [00:35<00:51, 13.50it/s]Load StationWindows:  42%|███████▉           | 494/1188 [00:35<00:51, 13.46it/s]Load StationWindows:  42%|███████▉           | 496/1188 [00:35<00:51, 13.40it/s]Load StationWindows:  42%|███████▉           | 498/1188 [00:35<00:51, 13.39it/s]Load StationWindows:  42%|███████▉           | 500/1188 [00:35<00:51, 13.26it/s]Load StationWindows:  42%|████████           | 502/1188 [00:36<00:51, 13.33it/s]Load StationWindows:  42%|████████           | 504/1188 [00:36<00:51, 13.24it/s]Load StationWindows:  43%|████████           | 506/1188 [00:36<00:51, 13.24it/s]Load StationWindows:  43%|████████           | 508/1188 [00:36<00:51, 13.08it/s]Load StationWindows:  43%|████████▏          | 510/1188 [00:36<00:52, 12.98it/s]Load StationWindows:  43%|████████▏          | 512/1188 [00:36<00:52, 12.87it/s]Load StationWindows:  43%|████████▏          | 514/1188 [00:36<00:52, 12.79it/s]Load StationWindows:  43%|████████▎          | 516/1188 [00:37<00:52, 12.68it/s]Load StationWindows:  44%|████████▎          | 518/1188 [00:37<00:52, 12.69it/s]Load StationWindows:  44%|████████▎          | 520/1188 [00:37<00:52, 12.74it/s]Load StationWindows:  44%|████████▎          | 522/1188 [00:37<00:52, 12.72it/s]Load StationWindows:  44%|████████▍          | 524/1188 [00:37<00:52, 12.66it/s]Load StationWindows:  44%|████████▍          | 526/1188 [00:37<00:52, 12.60it/s]Load StationWindows:  44%|████████▍          | 528/1188 [00:38<00:52, 12.51it/s]Load StationWindows:  45%|████████▍          | 530/1188 [00:38<00:53, 12.26it/s]Load StationWindows:  45%|████████▌          | 532/1188 [00:38<00:54, 11.99it/s]Load StationWindows:  45%|████████▌          | 534/1188 [00:38<00:55, 11.71it/s]Load StationWindows:  45%|████████▌          | 536/1188 [00:38<00:56, 11.58it/s]Load StationWindows:  45%|████████▌          | 538/1188 [00:38<00:56, 11.43it/s]Load StationWindows:  45%|████████▋          | 540/1188 [00:39<00:57, 11.33it/s]Load StationWindows:  46%|████████▋          | 542/1188 [00:39<00:57, 11.20it/s]Load StationWindows:  46%|████████▋          | 544/1188 [00:39<00:57, 11.13it/s]Load StationWindows:  46%|████████▋          | 546/1188 [00:39<00:58, 11.02it/s]Load StationWindows:  46%|████████▊          | 548/1188 [00:39<00:57, 11.04it/s]Load StationWindows:  46%|████████▊          | 550/1188 [00:40<00:57, 11.12it/s]Load StationWindows:  46%|████████▊          | 552/1188 [00:40<00:56, 11.23it/s]Load StationWindows:  47%|████████▊          | 554/1188 [00:40<00:55, 11.41it/s]Load StationWindows:  47%|████████▉          | 556/1188 [00:40<00:55, 11.43it/s]Load StationWindows:  47%|████████▉          | 558/1188 [00:40<00:55, 11.37it/s]Load StationWindows:  47%|████████▉          | 560/1188 [00:40<00:54, 11.51it/s]Load StationWindows:  47%|████████▉          | 562/1188 [00:41<00:53, 11.69it/s]Load StationWindows:  47%|█████████          | 564/1188 [00:41<00:52, 11.90it/s]Load StationWindows:  48%|█████████          | 566/1188 [00:41<00:51, 12.06it/s]Load StationWindows:  48%|█████████          | 568/1188 [00:41<00:50, 12.20it/s]Load StationWindows:  48%|█████████          | 570/1188 [00:41<00:50, 12.22it/s]Load StationWindows:  48%|█████████▏         | 572/1188 [00:41<00:51, 12.04it/s]Load StationWindows:  48%|█████████▏         | 574/1188 [00:42<00:51, 11.89it/s]Load StationWindows:  48%|█████████▏         | 576/1188 [00:42<00:52, 11.56it/s]Load StationWindows:  49%|█████████▏         | 578/1188 [00:42<00:53, 11.33it/s]Load StationWindows:  49%|█████████▎         | 580/1188 [00:42<00:54, 11.23it/s]Load StationWindows:  49%|█████████▎         | 582/1188 [00:42<00:54, 11.03it/s]Load StationWindows:  49%|█████████▎         | 584/1188 [00:42<00:54, 10.99it/s]Load StationWindows:  49%|█████████▎         | 586/1188 [00:43<00:55, 10.94it/s]Load StationWindows:  49%|█████████▍         | 588/1188 [00:43<00:55, 10.74it/s]Load StationWindows:  50%|█████████▍         | 590/1188 [00:43<00:57, 10.46it/s]Load StationWindows:  50%|█████████▍         | 592/1188 [00:43<00:58, 10.26it/s]Load StationWindows:  50%|█████████▌         | 594/1188 [00:43<00:57, 10.35it/s]Load StationWindows:  50%|█████████▌         | 596/1188 [00:44<00:56, 10.44it/s]Load StationWindows:  50%|█████████▌         | 598/1188 [00:44<00:55, 10.54it/s]Load StationWindows:  51%|█████████▌         | 600/1188 [00:44<00:55, 10.63it/s]Load StationWindows:  51%|█████████▋         | 602/1188 [00:44<00:54, 10.83it/s]Load StationWindows:  51%|█████████▋         | 604/1188 [00:44<00:52, 11.03it/s]Load StationWindows:  51%|█████████▋         | 606/1188 [00:45<00:52, 11.09it/s]Load StationWindows:  51%|█████████▋         | 608/1188 [00:45<00:51, 11.22it/s]Load StationWindows:  51%|█████████▊         | 610/1188 [00:45<00:51, 11.20it/s]Load StationWindows:  52%|█████████▊         | 612/1188 [00:45<00:50, 11.47it/s]Load StationWindows:  52%|█████████▊         | 614/1188 [00:45<00:49, 11.64it/s]Load StationWindows:  52%|█████████▊         | 616/1188 [00:45<00:48, 11.76it/s]Load StationWindows:  52%|█████████▉         | 618/1188 [00:46<00:48, 11.81it/s]Load StationWindows:  52%|█████████▉         | 620/1188 [00:46<00:47, 11.94it/s]Load StationWindows:  52%|█████████▉         | 622/1188 [00:46<00:47, 11.87it/s]Load StationWindows:  53%|█████████▉         | 624/1188 [00:46<00:47, 11.90it/s]Load StationWindows:  53%|██████████         | 626/1188 [00:46<00:47, 11.94it/s]Load StationWindows:  53%|██████████         | 628/1188 [00:46<00:47, 11.89it/s]Load StationWindows:  53%|██████████         | 630/1188 [00:47<00:46, 11.90it/s]Load StationWindows:  53%|██████████         | 632/1188 [00:47<00:46, 11.88it/s]Load StationWindows:  53%|██████████▏        | 634/1188 [00:47<00:46, 11.92it/s]Load StationWindows:  54%|██████████▏        | 636/1188 [00:47<00:46, 11.84it/s]Load StationWindows:  54%|██████████▏        | 638/1188 [00:47<00:46, 11.86it/s]Load StationWindows:  54%|██████████▏        | 640/1188 [00:47<00:46, 11.90it/s]Load StationWindows:  54%|██████████▎        | 642/1188 [00:48<00:45, 11.90it/s]Load StationWindows:  54%|██████████▎        | 644/1188 [00:48<00:45, 11.93it/s]Load StationWindows:  54%|██████████▎        | 646/1188 [00:48<00:45, 11.91it/s]Load StationWindows:  55%|██████████▎        | 648/1188 [00:48<00:45, 11.88it/s]Load StationWindows:  55%|██████████▍        | 650/1188 [00:48<00:45, 11.75it/s]Load StationWindows:  55%|██████████▍        | 652/1188 [00:48<00:45, 11.66it/s]Load StationWindows:  55%|██████████▍        | 654/1188 [00:49<00:45, 11.63it/s]Load StationWindows:  55%|██████████▍        | 656/1188 [00:49<00:45, 11.60it/s]Load StationWindows:  55%|██████████▌        | 658/1188 [00:49<00:45, 11.64it/s]Load StationWindows:  56%|██████████▌        | 660/1188 [00:49<00:45, 11.64it/s]Load StationWindows:  56%|██████████▌        | 662/1188 [00:49<00:45, 11.58it/s]Load StationWindows:  56%|██████████▌        | 664/1188 [00:49<00:45, 11.51it/s]Load StationWindows:  56%|██████████▋        | 666/1188 [00:50<00:45, 11.52it/s]Load StationWindows:  56%|██████████▋        | 668/1188 [00:50<00:44, 11.64it/s]Load StationWindows:  56%|██████████▋        | 670/1188 [00:50<00:44, 11.63it/s]Load StationWindows:  57%|██████████▋        | 672/1188 [00:50<00:44, 11.66it/s]Load StationWindows:  57%|██████████▊        | 674/1188 [00:50<00:44, 11.61it/s]Load StationWindows:  57%|██████████▊        | 676/1188 [00:50<00:43, 11.67it/s]Load StationWindows:  57%|██████████▊        | 678/1188 [00:51<00:43, 11.60it/s]Load StationWindows:  57%|██████████▉        | 680/1188 [00:51<00:41, 12.29it/s]Load StationWindows:  57%|██████████▉        | 682/1188 [00:51<00:39, 12.87it/s]Load StationWindows:  58%|██████████▉        | 684/1188 [00:51<00:38, 12.97it/s]Load StationWindows:  58%|██████████▉        | 686/1188 [00:51<00:38, 13.01it/s]Load StationWindows:  58%|███████████        | 688/1188 [00:51<00:38, 13.01it/s]Load StationWindows:  58%|███████████        | 690/1188 [00:52<00:38, 13.03it/s]Load StationWindows:  58%|███████████        | 692/1188 [00:52<00:38, 12.86it/s]Load StationWindows:  58%|███████████        | 694/1188 [00:52<00:40, 12.07it/s]Load StationWindows:  59%|███████████▏       | 696/1188 [00:52<00:39, 12.49it/s]Load StationWindows:  59%|███████████▏       | 698/1188 [00:52<00:38, 12.71it/s]Load StationWindows:  59%|███████████▏       | 700/1188 [00:52<00:37, 12.99it/s]Load StationWindows:  59%|███████████▏       | 702/1188 [00:52<00:36, 13.19it/s]Load StationWindows:  59%|███████████▎       | 704/1188 [00:53<00:37, 12.95it/s]Load StationWindows:  59%|███████████▎       | 706/1188 [00:53<00:37, 12.85it/s]Load StationWindows:  60%|███████████▎       | 708/1188 [00:53<00:37, 12.65it/s]Load StationWindows:  60%|███████████▎       | 710/1188 [00:53<00:38, 12.48it/s]Load StationWindows:  60%|███████████▍       | 712/1188 [00:53<00:38, 12.30it/s]Load StationWindows:  60%|███████████▍       | 714/1188 [00:53<00:38, 12.18it/s]Load StationWindows:  60%|███████████▍       | 716/1188 [00:54<00:39, 12.02it/s]Load StationWindows:  60%|███████████▍       | 718/1188 [00:54<00:39, 11.84it/s]Load StationWindows:  61%|███████████▌       | 720/1188 [00:54<00:40, 11.63it/s]Load StationWindows:  61%|███████████▌       | 722/1188 [00:54<00:41, 11.12it/s]Load StationWindows:  61%|███████████▌       | 724/1188 [00:54<00:42, 11.00it/s]Load StationWindows:  61%|███████████▌       | 726/1188 [00:55<00:42, 10.98it/s]Load StationWindows:  61%|███████████▋       | 728/1188 [00:55<00:41, 11.11it/s]Load StationWindows:  61%|███████████▋       | 730/1188 [00:55<00:41, 11.11it/s]Load StationWindows:  62%|███████████▋       | 732/1188 [00:55<00:40, 11.24it/s]Load StationWindows:  62%|███████████▋       | 734/1188 [00:55<00:39, 11.48it/s]Load StationWindows:  62%|███████████▊       | 736/1188 [00:55<00:39, 11.30it/s]Load StationWindows:  62%|███████████▊       | 738/1188 [00:56<00:51,  8.79it/s]Load StationWindows:  62%|███████████▊       | 739/1188 [00:56<00:49,  8.98it/s]Load StationWindows:  62%|███████████▊       | 741/1188 [00:56<00:45,  9.74it/s]Load StationWindows:  63%|███████████▉       | 743/1188 [00:56<00:42, 10.41it/s]Load StationWindows:  63%|███████████▉       | 745/1188 [00:56<00:40, 10.94it/s]Load StationWindows:  63%|███████████▉       | 747/1188 [00:57<00:38, 11.51it/s]Load StationWindows:  63%|███████████▉       | 749/1188 [00:57<00:36, 11.93it/s]Load StationWindows:  63%|████████████       | 751/1188 [00:57<00:35, 12.14it/s]Load StationWindows:  63%|████████████       | 753/1188 [00:57<00:35, 12.42it/s]Load StationWindows:  64%|████████████       | 755/1188 [00:57<00:34, 12.55it/s]Load StationWindows:  64%|████████████       | 757/1188 [00:57<00:33, 12.72it/s]Load StationWindows:  64%|████████████▏      | 759/1188 [00:57<00:33, 12.81it/s]Load StationWindows:  64%|████████████▏      | 761/1188 [00:58<00:33, 12.85it/s]Load StationWindows:  64%|████████████▏      | 763/1188 [00:58<00:32, 12.97it/s]Load StationWindows:  64%|████████████▏      | 765/1188 [00:58<00:32, 13.07it/s]Load StationWindows:  65%|████████████▎      | 767/1188 [00:58<00:31, 13.22it/s]Load StationWindows:  65%|████████████▎      | 769/1188 [00:58<00:31, 13.25it/s]Load StationWindows:  65%|████████████▎      | 771/1188 [00:58<00:31, 13.39it/s]Load StationWindows:  65%|████████████▎      | 773/1188 [00:59<00:30, 13.43it/s]Load StationWindows:  65%|████████████▍      | 775/1188 [00:59<00:30, 13.42it/s]Load StationWindows:  65%|████████████▍      | 777/1188 [00:59<00:30, 13.46it/s]Load StationWindows:  66%|████████████▍      | 779/1188 [00:59<00:30, 13.38it/s]Load StationWindows:  66%|████████████▍      | 781/1188 [00:59<00:30, 13.30it/s]Load StationWindows:  66%|████████████▌      | 783/1188 [00:59<00:30, 13.17it/s]Load StationWindows:  66%|████████████▌      | 785/1188 [00:59<00:30, 13.22it/s]Load StationWindows:  66%|████████████▌      | 787/1188 [01:00<00:30, 13.31it/s]Load StationWindows:  66%|████████████▌      | 789/1188 [01:00<00:30, 13.21it/s]Load StationWindows:  67%|████████████▋      | 791/1188 [01:00<00:29, 13.28it/s]Load StationWindows:  67%|████████████▋      | 793/1188 [01:00<00:29, 13.21it/s]Load StationWindows:  67%|████████████▋      | 795/1188 [01:00<00:29, 13.23it/s]Load StationWindows:  67%|████████████▋      | 797/1188 [01:00<00:29, 13.25it/s]Load StationWindows:  67%|████████████▊      | 799/1188 [01:00<00:29, 13.27it/s]Load StationWindows:  67%|████████████▊      | 801/1188 [01:01<00:29, 13.26it/s]Load StationWindows:  68%|████████████▊      | 803/1188 [01:01<00:29, 13.22it/s]Load StationWindows:  68%|████████████▊      | 805/1188 [01:01<00:28, 13.27it/s]Load StationWindows:  68%|████████████▉      | 807/1188 [01:01<00:30, 12.66it/s]Load StationWindows:  68%|████████████▉      | 809/1188 [01:01<00:33, 11.19it/s]Load StationWindows:  68%|████████████▉      | 811/1188 [01:02<00:34, 11.03it/s]Load StationWindows:  68%|█████████████      | 813/1188 [01:02<00:32, 11.37it/s]Load StationWindows:  69%|█████████████      | 815/1188 [01:02<00:32, 11.65it/s]Load StationWindows:  69%|█████████████      | 817/1188 [01:02<00:31, 11.83it/s]Load StationWindows:  69%|█████████████      | 819/1188 [01:02<00:30, 12.16it/s]Load StationWindows:  69%|█████████████▏     | 821/1188 [01:02<00:29, 12.34it/s]Load StationWindows:  69%|█████████████▏     | 823/1188 [01:02<00:29, 12.41it/s]Load StationWindows:  69%|█████████████▏     | 825/1188 [01:03<00:29, 12.44it/s]Load StationWindows:  70%|█████████████▏     | 827/1188 [01:03<00:29, 12.33it/s]Load StationWindows:  70%|█████████████▎     | 829/1188 [01:03<00:29, 12.17it/s]Load StationWindows:  70%|█████████████▎     | 831/1188 [01:03<00:29, 11.97it/s]Load StationWindows:  70%|█████████████▎     | 833/1188 [01:03<00:30, 11.77it/s]Load StationWindows:  70%|█████████████▎     | 835/1188 [01:03<00:30, 11.56it/s]Load StationWindows:  70%|█████████████▍     | 837/1188 [01:04<00:30, 11.41it/s]Load StationWindows:  71%|█████████████▍     | 839/1188 [01:04<00:31, 11.23it/s]Load StationWindows:  71%|█████████████▍     | 841/1188 [01:04<00:31, 11.12it/s]Load StationWindows:  71%|█████████████▍     | 843/1188 [01:04<00:31, 10.96it/s]Load StationWindows:  71%|█████████████▌     | 845/1188 [01:04<00:31, 10.79it/s]Load StationWindows:  71%|█████████████▌     | 847/1188 [01:05<00:33, 10.25it/s]Load StationWindows:  71%|█████████████▌     | 849/1188 [01:05<00:37,  9.00it/s]Load StationWindows:  72%|█████████████▌     | 850/1188 [01:05<00:43,  7.83it/s]Load StationWindows:  72%|█████████████▌     | 851/1188 [01:05<00:41,  8.15it/s]Load StationWindows:  72%|█████████████▋     | 853/1188 [01:05<00:37,  8.93it/s]Load StationWindows:  72%|█████████████▋     | 855/1188 [01:06<00:34,  9.66it/s]Load StationWindows:  72%|█████████████▋     | 857/1188 [01:06<00:32, 10.28it/s]Load StationWindows:  72%|█████████████▋     | 859/1188 [01:06<00:31, 10.50it/s]Load StationWindows:  72%|█████████████▊     | 861/1188 [01:06<00:30, 10.86it/s]Load StationWindows:  73%|█████████████▊     | 863/1188 [01:06<00:28, 11.35it/s]Load StationWindows:  73%|█████████████▊     | 865/1188 [01:06<00:27, 11.77it/s]Load StationWindows:  73%|█████████████▊     | 867/1188 [01:07<00:26, 12.12it/s]Load StationWindows:  73%|█████████████▉     | 869/1188 [01:07<00:25, 12.34it/s]Load StationWindows:  73%|█████████████▉     | 871/1188 [01:07<00:25, 12.44it/s]Load StationWindows:  73%|█████████████▉     | 873/1188 [01:07<00:25, 12.33it/s]Load StationWindows:  74%|█████████████▉     | 875/1188 [01:07<00:25, 12.12it/s]Load StationWindows:  74%|██████████████     | 877/1188 [01:07<00:25, 11.99it/s]Load StationWindows:  74%|██████████████     | 879/1188 [01:08<00:26, 11.87it/s]Load StationWindows:  74%|██████████████     | 881/1188 [01:08<00:26, 11.67it/s]Load StationWindows:  74%|██████████████     | 883/1188 [01:08<00:26, 11.49it/s]Load StationWindows:  74%|██████████████▏    | 885/1188 [01:08<00:26, 11.43it/s]Load StationWindows:  75%|██████████████▏    | 887/1188 [01:08<00:26, 11.23it/s]Load StationWindows:  75%|██████████████▏    | 889/1188 [01:08<00:27, 10.84it/s]Load StationWindows:  75%|██████████████▎    | 891/1188 [01:09<00:28, 10.37it/s]Load StationWindows:  75%|██████████████▎    | 893/1188 [01:09<00:29, 10.05it/s]Load StationWindows:  75%|██████████████▎    | 895/1188 [01:09<00:29,  9.88it/s]Load StationWindows:  76%|██████████████▎    | 897/1188 [01:09<00:29, 10.00it/s]Load StationWindows:  76%|██████████████▍    | 899/1188 [01:09<00:28, 10.11it/s]Load StationWindows:  76%|██████████████▍    | 901/1188 [01:10<00:28, 10.11it/s]Load StationWindows:  76%|██████████████▍    | 903/1188 [01:10<00:27, 10.36it/s]Load StationWindows:  76%|██████████████▍    | 905/1188 [01:10<00:26, 10.69it/s]Load StationWindows:  76%|██████████████▌    | 907/1188 [01:10<00:25, 10.85it/s]Load StationWindows:  77%|██████████████▌    | 909/1188 [01:10<00:25, 11.02it/s]Load StationWindows:  77%|██████████████▌    | 911/1188 [01:11<00:24, 11.21it/s]Load StationWindows:  77%|██████████████▌    | 913/1188 [01:11<00:24, 11.32it/s]Load StationWindows:  77%|██████████████▋    | 915/1188 [01:11<00:23, 11.60it/s]Load StationWindows:  77%|██████████████▋    | 917/1188 [01:11<00:22, 11.87it/s]Load StationWindows:  77%|██████████████▋    | 919/1188 [01:11<00:22, 12.11it/s]Load StationWindows:  78%|██████████████▋    | 921/1188 [01:11<00:21, 12.17it/s]Load StationWindows:  78%|██████████████▊    | 923/1188 [01:12<00:21, 12.35it/s]Load StationWindows:  78%|██████████████▊    | 925/1188 [01:12<00:21, 12.34it/s]Load StationWindows:  78%|██████████████▊    | 927/1188 [01:12<00:20, 12.46it/s]Load StationWindows:  78%|██████████████▊    | 929/1188 [01:12<00:20, 12.53it/s]Load StationWindows:  78%|██████████████▉    | 931/1188 [01:12<00:20, 12.60it/s]Load StationWindows:  79%|██████████████▉    | 933/1188 [01:12<00:20, 12.64it/s]Load StationWindows:  79%|██████████████▉    | 935/1188 [01:12<00:20, 12.54it/s]Load StationWindows:  79%|██████████████▉    | 937/1188 [01:13<00:20, 12.40it/s]Load StationWindows:  79%|███████████████    | 939/1188 [01:13<00:20, 12.41it/s]Load StationWindows:  79%|███████████████    | 941/1188 [01:13<00:19, 12.47it/s]Load StationWindows:  79%|███████████████    | 943/1188 [01:13<00:19, 12.39it/s]Load StationWindows:  80%|███████████████    | 945/1188 [01:13<00:19, 12.36it/s]Load StationWindows:  80%|███████████████▏   | 947/1188 [01:13<00:19, 12.25it/s]Load StationWindows:  80%|███████████████▏   | 949/1188 [01:14<00:19, 12.24it/s]Load StationWindows:  80%|███████████████▏   | 951/1188 [01:14<00:19, 12.29it/s]Load StationWindows:  80%|███████████████▏   | 953/1188 [01:14<00:18, 12.45it/s]Load StationWindows:  80%|███████████████▎   | 955/1188 [01:14<00:18, 12.47it/s]Load StationWindows:  81%|███████████████▎   | 957/1188 [01:14<00:18, 12.53it/s]Load StationWindows:  81%|███████████████▎   | 959/1188 [01:14<00:18, 12.57it/s]Load StationWindows:  81%|███████████████▎   | 961/1188 [01:15<00:18, 12.31it/s]Load StationWindows:  81%|███████████████▍   | 963/1188 [01:15<00:18, 12.39it/s]Load StationWindows:  81%|███████████████▍   | 965/1188 [01:15<00:18, 12.21it/s]Load StationWindows:  81%|███████████████▍   | 967/1188 [01:15<00:18, 12.27it/s]Load StationWindows:  82%|███████████████▍   | 969/1188 [01:15<00:17, 12.31it/s]Load StationWindows:  82%|███████████████▌   | 971/1188 [01:15<00:17, 12.29it/s]Load StationWindows:  82%|███████████████▌   | 973/1188 [01:16<00:17, 12.29it/s]Load StationWindows:  82%|███████████████▌   | 975/1188 [01:16<00:17, 12.29it/s]Load StationWindows:  82%|███████████████▋   | 977/1188 [01:16<00:17, 12.21it/s]Load StationWindows:  82%|███████████████▋   | 979/1188 [01:16<00:17, 12.28it/s]Load StationWindows:  83%|███████████████▋   | 981/1188 [01:16<00:16, 12.30it/s]Load StationWindows:  83%|███████████████▋   | 983/1188 [01:16<00:16, 12.20it/s]Load StationWindows:  83%|███████████████▊   | 985/1188 [01:17<00:16, 12.10it/s]Load StationWindows:  83%|███████████████▊   | 987/1188 [01:17<00:18, 11.02it/s]Load StationWindows:  83%|███████████████▊   | 989/1188 [01:17<00:18, 10.67it/s]Load StationWindows:  83%|███████████████▊   | 991/1188 [01:17<00:18, 10.62it/s]Load StationWindows:  84%|███████████████▉   | 993/1188 [01:17<00:17, 10.92it/s]Load StationWindows:  84%|███████████████▉   | 995/1188 [01:17<00:17, 11.09it/s]Load StationWindows:  84%|███████████████▉   | 997/1188 [01:18<00:17, 11.13it/s]Load StationWindows:  84%|███████████████▉   | 999/1188 [01:18<00:17, 11.08it/s]Load StationWindows:  84%|███████████████▏  | 1001/1188 [01:18<00:17, 11.00it/s]Load StationWindows:  84%|███████████████▏  | 1003/1188 [01:18<00:17, 10.73it/s]Load StationWindows:  85%|███████████████▏  | 1005/1188 [01:18<00:17, 10.65it/s]Load StationWindows:  85%|███████████████▎  | 1007/1188 [01:19<00:17, 10.56it/s]Load StationWindows:  85%|███████████████▎  | 1009/1188 [01:19<00:17, 10.51it/s]Load StationWindows:  85%|███████████████▎  | 1011/1188 [01:19<00:17, 10.37it/s]Load StationWindows:  85%|███████████████▎  | 1013/1188 [01:19<00:17, 10.20it/s]Load StationWindows:  85%|███████████████▍  | 1015/1188 [01:19<00:17,  9.95it/s]Load StationWindows:  86%|███████████████▍  | 1017/1188 [01:20<00:17,  9.98it/s]Load StationWindows:  86%|███████████████▍  | 1018/1188 [01:20<00:17,  9.98it/s]Load StationWindows:  86%|███████████████▍  | 1019/1188 [01:20<00:16,  9.96it/s]Load StationWindows:  86%|███████████████▍  | 1020/1188 [01:20<00:16,  9.97it/s]Load StationWindows:  86%|███████████████▍  | 1021/1188 [01:20<00:16,  9.89it/s]Load StationWindows:  86%|███████████████▍  | 1022/1188 [01:20<00:16,  9.91it/s]Load StationWindows:  86%|███████████████▌  | 1023/1188 [01:20<00:16,  9.84it/s]Load StationWindows:  86%|███████████████▌  | 1025/1188 [01:20<00:16, 10.02it/s]Load StationWindows:  86%|███████████████▌  | 1027/1188 [01:21<00:15, 10.33it/s]Load StationWindows:  87%|███████████████▌  | 1029/1188 [01:21<00:15, 10.56it/s]Load StationWindows:  87%|███████████████▌  | 1031/1188 [01:21<00:14, 10.69it/s]Load StationWindows:  87%|███████████████▋  | 1033/1188 [01:21<00:14, 10.80it/s]Load StationWindows:  87%|███████████████▋  | 1035/1188 [01:21<00:14, 10.92it/s]Load StationWindows:  87%|███████████████▋  | 1037/1188 [01:21<00:13, 11.04it/s]Load StationWindows:  87%|███████████████▋  | 1039/1188 [01:22<00:13, 11.24it/s]Load StationWindows:  88%|███████████████▊  | 1041/1188 [01:22<00:13, 11.27it/s]Load StationWindows:  88%|███████████████▊  | 1043/1188 [01:22<00:12, 11.30it/s]Load StationWindows:  88%|███████████████▊  | 1045/1188 [01:22<00:12, 11.54it/s]Load StationWindows:  88%|███████████████▊  | 1047/1188 [01:22<00:12, 11.62it/s]Load StationWindows:  88%|███████████████▉  | 1049/1188 [01:23<00:11, 11.65it/s]Load StationWindows:  88%|███████████████▉  | 1051/1188 [01:23<00:11, 11.72it/s]Load StationWindows:  89%|███████████████▉  | 1053/1188 [01:23<00:11, 11.55it/s]Load StationWindows:  89%|███████████████▉  | 1055/1188 [01:23<00:11, 11.61it/s]Load StationWindows:  89%|████████████████  | 1057/1188 [01:23<00:11, 11.63it/s]Load StationWindows:  89%|████████████████  | 1059/1188 [01:23<00:11, 11.63it/s]Load StationWindows:  89%|████████████████  | 1061/1188 [01:24<00:10, 11.56it/s]Load StationWindows:  89%|████████████████  | 1063/1188 [01:24<00:10, 11.49it/s]Load StationWindows:  90%|████████████████▏ | 1065/1188 [01:24<00:10, 11.47it/s]Load StationWindows:  90%|████████████████▏ | 1067/1188 [01:24<00:10, 11.46it/s]Load StationWindows:  90%|████████████████▏ | 1069/1188 [01:24<00:10, 11.48it/s]Load StationWindows:  90%|████████████████▏ | 1071/1188 [01:24<00:10, 11.53it/s]Load StationWindows:  90%|████████████████▎ | 1073/1188 [01:25<00:09, 11.51it/s]Load StationWindows:  90%|████████████████▎ | 1075/1188 [01:25<00:09, 11.47it/s]Load StationWindows:  91%|████████████████▎ | 1077/1188 [01:25<00:09, 11.48it/s]Load StationWindows:  91%|████████████████▎ | 1079/1188 [01:25<00:09, 11.54it/s]Load StationWindows:  91%|████████████████▍ | 1081/1188 [01:25<00:09, 11.50it/s]Load StationWindows:  91%|████████████████▍ | 1083/1188 [01:25<00:09, 11.51it/s]Load StationWindows:  91%|████████████████▍ | 1085/1188 [01:26<00:08, 11.50it/s]Load StationWindows:  91%|████████████████▍ | 1087/1188 [01:26<00:08, 11.49it/s]Load StationWindows:  92%|████████████████▌ | 1089/1188 [01:26<00:08, 11.52it/s]Load StationWindows:  92%|████████████████▌ | 1091/1188 [01:26<00:08, 11.55it/s]Load StationWindows:  92%|████████████████▌ | 1093/1188 [01:26<00:08, 11.54it/s]Load StationWindows:  92%|████████████████▌ | 1095/1188 [01:27<00:08, 11.55it/s]Load StationWindows:  92%|████████████████▌ | 1097/1188 [01:27<00:07, 11.44it/s]Load StationWindows:  93%|████████████████▋ | 1099/1188 [01:27<00:07, 11.56it/s]Load StationWindows:  93%|████████████████▋ | 1101/1188 [01:27<00:07, 11.57it/s]Load StationWindows:  93%|████████████████▋ | 1103/1188 [01:27<00:07, 10.97it/s]Load StationWindows:  93%|████████████████▋ | 1105/1188 [01:27<00:08, 10.01it/s]Load StationWindows:  93%|████████████████▊ | 1107/1188 [01:28<00:08,  9.76it/s]Load StationWindows:  93%|████████████████▊ | 1109/1188 [01:28<00:07, 10.11it/s]Load StationWindows:  94%|████████████████▊ | 1111/1188 [01:28<00:07, 10.31it/s]Load StationWindows:  94%|████████████████▊ | 1113/1188 [01:28<00:07, 10.42it/s]Load StationWindows:  94%|████████████████▉ | 1115/1188 [01:28<00:07, 10.38it/s]Load StationWindows:  94%|████████████████▉ | 1117/1188 [01:29<00:06, 10.32it/s]Load StationWindows:  94%|████████████████▉ | 1119/1188 [01:29<00:06, 10.18it/s]Load StationWindows:  94%|████████████████▉ | 1121/1188 [01:29<00:06, 10.14it/s]Load StationWindows:  95%|█████████████████ | 1123/1188 [01:29<00:06, 10.00it/s]Load StationWindows:  95%|█████████████████ | 1125/1188 [01:29<00:06,  9.76it/s]Load StationWindows:  95%|█████████████████ | 1126/1188 [01:30<00:06,  9.65it/s]Load StationWindows:  95%|█████████████████ | 1127/1188 [01:30<00:06,  9.41it/s]Load StationWindows:  95%|█████████████████ | 1128/1188 [01:30<00:06,  9.30it/s]Load StationWindows:  95%|█████████████████ | 1129/1188 [01:30<00:06,  9.27it/s]Load StationWindows:  95%|█████████████████ | 1130/1188 [01:30<00:06,  9.32it/s]Load StationWindows:  95%|█████████████████▏| 1131/1188 [01:30<00:06,  9.35it/s]Load StationWindows:  95%|█████████████████▏| 1132/1188 [01:30<00:06,  9.33it/s]Load StationWindows:  95%|█████████████████▏| 1133/1188 [01:30<00:05,  9.32it/s]Load StationWindows:  95%|█████████████████▏| 1134/1188 [01:30<00:05,  9.41it/s]Load StationWindows:  96%|█████████████████▏| 1135/1188 [01:31<00:05,  9.51it/s]Load StationWindows:  96%|█████████████████▏| 1136/1188 [01:31<00:05,  9.55it/s]Load StationWindows:  96%|█████████████████▏| 1137/1188 [01:31<00:05,  9.54it/s]Load StationWindows:  96%|█████████████████▏| 1138/1188 [01:31<00:05,  9.56it/s]Load StationWindows:  96%|█████████████████▎| 1140/1188 [01:31<00:04,  9.75it/s]Load StationWindows:  96%|█████████████████▎| 1142/1188 [01:31<00:04,  9.66it/s]Load StationWindows:  96%|█████████████████▎| 1143/1188 [01:31<00:04,  9.38it/s]Load StationWindows:  96%|█████████████████▎| 1144/1188 [01:31<00:04,  9.54it/s]Load StationWindows:  96%|█████████████████▎| 1145/1188 [01:32<00:04,  9.66it/s]Load StationWindows:  97%|█████████████████▍| 1147/1188 [01:32<00:04,  9.94it/s]Load StationWindows:  97%|█████████████████▍| 1149/1188 [01:32<00:03, 10.15it/s]Load StationWindows:  97%|█████████████████▍| 1151/1188 [01:32<00:03, 10.32it/s]Load StationWindows:  97%|█████████████████▍| 1153/1188 [01:32<00:03, 10.27it/s]Load StationWindows:  97%|█████████████████▌| 1155/1188 [01:33<00:03, 10.33it/s]Load StationWindows:  97%|█████████████████▌| 1157/1188 [01:33<00:03, 10.23it/s]Load StationWindows:  98%|█████████████████▌| 1159/1188 [01:33<00:02, 10.16it/s]Load StationWindows:  98%|█████████████████▌| 1161/1188 [01:33<00:02, 10.03it/s]Load StationWindows:  98%|█████████████████▌| 1163/1188 [01:33<00:02, 10.00it/s]Load StationWindows:  98%|█████████████████▋| 1165/1188 [01:34<00:02,  9.93it/s]Load StationWindows:  98%|█████████████████▋| 1166/1188 [01:34<00:02,  9.82it/s]Load StationWindows:  98%|█████████████████▋| 1167/1188 [01:34<00:02,  9.59it/s]Load StationWindows:  98%|█████████████████▋| 1168/1188 [01:34<00:02,  9.48it/s]Load StationWindows:  98%|█████████████████▋| 1169/1188 [01:34<00:02,  9.45it/s]Load StationWindows:  98%|█████████████████▋| 1170/1188 [01:34<00:01,  9.38it/s]Load StationWindows:  99%|█████████████████▋| 1171/1188 [01:34<00:01,  9.41it/s]Load StationWindows:  99%|█████████████████▊| 1172/1188 [01:34<00:01,  9.22it/s]Load StationWindows:  99%|█████████████████▊| 1173/1188 [01:34<00:01,  9.11it/s]Load StationWindows:  99%|█████████████████▊| 1174/1188 [01:35<00:01,  9.11it/s]Load StationWindows:  99%|█████████████████▊| 1175/1188 [01:35<00:01,  8.98it/s]Load StationWindows:  99%|█████████████████▊| 1176/1188 [01:35<00:01,  9.00it/s]Load StationWindows:  99%|█████████████████▊| 1177/1188 [01:35<00:01,  9.14it/s]Load StationWindows:  99%|█████████████████▊| 1178/1188 [01:35<00:01,  9.18it/s]Load StationWindows:  99%|█████████████████▊| 1179/1188 [01:35<00:00,  9.34it/s]Load StationWindows:  99%|█████████████████▉| 1180/1188 [01:35<00:00,  9.49it/s]Load StationWindows:  99%|█████████████████▉| 1181/1188 [01:35<00:00,  9.60it/s]Load StationWindows: 100%|█████████████████▉| 1183/1188 [01:35<00:00,  9.77it/s]Load StationWindows: 100%|█████████████████▉| 1185/1188 [01:36<00:00,  9.77it/s]Load StationWindows: 100%|█████████████████▉| 1187/1188 [01:36<00:00,  9.76it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [01:36<00:00, 12.32it/s]
+Load One Data:   0%|                                    | 0/183 [00:00<?, ?it/s]Load One Data:   1%|▏                           | 1/183 [00:03<09:06,  3.00s/it]Load One Data:   1%|▎                           | 2/183 [00:03<06:44,  2.24s/it]Load One Data:   2%|▍                           | 3/183 [00:05<06:44,  2.25s/it]Load One Data:   2%|▌                           | 4/183 [00:06<05:12,  1.75s/it]Load One Data:   3%|▊                           | 5/183 [00:06<03:59,  1.34s/it]Load One Data:   3%|▉                           | 6/183 [00:08<04:13,  1.43s/it]Load One Data:   4%|█                           | 7/183 [00:10<05:09,  1.76s/it]Load One Data:   4%|█▏                          | 8/183 [00:11<03:56,  1.35s/it]Load One Data:   5%|█▍                          | 9/183 [00:13<04:36,  1.59s/it]Load One Data:   5%|█▍                         | 10/183 [00:14<03:51,  1.34s/it]Load One Data:   6%|█▌                         | 11/183 [00:14<03:04,  1.07s/it]Load One Data:   7%|█▊                         | 12/183 [00:16<03:31,  1.24s/it]Load One Data:   7%|█▉                         | 13/183 [00:18<04:08,  1.46s/it]Load One Data:   8%|██                         | 14/183 [00:18<03:17,  1.17s/it]Load One Data:   8%|██▏                        | 15/183 [00:21<04:24,  1.57s/it]Load One Data:   9%|██▎                        | 16/183 [00:21<03:35,  1.29s/it]Load One Data:   9%|██▌                        | 17/183 [00:22<02:57,  1.07s/it]Load One Data:  10%|██▋                        | 18/183 [00:24<03:44,  1.36s/it]Load One Data:  10%|██▊                        | 19/183 [00:26<04:39,  1.71s/it]Load One Data:  11%|██▉                        | 20/183 [00:27<03:39,  1.34s/it]Load One Data:  11%|███                        | 21/183 [00:29<04:24,  1.63s/it]Load One Data:  12%|███▏                       | 22/183 [00:30<03:30,  1.31s/it]Load One Data:  13%|███▍                       | 23/183 [00:30<02:47,  1.05s/it]Load One Data:  13%|███▌                       | 24/183 [00:32<03:30,  1.33s/it]Load One Data:  14%|███▋                       | 25/183 [00:34<04:05,  1.55s/it]Load One Data:  14%|███▊                       | 26/183 [00:35<03:12,  1.23s/it]Load One Data:  15%|███▉                       | 27/183 [00:37<04:09,  1.60s/it]Load One Data:  15%|████▏                      | 28/183 [00:38<03:23,  1.31s/it]Load One Data:  16%|████▎                      | 29/183 [00:38<02:44,  1.07s/it]Load One Data:  16%|████▍                      | 30/183 [00:40<03:24,  1.34s/it]Load One Data:  17%|████▌                      | 31/183 [00:43<04:11,  1.66s/it]Load One Data:  17%|████▋                      | 32/183 [00:43<03:20,  1.33s/it]Load One Data:  18%|████▊                      | 33/183 [00:46<04:14,  1.69s/it]Load One Data:  19%|█████                      | 34/183 [00:47<03:25,  1.38s/it]Load One Data:  19%|█████▏                     | 35/183 [00:47<02:45,  1.12s/it]Load One Data:  20%|█████▎                     | 36/183 [00:49<03:40,  1.50s/it]Load One Data:  20%|█████▍                     | 37/183 [00:52<04:24,  1.81s/it]Load One Data:  21%|█████▌                     | 38/183 [00:53<03:37,  1.50s/it]Load One Data:  21%|█████▊                     | 39/183 [00:55<03:56,  1.64s/it]Load One Data:  22%|█████▉                     | 40/183 [00:55<03:07,  1.31s/it]Load One Data:  22%|██████                     | 41/183 [00:56<02:27,  1.04s/it]Load One Data:  23%|██████▏                    | 42/183 [00:58<03:04,  1.31s/it]Load One Data:  23%|██████▎                    | 43/183 [01:00<03:54,  1.67s/it]Load One Data:  24%|██████▍                    | 44/183 [01:01<03:03,  1.32s/it]Load One Data:  25%|██████▋                    | 45/183 [01:03<03:49,  1.66s/it]Load One Data:  25%|██████▊                    | 46/183 [01:04<03:08,  1.38s/it]Load One Data:  26%|██████▉                    | 47/183 [01:04<02:35,  1.15s/it]Load One Data:  26%|███████                    | 48/183 [01:07<03:16,  1.46s/it]Load One Data:  27%|███████▏                   | 49/183 [01:09<03:59,  1.78s/it]Load One Data:  27%|███████▍                   | 50/183 [01:10<03:04,  1.39s/it]Load One Data:  28%|███████▌                   | 51/183 [01:12<03:54,  1.78s/it]Load One Data:  28%|███████▋                   | 52/183 [01:13<03:09,  1.44s/it]Load One Data:  29%|███████▊                   | 53/183 [01:14<02:40,  1.23s/it]Load One Data:  30%|███████▉                   | 54/183 [01:16<03:23,  1.58s/it]Load One Data:  30%|████████                   | 55/183 [01:19<04:13,  1.98s/it]Load One Data:  31%|████████▎                  | 56/183 [01:19<03:16,  1.55s/it]Load One Data:  31%|████████▍                  | 57/183 [01:22<03:39,  1.74s/it]Load One Data:  32%|████████▌                  | 58/183 [01:22<02:57,  1.42s/it]Load One Data:  32%|████████▋                  | 59/183 [01:24<02:48,  1.36s/it]Load One Data:  33%|████████▊                  | 60/183 [01:27<04:00,  1.95s/it]Load One Data:  33%|█████████                  | 61/183 [01:31<05:02,  2.48s/it]Load One Data:  34%|█████████▏                 | 62/183 [01:32<04:10,  2.07s/it]Load One Data:  34%|█████████▎                 | 63/183 [01:35<04:41,  2.34s/it]Load One Data:  35%|█████████▍                 | 64/183 [01:35<03:41,  1.86s/it]Load One Data:  36%|█████████▌                 | 65/183 [01:36<02:50,  1.45s/it]Load One Data:  36%|█████████▋                 | 66/183 [01:38<03:21,  1.73s/it]Load One Data:  37%|█████████▉                 | 67/183 [01:41<03:58,  2.06s/it]Load One Data:  37%|██████████                 | 68/183 [01:42<03:00,  1.57s/it]Load One Data:  38%|██████████▏                | 69/183 [01:44<03:40,  1.94s/it]Load One Data:  38%|██████████▎                | 70/183 [01:45<02:53,  1.54s/it]Load One Data:  39%|██████████▍                | 71/183 [01:45<02:16,  1.22s/it]Load One Data:  39%|██████████▌                | 72/183 [01:48<02:48,  1.52s/it]
+ec_data_cost_time: 20.915258646011353
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.734643936157227
+........ec data reading start........
+ec_data_cost_time: 20.8435001373291
+........ec data reading start........
+ec_data_cost_time: 20.49990177154541
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.649641513824463
+........ec data reading start........
+ec_data_cost_time: 21.04767417907715
+........ec data reading start........
+ec_data_cost_time: 20.50256586074829
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.21109414100647
+........ec data reading start........
+ec_data_cost_time: 20.527056455612183
+........ec data reading start........
+ec_data_cost_time: 20.371318101882935
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.744765758514404
+........ec data reading start........
+ec_data_cost_time: 20.4609637260437
+........ec data reading start........
+ec_data_cost_time: 20.74869728088379
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.737813234329224
+........ec data reading start........
+ec_data_cost_time: 20.22249436378479
+........ec data reading start........
+ec_data_cost_time: 20.928714990615845
+C1D..files had been broken!
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 15.532408237457275
+........ec data reading start........
+ec_data_cost_time: 20.891305208206177
+........ec data reading start........
+ec_data_cost_time: 20.97110915184021
+........ec class reading start........
+-------over-one-------
+min_channel: 54
+........ec data reading start........
+ec_data_cost_time: 16.111727237701416
+........ec data reading start........
+ec_data_cost_time: 20.33738374710083
+........ec data reading start........
+ec_data_cost_time: 20.55009126663208
+EC_FEATURES_STATIONS: (183, 1188, 57, 29, 29)
+ec_path: C1D08010000080106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08010000080109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08010000080112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08011200080118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08011200080121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08011200080200001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08020000080206001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08020000080209001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08020000080212001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08021200080218001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08021200080221001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08021200080300001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08030000080306001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08030000080309001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08030000080312001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08031200080318001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08031200080321001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08031200080400001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08040000080406001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08040000080409001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08040000080412001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08041200080418001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08041200080421001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08041200080500001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08050000080506001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08050000080509001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08050000080512001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08051200080518001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08051200080521001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08051200080600001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08060000080606001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08060000080609001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08060000080612001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08061200080618001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08061200080621001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08061200080700001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08070000080706001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08070000080709001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08070000080712001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08071200080718001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08071200080721001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08071200080800001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08080000080806001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08080000080809001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08080000080812001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08081200080818001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08081200080821001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08081200080900001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08090000080906001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08090000080909001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08090000080912001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08091200080918001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08091200080921001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08091200081000001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08100000081006001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08100000081009001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08100000081012001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08101200081018001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08101200081021001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08101200081100001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08110000081106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08110000081109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08110000081112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08111200081118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08111200081121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08111200081200001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08120000081206001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08120000081209001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08120000081212001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08121200081218001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08121200081221001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08121200081300001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08130000081306001
+sample_freq0_4rain:Load One Data:  40%|██████████▊                | 73/183 [01:50<03:17,  1.80s/it]Load One Data:  40%|██████████▉                | 74/183 [01:51<02:33,  1.41s/it]Load One Data:  41%|███████████                | 75/183 [01:53<03:02,  1.69s/it]Load One Data:  42%|███████████▏               | 76/183 [01:54<02:28,  1.39s/it]Load One Data:  42%|███████████▎               | 77/183 [01:54<01:57,  1.11s/it]Load One Data:  43%|███████████▌               | 78/183 [01:56<02:30,  1.44s/it]Load One Data:  43%|███████████▋               | 79/183 [01:59<03:04,  1.78s/it]Load One Data:  44%|███████████▊               | 80/183 [01:59<02:23,  1.39s/it]Load One Data:  44%|███████████▉               | 81/183 [02:02<02:50,  1.67s/it]Load One Data:  45%|████████████               | 82/183 [02:02<02:18,  1.37s/it]Load One Data:  45%|████████████▏              | 83/183 [02:03<01:52,  1.12s/it]Load One Data:  46%|████████████▍              | 84/183 [02:05<02:25,  1.47s/it]Load One Data:  46%|████████████▌              | 85/183 [02:07<02:49,  1.73s/it]Load One Data:  47%|████████████▋              | 86/183 [02:08<02:13,  1.37s/it]Load One Data:  48%|████████████▊              | 87/183 [02:10<02:39,  1.66s/it]Load One Data:  48%|████████████▉              | 88/183 [02:11<02:07,  1.34s/it]Load One Data:  49%|█████████████▏             | 89/183 [02:11<01:41,  1.08s/it]Load One Data:  49%|█████████████▎             | 90/183 [02:13<02:05,  1.35s/it]Load One Data:  50%|█████████████▍             | 91/183 [02:15<02:24,  1.57s/it]Load One Data:  50%|█████████████▌             | 92/183 [02:16<01:52,  1.24s/it]Load One Data:  51%|█████████████▋             | 93/183 [02:18<02:20,  1.56s/it]Load One Data:  51%|█████████████▊             | 94/183 [02:19<01:53,  1.28s/it]Load One Data:  52%|██████████████             | 95/183 [02:19<01:31,  1.05s/it]Load One Data:  52%|██████████████▏            | 96/183 [02:21<01:49,  1.26s/it]Load One Data:  53%|██████████████▎            | 97/183 [02:24<02:19,  1.62s/it]Load One Data:  54%|██████████████▍            | 98/183 [02:24<01:49,  1.29s/it]Load One Data:  54%|██████████████▌            | 99/183 [02:26<02:09,  1.54s/it]Load One Data:  55%|██████████████▏           | 100/183 [02:27<01:44,  1.26s/it]Load One Data:  55%|██████████████▎           | 101/183 [02:27<01:24,  1.03s/it]Load One Data:  56%|██████████████▍           | 102/183 [02:30<01:50,  1.36s/it]Load One Data:  56%|██████████████▋           | 103/183 [02:32<02:20,  1.75s/it]Load One Data:  57%|██████████████▊           | 104/183 [02:33<01:55,  1.47s/it]Load One Data:  57%|██████████████▉           | 105/183 [02:36<02:26,  1.88s/it]Load One Data:  58%|███████████████           | 106/183 [02:37<02:01,  1.58s/it]Load One Data:  58%|███████████████▏          | 107/183 [02:37<01:36,  1.27s/it]Load One Data:  59%|███████████████▎          | 108/183 [02:39<01:53,  1.52s/it]Load One Data:  60%|███████████████▍          | 109/183 [02:42<02:11,  1.78s/it]Load One Data:  60%|███████████████▋          | 110/183 [02:42<01:40,  1.38s/it]Load One Data:  61%|███████████████▊          | 111/183 [02:45<02:06,  1.76s/it]Load One Data:  61%|███████████████▉          | 112/183 [02:45<01:40,  1.41s/it]Load One Data:  62%|████████████████          | 113/183 [02:46<01:20,  1.14s/it]Load One Data:  62%|████████████████▏         | 114/183 [02:48<01:40,  1.45s/it]Load One Data:  63%|████████████████▎         | 115/183 [02:50<01:53,  1.67s/it]Load One Data:  63%|████████████████▍         | 116/183 [02:51<01:29,  1.33s/it]Load One Data:  64%|████████████████▌         | 117/183 [02:53<01:43,  1.57s/it]Load One Data:  64%|████████████████▊         | 118/183 [02:54<01:23,  1.28s/it]Load One Data:  65%|████████████████▉         | 119/183 [02:54<01:06,  1.05s/it]Load One Data:  66%|█████████████████         | 120/183 [02:56<01:30,  1.44s/it]Load One Data:  66%|█████████████████▏        | 121/183 [02:59<01:44,  1.68s/it]Load One Data:  67%|█████████████████▎        | 122/183 [02:59<01:24,  1.38s/it]Load One Data:  67%|█████████████████▍        | 123/183 [03:02<01:42,  1.71s/it]Load One Data:  68%|█████████████████▌        | 124/183 [03:02<01:20,  1.37s/it]Load One Data:  68%|█████████████████▊        | 125/183 [03:03<01:04,  1.11s/it]Load One Data:  69%|█████████████████▉        | 126/183 [03:05<01:20,  1.42s/it]Load One Data:  69%|██████████████████        | 127/183 [03:07<01:32,  1.65s/it]Load One Data:  70%|██████████████████▏       | 128/183 [03:08<01:11,  1.30s/it]Load One Data:  70%|██████████████████▎       | 129/183 [03:10<01:24,  1.56s/it]Load One Data:  71%|██████████████████▍       | 130/183 [03:11<01:09,  1.30s/it]Load One Data:  72%|██████████████████▌       | 131/183 [03:11<00:54,  1.05s/it]Load One Data:  72%|██████████████████▊       | 132/183 [03:13<01:05,  1.27s/it]Load One Data:  73%|██████████████████▉       | 133/183 [03:15<01:17,  1.56s/it]Load One Data:  73%|███████████████████       | 134/183 [03:15<00:59,  1.21s/it]Load One Data:  74%|███████████████████▏      | 135/183 [03:18<01:11,  1.48s/it]Load One Data:  74%|███████████████████▎      | 136/183 [03:18<00:56,  1.21s/it]Load One Data:  75%|███████████████████▍      | 137/183 [03:19<00:45,  1.01it/s]Load One Data:  75%|███████████████████▌      | 138/183 [03:21<00:57,  1.28s/it]Load One Data:  76%|███████████████████▋      | 139/183 [03:23<01:16,  1.73s/it]Load One Data:  77%|███████████████████▉      | 140/183 [03:24<00:58,  1.37s/it]Load One Data:  77%|████████████████████      | 141/183 [03:27<01:17,  1.83s/it]Load One Data:  78%|████████████████████▏     | 142/183 [03:27<01:00,  1.47s/it]Load One Data:  78%|████████████████████▎     | 143/183 [03:28<00:47,  1.19s/it]Load One Data:  79%|████████████████████▍     | 144/183 [03:30<00:57,  1.49s/it]Load One Data:  79%|████████████████████▌     | 145/183 [03:32<01:03,  1.68s/it]Load One Data:  80%|████████████████████▋     | 146/183 [03:33<00:48,  1.31s/it]Load One Data:  80%|████████████████████▉     | 147/183 [03:35<01:00,  1.69s/it]Load One Data:  81%|█████████████████████     | 148/183 [03:36<00:48,  1.37s/it]Load One Data:  81%|█████████████████████▏    | 149/183 [03:36<00:37,  1.10s/it]Load One Data:  82%|█████████████████████▎    | 150/183 [03:39<00:47,  1.44s/it]Load One Data:  83%|█████████████████████▍    | 151/183 [03:41<00:55,  1.73s/it]Load One Data:  83%|█████████████████████▌    | 152/183 [03:42<00:42,  1.36s/it]Load One Data:  84%|█████████████████████▋    | 153/183 [03:44<00:47,  1.57s/it]Load One Data:  84%|█████████████████████▉    | 154/183 [03:44<00:37,  1.28s/it]Load One Data:  85%|██████████████████████    | 155/183 [03:45<00:28,  1.03s/it]Load One Data:  85%|██████████████████████▏   | 156/183 [03:47<00:35,  1.32s/it]Load One Data:  86%|██████████████████████▎   | 157/183 [03:49<00:44,  1.73s/it]Load One Data:  86%|██████████████████████▍   | 158/183 [03:50<00:33,  1.36s/it]Load One Data:  87%|██████████████████████▌   | 159/183 [03:52<00:41,  1.73s/it]Load One Data:  87%|██████████████████████▋   | 160/183 [03:53<00:32,  1.42s/it]Load One Data:  88%|██████████████████████▊   | 161/183 [03:54<00:24,  1.12s/it]Load One Data:  89%|███████████████████████   | 162/183 [03:56<00:29,  1.39s/it]Load One Data:  89%|███████████████████████▏  | 163/183 [03:58<00:32,  1.64s/it]Load One Data:  90%|███████████████████████▎  | 164/183 [03:58<00:24,  1.28s/it]Load One Data:  90%|███████████████████████▍  | 165/183 [04:00<00:28,  1.56s/it]Load One Data:  91%|███████████████████████▌  | 166/183 [04:01<00:21,  1.27s/it]Load One Data:  91%|███████████████████████▋  | 167/183 [04:02<00:16,  1.03s/it]Load One Data:  92%|███████████████████████▊  | 168/183 [04:04<00:20,  1.40s/it]Load One Data:  92%|████████████████████████  | 169/183 [04:06<00:23,  1.66s/it]Load One Data:  93%|████████████████████████▏ | 170/183 [04:06<00:16,  1.29s/it]Load One Data:  93%|████████████████████████▎ | 171/183 [04:09<00:18,  1.54s/it]Load One Data:  94%|████████████████████████▍ | 172/183 [04:09<00:13,  1.25s/it] 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08130000081309001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08130000081312001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08131200081318001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08131200081321001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08131200081400001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08140000081406001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08140000081409001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08140000081412001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08141200081418001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08141200081421001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08141200081500001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08150000081506001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08150000081509001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08150000081512001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08151200081518001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08151200081521001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08151200081600001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08160000081606001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08160000081609001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08160000081612001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08161200081618001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08161200081621001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08161200081700001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08170000081706001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08170000081709001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08170000081712001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08171200081718001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08171200081721001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08171200081800001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08180000081806001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08180000081809001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08180000081812001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08181200081818001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08181200081821001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08181200081900001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08190000081906001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08190000081909001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08190000081912001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08191200081918001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08191200081921001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08191200082000001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08200000082006001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08200000082009001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08200000082012001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08201200082018001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08201200082021001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08201200082100001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08210000082106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08210000082109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08210000082112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082200001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082206001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082209001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082212001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082218001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082221001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082300001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082306001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082309001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082312001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082318001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082321001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082400001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082406001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082409001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082412001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082418001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082421001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082500001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082506001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082509001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082512001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082518001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082521001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082600001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082606001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082609001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082612001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082618001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082621001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082700001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082706001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082709001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082712001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082718001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082721001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082800001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082806001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082809001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082812001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082818001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082821001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082900001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082906001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082909001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082912001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200082918001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200082921001
+sample_freq0_4rain:Load One Data:  95%|████████████████████████▌ | 173/183 [04:10<00:10,  1.00s/it]Load One Data:  95%|████████████████████████▋ | 174/183 [04:12<00:11,  1.29s/it]Load One Data:  96%|████████████████████████▊ | 175/183 [04:14<00:13,  1.69s/it]Load One Data:  96%|█████████████████████████ | 176/183 [04:15<00:09,  1.31s/it]Load One Data:  97%|█████████████████████████▏| 177/183 [04:17<00:09,  1.60s/it]Load One Data:  97%|█████████████████████████▎| 178/183 [04:19<00:09,  1.90s/it]Load One Data:  98%|█████████████████████████▍| 179/183 [04:20<00:06,  1.57s/it]Load One Data:  98%|█████████████████████████▌| 180/183 [04:23<00:05,  1.88s/it]Load One Data:  99%|█████████████████████████▋| 181/183 [04:24<00:03,  1.58s/it]Load One Data:  99%|█████████████████████████▊| 182/183 [04:24<00:01,  1.27s/it]Load One Data: 100%|██████████████████████████| 183/183 [04:27<00:00,  1.60s/it]
+ 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200083000001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083006001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083009001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083012001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200083118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200083121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200090100001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+----------------------------------------
+total_rainSamples0: 39144
+total_rainSamples0_01: 2754
+TOTALsamples: 130589
+RAINsamples: 23872
+RAINLESSsamples: 106717
+cost_time: 17012.97780227661
+_4rain: 0.8
+ec_path: C1D08210000082106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08210000082109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08210000082112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08211200082200001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082206001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082209001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08220000082212001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082218001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082221001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08221200082300001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082306001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082309001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08230000082312001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082318001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082321001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08231200082400001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082406001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082409001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08240000082412001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082418001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082421001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08241200082500001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082506001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082509001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08250000082512001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082518001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082521001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08251200082600001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082606001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082609001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08260000082612001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082618001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082621001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08261200082700001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082706001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082709001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08270000082712001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082718001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082721001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08271200082800001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082806001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082809001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08280000082812001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082818001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082821001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08281200082900001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082906001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082909001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08290000082912001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200082918001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200082921001
+sample_freq0_4rain:Load One Data:  95%|████████████████████████▌ | 173/183 [03:46<00:09,  1.09it/s]Load One Data:  95%|████████████████████████▋ | 174/183 [03:47<00:10,  1.13s/it]Load One Data:  96%|████████████████████████▊ | 175/183 [03:49<00:10,  1.33s/it]Load One Data:  96%|█████████████████████████ | 176/183 [03:49<00:07,  1.06s/it]Load One Data:  97%|█████████████████████████▏| 177/183 [03:51<00:07,  1.28s/it]Load One Data:  97%|█████████████████████████▎| 178/183 [03:53<00:07,  1.44s/it]Load One Data:  98%|█████████████████████████▍| 179/183 [03:54<00:04,  1.16s/it]Load One Data:  98%|█████████████████████████▌| 180/183 [03:55<00:04,  1.37s/it]Load One Data:  99%|█████████████████████████▋| 181/183 [03:56<00:02,  1.22s/it]Load One Data:  99%|█████████████████████████▊| 182/183 [03:57<00:01,  1.01s/it]Load One Data: 100%|██████████████████████████| 183/183 [03:59<00:00,  1.32s/it]
+ 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08291200083000001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083006001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083009001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08300000083012001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083106001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083109001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08310000083112001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200083118001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200083121001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+ec_path: C1D08311200090100001
+sample_freq0_4rain: 0.38
+sample_freq0_01_4rain: 0.8
+----------------------------------------
+total_rainSamples0: 39144
+total_rainSamples0_01: 2754
+TOTALsamples: 130589
+RAINsamples: 23872
+RAINLESSsamples: 106717
+cost_time: 17686.511485099792
