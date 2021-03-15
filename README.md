@@ -57,7 +57,7 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 xxx
 ```
 ## Demo
-![image](./demo/example.gif)
+![image](./demo/Fudan_leki.gif)
 ![image](./demo/ec_demo.jpg)
 ![image](./demo/FudanI.png)
 
