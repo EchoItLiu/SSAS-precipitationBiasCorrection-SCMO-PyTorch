@@ -7,12 +7,15 @@
 [[ERA5](https://xxx.github.io/xxx/)]
 
 ## Useage
- We provide run.sh (bash run.sh) to train and test a precipitation corrector according to the Serial Number of Models (SNM).
+ We provide run.sh (bash run.sh) to train and test the specified precipitation corrector according to assign the <SNM ID>.
 ```python
 python -m torch.distributed.launch --nproc_per_node=<NODE NUM> --master_port=<PORT ID> main.py -d <GPU ID> -m <SNM ID> -c ./config/SHO.yaml
 ```
+```python
+E.G. run SSAS || python -m torch.distributed.launch --nproc_per_node=2 --master_port=88889 main.py -d 7 8 -m 0 -c ./config/SHO.yaml
+```
 
-## <SNM ID> -> select the corresponding ID for runing the listed models below. 
+## <SNM ID> -> select the corresponding ID to run the model listed below. 
   
 0: SSAS
 
@@ -46,7 +49,7 @@ python -m torch.distributed.launch --nproc_per_node=<NODE NUM> --master_port=<PO
 
 15: DA-RNN
 
-16: xx
+16: ANN
 
 ## Citation
 
