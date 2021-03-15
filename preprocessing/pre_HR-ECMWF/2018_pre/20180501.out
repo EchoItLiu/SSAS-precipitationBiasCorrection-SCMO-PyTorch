@@ -1,0 +1,498 @@
+nohup: ignoring input
+Load ECPath:   0%|                                       | 0/31 [00:00<?, ?it/s]Load ECPath:   3%|▉                           | 1/31 [09:01<4:30:32, 541.09s/it]Load ECPath:   6%|█▊                          | 2/31 [18:47<4:28:02, 554.56s/it]Load ECPath:  10%|██▋                         | 3/31 [28:02<4:18:55, 554.85s/it]Load ECPath:  13%|███▌                        | 4/31 [36:50<4:05:58, 546.62s/it]Load ECPath:  16%|████▌                       | 5/31 [45:34<3:53:58, 539.93s/it]Load ECPath:  19%|█████▍                      | 6/31 [54:25<3:43:50, 537.24s/it]Load ECPath:  23%|█████▊                    | 7/31 [1:03:13<3:33:46, 534.44s/it]Load ECPath:  26%|██████▋                   | 8/31 [1:11:52<3:23:04, 529.76s/it]Load ECPath:  29%|███████▌                  | 9/31 [1:20:33<3:13:19, 527.25s/it]Load ECPath:  32%|████████                 | 10/31 [1:29:13<3:03:47, 525.11s/it]Load ECPath:  35%|████████▊                | 11/31 [1:37:58<2:54:59, 524.98s/it]Load ECPath:  39%|█████████▋               | 12/31 [1:46:46<2:46:36, 526.11s/it]Load ECPath:  42%|██████████▍              | 13/31 [1:55:34<2:37:57, 526.53s/it]Load ECPath:  45%|███████████▎             | 14/31 [2:04:18<2:29:00, 525.92s/it]EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0501/C1D05010000050103001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0501/C1D05010000050112001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0501/C1D05011200050115001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0501/C1D05011200050200001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0502/C1D05020000050203001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0502/C1D05020000050212001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0502/C1D05021200050215001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0502/C1D05021200050300001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0503/C1D05030000050303001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0503/C1D05030000050312001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0503/C1D05031200050315001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0503/C1D05031200050400001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0504/C1D05040000050403001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0504/C1D05040000050412001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0504/C1D05041200050415001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0504/C1D05041200050500001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0505/C1D05050000050503001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0505/C1D05050000050512001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0505/C1D05051200050515001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0505/C1D05051200050600001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0506/C1D05060000050603001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0506/C1D05060000050612001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0506/C1D05061200050615001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0506/C1D05061200050700001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0507/C1D05070000050703001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0507/C1D05070000050712001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0507/C1D05071200050715001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0507/C1D05071200050800001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0508/C1D05080000050803001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0508/C1D05080000050812001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0508/C1D05081200050815001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0508/C1D05081200050900001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0509/C1D05090000050903001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0509/C1D05090000050912001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0509/C1D05091200050915001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0509/C1D05091200051000001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0510/C1D05100000051003001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0510/C1D05100000051012001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0510/C1D05101200051015001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0510/C1D05101200051100001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0511/C1D05110000051103001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0511/C1D05110000051112001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0511/C1D05111200051115001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0511/C1D05111200051200001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0512/C1D05120000051203001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0512/C1D05120000051212001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0512/C1D05121200051215001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0512/C1D05121200051300001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0513/C1D05130000051303001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0513/C1D05130000051312001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0513/C1D05131200051315001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0513/C1D05131200051400001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0514/C1D05140000051403001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0514/C1D05140000051412001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0514/C1D05141200051415001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0514/C1D05141200051500001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0516/C1D05160000051603001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0516/C1D05160000051612001
+-------over-one-------
+-------over-two-------Load ECPath:  52%|████████████▉            | 16/31 [2:13:03<1:51:42, 446.84s/it]Load ECPath:  55%|█████████████▋           | 17/31 [2:22:13<1:51:29, 477.82s/it]Load ECPath:  58%|██████████████▌          | 18/31 [2:31:34<1:48:54, 502.62s/it]Load ECPath:  65%|████████████████▏        | 20/31 [2:40:45<1:19:39, 434.53s/it]Load ECPath:  68%|████████████████▉        | 21/31 [2:49:41<1:17:31, 465.12s/it]Load ECPath:  71%|█████████████████▋       | 22/31 [2:58:41<1:13:06, 487.38s/it]Load ECPath:  74%|██████████████████▌      | 23/31 [3:07:50<1:07:28, 506.07s/it]Load ECPath:  77%|███████████████████▎     | 24/31 [3:17:20<1:01:15, 525.11s/it]Load ECPath:  81%|█████████████████████▊     | 25/31 [3:26:40<53:33, 535.53s/it]Load ECPath:  84%|██████████████████████▋    | 26/31 [3:35:25<44:21, 532.37s/it]Load ECPath:  87%|███████████████████████▌   | 27/31 [3:44:25<35:38, 534.70s/it]Load ECPath:  90%|████████████████████████▍  | 28/31 [3:53:30<26:53, 537.75s/it]Load ECPath:  94%|█████████████████████████▎ | 29/31 [4:02:27<17:54, 537.45s/it]Load ECPath:  97%|██████████████████████████▏| 30/31 [4:11:36<09:01, 541.01s/it]
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0516/C1D05161200051615001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0516/C1D05161200051700001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0517/C1D05170000051703001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0517/C1D05170000051712001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0517/C1D05171200051715001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0517/C1D05171200051800001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0518/C1D05180000051803001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0518/C1D05180000051812001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0518/C1D05181200051815001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0518/C1D05181200051900001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0520/C1D05200000052003001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0520/C1D05200000052012001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0520/C1D05201200052015001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0520/C1D05201200052100001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0521/C1D05210000052103001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0521/C1D05210000052112001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0521/C1D05211200052115001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0521/C1D05211200052200001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0522/C1D05220000052203001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0522/C1D05220000052212001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0522/C1D05221200052215001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0522/C1D05221200052300001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0523/C1D05230000052303001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0523/C1D05230000052312001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0523/C1D05231200052315001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0523/C1D05231200052400001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0524/C1D05240000052403001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0524/C1D05240000052412001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0524/C1D05241200052415001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0524/C1D05241200052500001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0525/C1D05250000052503001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0525/C1D05250000052512001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0525/C1D05251200052515001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0525/C1D05251200052600001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0526/C1D05260000052603001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0526/C1D05260000052612001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0526/C1D05261200052615001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0526/C1D05261200052700001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0527/C1D05270000052703001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0527/C1D05270000052712001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0527/C1D05271200052715001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0527/C1D05271200052800001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0528/C1D05280000052803001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0528/C1D05280000052812001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0528/C1D05281200052815001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0528/C1D05281200052900001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0529/C1D05290000052903001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0529/C1D05290000052912001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0529/C1D05291200052915001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0529/C1D05291200053000001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0530/C1D05300000053003001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0530/C1D05300000053012001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0530/C1D05301200053015001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0530/C1D05301200053100001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0531/C1D05310000053103001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0531/C1D05310000053112001
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_PATH_1: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0531/C1D05311200053115001
+EC_PATH_4: /mnt/pami14/DATASET/METEOROLOGY/ECMWF2018/2018-05/0531/C1D05311200060100001Load ECPath: 100%|███████████████████████████| 31/31 [4:20:33<00:00, 539.79s/it]
+Load StationWindows:   0%|                             | 0/1188 [00:00<?, ?it/s]Load StationWindows:   0%|                     | 2/1188 [00:00<01:01, 19.14it/s]Load StationWindows:   1%|▎                   | 15/1188 [00:00<00:45, 25.72it/s]Load StationWindows:   3%|▋                   | 38/1188 [00:00<00:32, 35.01it/s]Load StationWindows:   5%|▉                   | 59/1188 [00:00<00:24, 46.58it/s]Load StationWindows:   6%|█▎                  | 76/1188 [00:00<00:18, 59.36it/s]Load StationWindows:   8%|█▌                  | 93/1188 [00:00<00:14, 73.39it/s]Load StationWindows:   9%|█▋                 | 108/1188 [00:00<00:12, 86.59it/s]Load StationWindows:  10%|█▉                 | 123/1188 [00:00<00:10, 97.45it/s]Load StationWindows:  12%|██                | 138/1188 [00:00<00:09, 106.69it/s]Load StationWindows:  13%|██▎               | 153/1188 [00:01<00:09, 110.75it/s]Load StationWindows:  14%|██▌               | 167/1188 [00:01<00:09, 112.28it/s]Load StationWindows:  15%|██▋               | 181/1188 [00:01<00:08, 113.43it/s]Load StationWindows:  17%|███               | 205/1188 [00:01<00:07, 134.65it/s]Load StationWindows:  20%|███▌              | 234/1188 [00:01<00:05, 160.26it/s]Load StationWindows:  22%|███▉              | 256/1188 [00:01<00:05, 173.95it/s]Load StationWindows:  23%|████▏             | 277/1188 [00:01<00:05, 176.93it/s]Load StationWindows:  25%|████▌             | 297/1188 [00:01<00:05, 174.29it/s]Load StationWindows:  27%|████▊             | 316/1188 [00:01<00:05, 171.40it/s]Load StationWindows:  28%|█████             | 335/1188 [00:02<00:05, 160.88it/s]Load StationWindows:  30%|█████▎            | 352/1188 [00:02<00:05, 153.17it/s]Load StationWindows:  31%|█████▌            | 369/1188 [00:02<00:05, 146.51it/s]Load StationWindows:  32%|█████▊            | 385/1188 [00:02<00:05, 137.21it/s]Load StationWindows:  34%|██████            | 400/1188 [00:02<00:06, 130.51it/s]Load StationWindows:  35%|██████▎           | 414/1188 [00:02<00:06, 122.87it/s]Load StationWindows:  36%|██████▍           | 427/1188 [00:02<00:06, 115.66it/s]Load StationWindows:  37%|██████▋           | 439/1188 [00:02<00:06, 110.76it/s]Load StationWindows:  38%|██████▊           | 451/1188 [00:03<00:07, 104.79it/s]Load StationWindows:  39%|███████▍           | 462/1188 [00:03<00:07, 99.99it/s]Load StationWindows:  40%|███████▌           | 473/1188 [00:03<00:07, 96.68it/s]Load StationWindows:  41%|███████▋           | 483/1188 [00:03<00:07, 91.83it/s]Load StationWindows:  41%|███████▉           | 493/1188 [00:03<00:07, 87.59it/s]Load StationWindows:  42%|████████           | 502/1188 [00:03<00:08, 85.37it/s]Load StationWindows:  43%|████████▏          | 511/1188 [00:03<00:08, 79.81it/s]Load StationWindows:  44%|████████▎          | 520/1188 [00:03<00:08, 76.56it/s]Load StationWindows:  44%|████████▍          | 528/1188 [00:04<00:09, 72.56it/s]Load StationWindows:  45%|████████▌          | 536/1188 [00:04<00:09, 69.89it/s]Load StationWindows:  46%|████████▋          | 544/1188 [00:04<00:09, 68.81it/s]Load StationWindows:  46%|████████▊          | 551/1188 [00:04<00:09, 66.65it/s]Load StationWindows:  47%|████████▉          | 558/1188 [00:04<00:09, 64.73it/s]Load StationWindows:  48%|█████████          | 565/1188 [00:04<00:09, 63.37it/s]Load StationWindows:  48%|█████████▏         | 572/1188 [00:04<00:10, 60.65it/s]Load StationWindows:  49%|█████████▎         | 579/1188 [00:04<00:10, 58.00it/s]Load StationWindows:  49%|█████████▎         | 585/1188 [00:05<00:10, 57.37it/s]Load StationWindows:  50%|█████████▍         | 591/1188 [00:05<00:10, 56.62it/s]Load StationWindows:  50%|█████████▌         | 597/1188 [00:05<00:10, 55.35it/s]Load StationWindows:  51%|█████████▋         | 603/1188 [00:05<00:10, 54.27it/s]Load StationWindows:  51%|█████████▋         | 609/1188 [00:05<00:10, 53.41it/s]Load StationWindows:  52%|█████████▊         | 615/1188 [00:05<00:10, 52.43it/s]Load StationWindows:  52%|█████████▉         | 621/1188 [00:05<00:11, 49.68it/s]Load StationWindows:  53%|██████████         | 627/1188 [00:05<00:11, 49.46it/s]Load StationWindows:  53%|██████████         | 632/1188 [00:05<00:11, 49.41it/s]Load StationWindows:  54%|██████████▏        | 637/1188 [00:06<00:11, 49.43it/s]Load StationWindows:  54%|██████████▎        | 642/1188 [00:06<00:11, 49.21it/s]Load StationWindows:  54%|██████████▎        | 647/1188 [00:06<00:10, 49.23it/s]Load StationWindows:  55%|██████████▍        | 652/1188 [00:06<00:11, 48.19it/s]Load StationWindows:  55%|██████████▌        | 657/1188 [00:06<00:11, 46.51it/s]Load StationWindows:  56%|██████████▌        | 662/1188 [00:06<00:11, 44.49it/s]Load StationWindows:  56%|██████████▋        | 667/1188 [00:06<00:11, 44.93it/s]Load StationWindows:  57%|██████████▋        | 672/1188 [00:06<00:11, 45.56it/s]Load StationWindows:  57%|██████████▊        | 677/1188 [00:06<00:11, 46.04it/s]Load StationWindows:  58%|██████████▉        | 687/1188 [00:07<00:09, 54.20it/s]Load StationWindows:  59%|███████████▏       | 698/1188 [00:07<00:07, 63.23it/s]Load StationWindows:  60%|███████████▎       | 708/1188 [00:07<00:06, 70.92it/s]Load StationWindows:  60%|███████████▍       | 717/1188 [00:07<00:06, 75.56it/s]Load StationWindows:  61%|███████████▌       | 726/1188 [00:07<00:06, 76.03it/s]Load StationWindows:  62%|███████████▊       | 735/1188 [00:07<00:05, 79.39it/s]Load StationWindows:  63%|███████████▉       | 744/1188 [00:07<00:05, 81.64it/s]Load StationWindows:  63%|████████████       | 753/1188 [00:07<00:05, 81.85it/s]Load StationWindows:  64%|████████████▏      | 762/1188 [00:07<00:05, 81.57it/s]Load StationWindows:  65%|████████████▎      | 771/1188 [00:08<00:05, 80.58it/s]Load StationWindows:  66%|████████████▍      | 780/1188 [00:08<00:05, 80.44it/s]Load StationWindows:  66%|████████████▌      | 789/1188 [00:08<00:05, 78.07it/s]Load StationWindows:  67%|████████████▋      | 797/1188 [00:08<00:05, 72.35it/s]Load StationWindows:  68%|████████████▊      | 805/1188 [00:08<00:05, 72.54it/s]Load StationWindows:  68%|█████████████      | 813/1188 [00:08<00:05, 72.63it/s]Load StationWindows:  69%|█████████████▏     | 821/1188 [00:08<00:05, 73.07it/s]Load StationWindows:  70%|█████████████▎     | 829/1188 [00:08<00:04, 72.62it/s]Load StationWindows:  70%|█████████████▍     | 837/1188 [00:08<00:04, 71.16it/s]Load StationWindows:  71%|█████████████▌     | 845/1188 [00:09<00:04, 68.96it/s]Load StationWindows:  72%|█████████████▋     | 852/1188 [00:09<00:04, 67.55it/s]Load StationWindows:  72%|█████████████▋     | 859/1188 [00:09<00:04, 67.18it/s]Load StationWindows:  73%|█████████████▊     | 866/1188 [00:09<00:04, 66.02it/s]Load StationWindows:  73%|█████████████▉     | 873/1188 [00:09<00:04, 65.51it/s]Load StationWindows:  74%|██████████████     | 880/1188 [00:09<00:04, 65.83it/s]Load StationWindows:  75%|██████████████▏    | 887/1188 [00:09<00:04, 65.22it/s]Load StationWindows:  75%|██████████████▎    | 894/1188 [00:09<00:04, 63.88it/s]Load StationWindows:  76%|██████████████▍    | 901/1188 [00:09<00:04, 63.01it/s]Load StationWindows:  76%|██████████████▌    | 908/1188 [00:10<00:04, 60.90it/s]Load StationWindows:  77%|██████████████▋    | 915/1188 [00:10<00:04, 60.06it/s]Load StationWindows:  78%|██████████████▋    | 922/1188 [00:10<00:04, 60.14it/s]Load StationWindows:  78%|██████████████▊    | 929/1188 [00:10<00:04, 60.24it/s]Load StationWindows:  79%|██████████████▉    | 936/1188 [00:10<00:04, 59.16it/s]Load StationWindows:  79%|███████████████    | 942/1188 [00:10<00:04, 58.21it/s]Load StationWindows:  80%|███████████████▏   | 948/1188 [00:10<00:04, 57.84it/s]Load StationWindows:  80%|███████████████▎   | 954/1188 [00:10<00:04, 57.15it/s]Load StationWindows:  81%|███████████████▎   | 960/1188 [00:10<00:04, 56.52it/s]Load StationWindows:  81%|███████████████▍   | 966/1188 [00:11<00:03, 56.03it/s]Load StationWindows:  82%|███████████████▌   | 972/1188 [00:11<00:03, 55.95it/s]Load StationWindows:  82%|███████████████▋   | 978/1188 [00:11<00:03, 55.09it/s]Load StationWindows:  83%|███████████████▋   | 984/1188 [00:11<00:03, 54.43it/s]Load StationWindows:  83%|███████████████▊   | 990/1188 [00:11<00:03, 53.80it/s]Load StationWindows:  84%|███████████████▉   | 996/1188 [00:11<00:03, 53.24it/s]Load StationWindows:  84%|███████████████▏  | 1002/1188 [00:11<00:03, 47.92it/s]Load StationWindows:  85%|███████████████▎  | 1007/1188 [00:11<00:03, 48.43it/s]Load StationWindows:  85%|███████████████▎  | 1012/1188 [00:12<00:03, 48.56it/s]Load StationWindows:  86%|███████████████▍  | 1017/1188 [00:12<00:03, 48.77it/s]Load StationWindows:  86%|███████████████▍  | 1022/1188 [00:12<00:03, 46.10it/s]Load StationWindows:  86%|███████████████▌  | 1027/1188 [00:12<00:03, 45.97it/s]Load StationWindows:  87%|███████████████▋  | 1032/1188 [00:12<00:03, 45.89it/s]Load StationWindows:  87%|███████████████▋  | 1037/1188 [00:12<00:03, 45.43it/s]Load StationWindows:  88%|███████████████▊  | 1042/1188 [00:12<00:03, 45.05it/s]Load StationWindows:  88%|███████████████▊  | 1047/1188 [00:12<00:03, 45.57it/s]Load StationWindows:  89%|███████████████▉  | 1052/1188 [00:12<00:02, 45.78it/s]Load StationWindows:  89%|████████████████  | 1057/1188 [00:13<00:02, 45.63it/s]Load StationWindows:  89%|████████████████  | 1062/1188 [00:13<00:02, 44.93it/s]Load StationWindows:  90%|████████████████▏ | 1067/1188 [00:13<00:02, 44.55it/s]Load StationWindows:  90%|████████████████▏ | 1072/1188 [00:13<00:02, 43.83it/s]Load StationWindows:  91%|████████████████▎ | 1077/1188 [00:13<00:02, 43.29it/s]Load StationWindows:  91%|████████████████▍ | 1082/1188 [00:13<00:02, 43.28it/s]Load StationWindows:  91%|████████████████▍ | 1087/1188 [00:13<00:02, 42.78it/s]Load StationWindows:  92%|████████████████▌ | 1092/1188 [00:13<00:02, 43.02it/s]Load StationWindows:  92%|████████████████▌ | 1097/1188 [00:13<00:02, 42.65it/s]Load StationWindows:  93%|████████████████▋ | 1102/1188 [00:14<00:02, 42.77it/s]Load StationWindows:  93%|████████████████▊ | 1107/1188 [00:14<00:01, 41.67it/s]Load StationWindows:  94%|████████████████▊ | 1112/1188 [00:14<00:01, 41.04it/s]Load StationWindows:  94%|████████████████▉ | 1117/1188 [00:14<00:01, 40.49it/s]Load StationWindows:  94%|█████████████████ | 1122/1188 [00:14<00:01, 40.49it/s]Load StationWindows:  95%|█████████████████ | 1127/1188 [00:14<00:01, 40.34it/s]Load StationWindows:  95%|█████████████████▏| 1132/1188 [00:14<00:01, 40.66it/s]Load StationWindows:  96%|█████████████████▏| 1137/1188 [00:14<00:01, 40.43it/s]Load StationWindows:  96%|█████████████████▎| 1142/1188 [00:15<00:01, 40.35it/s]Load StationWindows:  97%|█████████████████▍| 1147/1188 [00:15<00:01, 39.43it/s]Load StationWindows:  97%|█████████████████▍| 1151/1188 [00:15<00:00, 38.92it/s]Load StationWindows:  97%|█████████████████▌| 1155/1188 [00:15<00:00, 39.03it/s]Load StationWindows:  98%|█████████████████▌| 1159/1188 [00:15<00:00, 38.55it/s]Load StationWindows:  98%|█████████████████▌| 1163/1188 [00:15<00:00, 38.73it/s]Load StationWindows:  98%|█████████████████▋| 1167/1188 [00:15<00:00, 38.60it/s]Load StationWindows:  99%|█████████████████▋| 1171/1188 [00:15<00:00, 38.77it/s]Load StationWindows:  99%|█████████████████▊| 1175/1188 [00:15<00:00, 37.84it/s]Load StationWindows:  99%|█████████████████▊| 1179/1188 [00:16<00:00, 37.40it/s]Load StationWindows: 100%|█████████████████▉| 1183/1188 [00:16<00:00, 36.11it/s]Load StationWindows: 100%|█████████████████▉| 1187/1188 [00:16<00:00, 35.81it/s]Load StationWindows: 100%|██████████████████| 1188/1188 [00:16<00:00, 72.89it/s]
+Load One Data:   0%|                                     | 0/82 [00:00<?, ?it/s]Load One Data:   1%|▎                            | 1/82 [00:02<02:57,  2.20s/it]Load One Data:   2%|▋                            | 2/82 [00:02<02:11,  1.65s/it]Load One Data:   5%|█▍                           | 4/82 [00:02<01:31,  1.17s/it]Load One Data:   6%|█▊                           | 5/82 [00:03<01:20,  1.05s/it]Load One Data:   9%|██▍                          | 7/82 [00:06<01:27,  1.16s/it]Load One Data:  10%|██▊                          | 8/82 [00:07<01:22,  1.12s/it]Load One Data:  11%|███▏                         | 9/82 [00:07<00:59,  1.22it/s]Load One Data:  12%|███▍                        | 10/82 [00:11<02:02,  1.70s/it]Load One Data:  13%|███▊                        | 11/82 [00:12<01:56,  1.64s/it]Load One Data:  15%|████                        | 12/82 [00:13<01:28,  1.27s/it]Load One Data:  16%|████▍                       | 13/82 [00:16<02:06,  1.83s/it]Load One Data:  17%|████▊                       | 14/82 [00:17<02:02,  1.81s/it]Load One Data:  18%|█████                       | 15/82 [00:18<01:36,  1.44s/it]Load One Data:  20%|█████▍                      | 16/82 [00:20<01:51,  1.69s/it]Load One Data:  21%|█████▊                      | 17/82 [00:21<01:30,  1.39s/it]Load One Data:  22%|██████▏                     | 18/82 [00:21<01:08,  1.07s/it]Load One Data:  23%|██████▍                     | 19/82 [00:23<01:17,  1.22s/it]Load One Data:  24%|██████▊                     | 20/82 [00:24<01:05,  1.06s/it]Load One Data:  27%|███████▌                    | 22/82 [00:26<01:04,  1.07s/it]Load One Data:  28%|███████▊                    | 23/82 [00:27<01:05,  1.11s/it]Load One Data:  29%|████████▏                   | 24/82 [00:28<00:56,  1.03it/s]Load One Data:  30%|████████▌                   | 25/82 [00:32<01:50,  1.94s/it]Load One Data:  32%|████████▉                   | 26/82 [00:33<01:30,  1.62s/it]Load One Data:  34%|█████████▌                  | 28/82 [00:35<01:17,  1.44s/it]Load One Data:  35%|█████████▉                  | 29/82 [00:35<00:59,  1.12s/it]Load One Data:  38%|██████████▌                 | 31/82 [00:36<00:46,  1.09it/s]Load One Data:  39%|██████████▉                 | 32/82 [00:36<00:35,  1.42it/s]Load One Data:  41%|███████████▌                | 34/82 [00:37<00:26,  1.83it/s]Load One Data:  43%|███████████▉                | 35/82 [00:37<00:20,  2.24it/s]Load One Data:  45%|████████████▋               | 37/82 [00:38<00:18,  2.41it/s]Load One Data:  46%|████████████▉               | 38/82 [00:38<00:18,  2.38it/s]Load One Data:  49%|█████████████▋              | 40/82 [00:40<00:22,  1.83it/s]Load One Data:  50%|██████████████              | 41/82 [00:40<00:20,  2.03it/s]Load One Data:  52%|██████████████▋             | 43/82 [00:41<00:18,  2.08it/s]Load One Data:  54%|███████████████             | 44/82 [00:42<00:20,  1.84it/s]Load One Data:  56%|███████████████▋            | 46/82 [00:44<00:27,  1.30it/s]Load One Data:  57%|████████████████            | 47/82 [00:45<00:26,  1.33it/s]Load One Data:  59%|████████████████▍           | 48/82 [00:45<00:19,  1.72it/s]Load One Data:  60%|████████████████▋           | 49/82 [00:49<00:48,  1.48s/it]Load One Data:  61%|█████████████████           | 50/82 [00:50<00:43,  1.37s/it]Load One Data:  63%|█████████████████▊          | 52/82 [00:55<00:51,  1.72s/it]Load One Data:  65%|██████████████████          | 53/82 [00:55<00:37,  1.31s/it]Load One Data:  66%|██████████████████▍         | 54/82 [00:55<00:26,  1.05it/s]Load One Data:  67%|██████████████████▊         | 55/82 [00:56<00:26,  1.04it/s]Load One Data:  68%|███████████████████         | 56/82 [00:56<00:18,  1.38it/s]Load One Data:  71%|███████████████████▊        | 58/82 [00:57<00:14,  1.65it/s]Load One Data:  72%|████████████████████▏       | 59/82 [00:58<00:12,  1.79it/s]Load One Data:  74%|████████████████████▊       | 61/82 [01:00<00:15,  1.39it/s]Load One Data:  76%|█████████████████████▏      | 62/82 [01:00<00:13,  1.47it/s]Load One Data:  78%|█████████████████████▊      | 64/82 [01:02<00:13,  1.35it/s]Load One Data:  79%|██████████████████████▏     | 65/82 [01:03<00:11,  1.45it/s]Load One Data:  82%|██████████████████████▉     | 67/82 [01:04<00:11,  1.36it/s]Load One Data:  83%|███████████████████████▏    | 68/82 [01:05<00:08,  1.62it/s]Load One Data:  85%|███████████████████████▉    | 70/82 [01:05<00:06,  1.93it/s]Load One Data:  87%|████████████████████████▏   | 71/82 [01:06<00:04,  2.35it/s]Load One Data:  89%|████████████████████████▉   | 73/82 [01:06<00:03,  2.46it/s]Load One Data:  90%|█████████████████████████▎  | 74/82 [01:07<00:03,  2.19it/s]Load One Data:  93%|█████████████████████████▉  | 76/82 [01:09<00:03,  1.74it/s]Load One Data:  94%|██████████████████████████▎ | 77/82 [01:10<00:03,  1.40it/s]Load One Data:  96%|██████████████████████████▉ | 79/82 [01:13<00:03,  1.02s/it]Load One Data: 100%|████████████████████████████| 82/82 [01:13<00:00,  1.11it/s]
+
+-------over-one-------
+-------over-two-------
+-------over-three-------
+-------over-four-------
+min_channel: 54
+EC_FEATURES_STATIONS: (1188, 87, 57, 19, 19)
+EC_FEATURES_ALL_SEQUENCE: 82
+MONTH_PATH_NAME: 4-seq201805
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050300.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050318.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050321.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050400.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050418.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050421.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050500.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050518.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050521.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050600.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050618.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050621.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050700.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050718.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050721.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050800.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050818.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050821.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050900.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050918.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805050921.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051000.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051018.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051021.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051100.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051118.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051121.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051200.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051218.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051221.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051300.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051318.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051321.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051400.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051418.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051421.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051500.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051618.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051621.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051700.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051718.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051721.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051800.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051818.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051821.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805051900.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052018.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052021.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052100.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052118.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052121.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052200.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052218.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052221.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052300.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052318.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052321.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052400.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052418.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052421.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052500.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052518.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052521.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052600.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052618.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052621.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052700.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052718.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052721.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052800.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052818.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052821.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052900.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052918.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805052921.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805053000.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805053018.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805053021.pkl
+PKL_NAME: /mnt/pami14/yqliu/biasCorrection/18ts_dataset_prep/4-seq201805/201805053100.pkl
+closed micaps File is not exist!
+closed micaps File is not exist!
+closed micaps File is not exist!
+TOTALsamples: 51064
+RAINsamples: 6694
+RAINLESSsamples: 0
