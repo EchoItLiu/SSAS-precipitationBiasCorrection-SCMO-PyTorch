@@ -23,7 +23,7 @@ class modalGribDataset(data.Dataset):
         self.isTrain = isTrain        
         self.rainOneHotClass = np.eye(2).astype(np.float32)  
         self.transformer = transform
-        ##
+        ## training
         self.trainTestFileSplit(split) 
         self.loadCropData()
                
