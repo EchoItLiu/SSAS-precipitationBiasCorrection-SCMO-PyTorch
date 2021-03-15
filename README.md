@@ -1,4 +1,4 @@
-# SSAS: Spatiotemporal Scale Adaptive Selection for Improving Bias Correction on Precipitation (Continue to be updated)
+# SSAS: Spatiotemporal Scale Adaptive Selection for Improving Bias Correction on Precipitation (continue to be updated)
   We developed a novel deep-learning-based model for postprocessing the precipitation numerical forecasting called Spatiotemporal Scale Adaptive Selection.
 
 ![image](./docs/framework.png)
