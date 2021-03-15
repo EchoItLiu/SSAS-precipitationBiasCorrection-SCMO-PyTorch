@@ -56,8 +56,11 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 ```bibtex
 xxx
 ```
-## Demo
+## Qualitative results
+### Predictions of Lekima typhoon
 ![image](./demo/Fudan_leki.gif)
+### Real-time systems on Shanghai Central Meteorology Observatory (SCMO)
 ![image](./demo/demo2.jpg)
+### Results of bias correction
 ![image](./demo/EC_OBA.png)
 
