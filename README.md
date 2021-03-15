@@ -58,6 +58,6 @@ xxx
 ```
 ## Demo
 ![image](./demo/example.gif)
-![image](./demo/ec_demo.png)
+![image](./demo/ec_demo.jpg)
 ![image](./demo/FudanI.png)
 
