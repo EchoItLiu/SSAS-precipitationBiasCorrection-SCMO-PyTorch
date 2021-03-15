@@ -31,7 +31,7 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 
 6: LSTM (ConvLSTM)
 
-7: MLR
+7: MLR (ANN)
 
 8: LR
 
@@ -49,7 +49,6 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 
 15: DA-RNN
 
-16: ANN(MLP)
 
 ## Citation
 
