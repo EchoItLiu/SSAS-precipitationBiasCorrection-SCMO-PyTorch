@@ -4,7 +4,7 @@ import numpy as np
 from torch.nn import functional as F
 
 """
- 目前分类器基本上都拟合成有雨分类器，所以需要加入一些无雨的样本来解决过拟合     
+ xxx    
 """
 ##Rain Focal Loss
 klLoss = nn.KLDivLoss()
