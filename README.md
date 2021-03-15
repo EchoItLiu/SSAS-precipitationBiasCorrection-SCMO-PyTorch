@@ -15,7 +15,7 @@ python -m torch.distributed.launch --nproc_per_node=<NODE NUM> --master_port=<PO
 E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --master_port=88889 main.py -d 7 8 -m 0 -c ./config/SHO.yaml
 ```
 
-## <SNM ID> -> select the corresponding ID to run the model listed below. 
+## <SNM ID> -> select the ID of model listed below, and then remove the corresponding comment line in run.sh to run the corrector. 
   
 0: SSAS
 
