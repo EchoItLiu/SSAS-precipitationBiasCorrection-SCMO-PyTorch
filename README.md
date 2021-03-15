@@ -58,6 +58,6 @@ xxx
 ```
 ## Demo
 ![image](./demo/Fudan_leki.gif)
-![image](./demo/ec_demo.jpg)
-![image](./demo/FudanI.png)
+![image](./demo/demo2.jpg)
+![image](./demo/EC_OBA.png)
 
