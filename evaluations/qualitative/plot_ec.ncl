@@ -4,6 +4,7 @@ load "/home/yqliu/miniconda3/pkgs/ncl-6.6.2-h297df27_19/lib/ncarg/nclscripts/wrf
 load "/home/yqliu/miniconda3/pkgs/ncl-6.6.2-h297df27_19/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl"
 load "/home/yqliu/miniconda3/pkgs/ncl-6.6.2-h297df27_19/lib/ncarg/nclscripts/csm/contributed.ncl"
 
+;starting
 begin
 ;rain0=fbindirread("081112",0,(/125*77/),"float")  ;fbindirread(fname,0,(/nt*ny*nx/),"float"))
 ;rain=reshape(rain0(:),(/125,77/))
