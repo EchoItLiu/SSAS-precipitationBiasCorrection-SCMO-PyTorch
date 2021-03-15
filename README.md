@@ -7,7 +7,7 @@
 [[ERA5](https://xxx.github.io/xxx/)]
 
 ## Useage
- We provide run.sh (bash run.sh) to train and test the specified precipitation corrector according to assign the <SNM ID>.
+ We provide run.sh (bash run.sh) to train and test the specified precipitation corrector according to assign the ``SNM ID''.
 ```python
 python -m torch.distributed.launch --nproc_per_node=<NODE NUM> --master_port=<PORT ID> main.py -d <GPU ID> -m <SNM ID> -c ./config/SHO.yaml
 ```
