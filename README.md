@@ -55,7 +55,7 @@ E.G. when runing SSAS: python -m torch.distributed.launch --nproc_per_node=2 --m
 ## Citation
 
 ```bibtex
-xxx
+to be added...
 ```
 ## Qualitative results
 ### Predictions of Lekima typhoon
